@@ -7,6 +7,13 @@ Team Members: Charlotte, Farah, Helen, Kassem, Prerna
 The aim of our project is to uncover patterns in games across multiple platforms
 relating to gender representation within modern day games. 
 
+### Our Datasets
+
+[Charecter data](Resources/characters.grivg.csv)
+[Game data](Resources/games.grivg.csv)
+[sexulisation data](Resources/sexualization.grivg.csv)
+
+
 # Process Map
 
 Group Project 2 Process map of actions:
