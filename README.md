@@ -9,9 +9,9 @@ relating to gender representation within modern day games.
 
 ### Our Datasets
 
-[Charecter data](Resources/characters.grivg.csv)
-[Game data](Resources/games.grivg.csv)
-[sexulisation data](Resources/sexualization.grivg.csv)
+[Charecter data](Resources/characters.grivg.csv),
+[Game data](Resources/games.grivg.csv),
+[sexulisation data](Resources/sexualization.grivg.csv),
 
 
 # Process Map
