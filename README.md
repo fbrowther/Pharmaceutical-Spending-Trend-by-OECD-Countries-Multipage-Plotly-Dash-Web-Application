@@ -1,10 +1,13 @@
 # Project-2
 
-Team Members: Charlotte, Farah, Helen, Kassem, Prerna
+##Team Members: Charlotte, Farah, Helen, Kassem, Prerna
 
 # Gender Representation in Video Games
 
-Main relationship between the data set is chareter i.d = sexulaisation.i.d
+The aim of our project is to uncover patterns in games across multiple platforms
+relating to gender representation within modern day games. 
+
+##Process Map
 
 (past link to process visual.....)
 
