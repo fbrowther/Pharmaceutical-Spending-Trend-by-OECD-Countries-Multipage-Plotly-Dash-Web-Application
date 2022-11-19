@@ -9,9 +9,9 @@ relating to gender representation within modern day games.
 
 ### Our Datasets
 
-[Charecter data](Resources/characters.grivg.csv),
-[Game data](Resources/games.grivg.csv),
-[Sexulisation data](Resources/sexualization.grivg.csv),
+[Charecter data](Resources/characters.grivg.csv)  
+[Game data](Resources/games.grivg.csv)  
+[Sexulisation data](Resources/sexualization.grivg.csv)  
 
 # Process Map
 
@@ -44,7 +44,8 @@ together and on our respective parts using Team as the platform.
 ![Teams](images/teams.png)
 
 # The Project
-•    We created workload and separated then between the group and set deadline for review so that we had a realistic timeline to complete the project.
+We created workload and separated then between the group and set deadline for review so
+that we had a realistic timeline to complete the project.  
 
 o  Project ideation  
 o    Data fetching  
