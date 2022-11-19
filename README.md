@@ -21,4 +21,4 @@ Group Project 2 Process map of actions:
 
 ![plot](Process Map/Colorful Process Prjt 2.png)
 
-(Colorful Process Prjt 2.png)
+[Process Visual](Colorful Process Prjt 2.png)
