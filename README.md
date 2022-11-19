@@ -4,6 +4,8 @@
 
 # Gender Representation in Video Games
 
+![Games Logo](images/console-logos.png)
+
 The aim of our project is to uncover patterns in games across multiple platforms
 relating to gender representation within modern day games. 
 
