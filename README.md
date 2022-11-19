@@ -29,9 +29,26 @@ Attached is the schemata used in our final database:
 
 ![Schema](images/Schema.png)
 
+#Group Communication
+
+To be able to complete this project effectively we ensure we had communication within our 
+group. We put in place a few mediums firstly being opening a slack channel just with our 
+group members in it.
 
 ![Slack](images/slack.png)
 
+Secondly we also created a WhatsApp group again just with our group members init which we 
+discuss the project during working hours and we also booked in extra session where we work 
+together and on our respective parts using Team as the platform.
+
 ![Teams](images/teams.png)
 
-![Whatapp](images/whatapp.png)
+
+•    We created workload and separated then between the group and set deadline for review so that we had a realistic timeline to complete the project.
+
+o  Project ideation
+o    Data fetching
+o    Data analysis
+o    Cleaning & Transforming
+o    Data loading into final database
+o    Creating documentation (Technical report and Project Visuals)
