@@ -23,9 +23,15 @@ Group Project 2 Process map of actions:
 
 # The schemata
 
-Attached is the schemata used in our final database,
+Attached is the schemata used in our final database:
 
-[schemata](https://github.com/kass173/Project-2/blob/main/Gen_Rep_%20Games.sql).
+[Schemata](https://github.com/kass173/Project-2/blob/main/Gen_Rep_%20Games.sql).
 
 ![Schema](images/Schema.png)
 
+
+![Slack](images/slack.png)
+
+![Whatapp](images/whatapp.png)
+
+![Teams](images/teams.png)
