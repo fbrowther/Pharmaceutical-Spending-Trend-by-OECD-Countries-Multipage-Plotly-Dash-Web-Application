@@ -1,6 +1,6 @@
 # Project-2
 
-Team Members: Charlotte, Farah, Helen, Kassem, Prerna
+## Team Members: Charlotte, Farah, Helen, Kassem, Prerna
 
 # Gender Representation in Video Games
 
@@ -15,7 +15,7 @@ relating to gender representation within modern day games.
 
 # Process Map
 
-Group Project 2 Process map of actions:
+### Group Project 2 Process map of actions:
 
 [Process Map](https://github.com/kass173/Project-2/blob/main/Process%20Map/Colorful%20Process%20Prjt%202.png)
 
@@ -29,7 +29,7 @@ Attached is the schemata used in our final database:
 
 ![Schema](images/Schema.png)
 
-#Group Communication
+# Group Communication
 
 To be able to complete this project effectively we ensure we had communication within our 
 group. We put in place a few mediums firstly being opening a slack channel just with our 
@@ -43,12 +43,12 @@ together and on our respective parts using Team as the platform.
 
 ![Teams](images/teams.png)
 
-
+# The Project
 •    We created workload and separated then between the group and set deadline for review so that we had a realistic timeline to complete the project.
 
-o  Project ideation
-o    Data fetching
-o    Data analysis
-o    Cleaning & Transforming
-o    Data loading into final database
+o  Project ideation  
+o    Data fetching  
+o    Data analysis  
+o    Cleaning & Transforming  
+o    Data loading into final database  
 o    Creating documentation (Technical report and Project Visuals)
