@@ -9,7 +9,10 @@ relating to gender representation within modern day games.
 
 ##Process Map
 
-(past link to process visual.....)
+![Project 2 Process Map](Process Map/Colorful Process Prjt 2.png)
+
+
+
 
 
 
