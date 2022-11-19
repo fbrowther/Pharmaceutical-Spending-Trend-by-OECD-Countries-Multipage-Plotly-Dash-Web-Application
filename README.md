@@ -11,7 +11,7 @@ relating to gender representation within modern day games.
 
 [Charecter data](Resources/characters.grivg.csv),
 [Game data](Resources/games.grivg.csv),
-[sexulisation data](Resources/sexualization.grivg.csv),
+[Sexulisation data](Resources/sexualization.grivg.csv),
 
 # Process Map
 
@@ -25,5 +25,4 @@ Group Project 2 Process map of actions:
 
 # The schemata
 
-Attached is the schemata used in our final database,
-[Schemata](Gen_Rep_ Games.sql)
+Attached is the schemata used in our final database,[Schemata](Gen_Rep_ Games.sql).
