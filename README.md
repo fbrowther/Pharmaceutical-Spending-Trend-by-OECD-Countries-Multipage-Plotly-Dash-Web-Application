@@ -13,7 +13,6 @@ relating to gender representation within modern day games.
 [Game data](Resources/games.grivg.csv),
 [sexulisation data](Resources/sexualization.grivg.csv),
 
-
 # Process Map
 
 Group Project 2 Process map of actions:
@@ -22,4 +21,4 @@ Group Project 2 Process map of actions:
 
 ![plot](Process Map/Colorful Process Prjt 2.png)
 
-
+(Colorful Process Prjt 2.png)
