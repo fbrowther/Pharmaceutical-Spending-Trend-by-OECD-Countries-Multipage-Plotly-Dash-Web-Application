@@ -25,4 +25,5 @@ Group Project 2 Process map of actions:
 
 # The schemata
 
-Attached is the schemata used in our final database [Schemata](Gen_Rep_ Games.sql)
+Attached is the schemata used in our final database,
+[Schemata](Gen_Rep_ Games.sql)
