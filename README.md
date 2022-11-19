@@ -32,6 +32,6 @@ Attached is the schemata used in our final database:
 
 ![Slack](images/slack.png)
 
-![Whatapp](images/whatapp.png)
-
 ![Teams](images/teams.png)
+
+![Whatapp](images/whatapp.png)
