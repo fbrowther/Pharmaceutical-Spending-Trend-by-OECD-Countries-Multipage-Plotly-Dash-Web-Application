@@ -17,8 +17,8 @@ relating to gender representation within modern day games.
 
 Group Project 2 Process map of actions:
 
-![Project 2 Process Map](Process Map/Colorful Process Prjt 2.png)
+![Project 2 Process Map](/Process Map/Colorful Process Prjt 2.png)
 
-![plot](Process Map/Colorful Process Prjt 2.png)
+![plot](/Process Map/Colorful Process Prjt 2.png)
 
-![Process Visual](Colorful Process Prjt 2.png)
+![Process Visual](/Colorful Process Prjt 2.png)
