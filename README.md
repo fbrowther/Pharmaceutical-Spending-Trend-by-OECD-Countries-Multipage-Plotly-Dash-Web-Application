@@ -6,8 +6,9 @@
 
 ![Games Logo](images/console-logos.png)
 
-The aim of our project is to uncover patterns in games across multiple platforms
-relating to gender representation within modern day games. 
+The aim of our project is to use the ETL process to clean a dataset relating to the topic 
+to uncover gender patterns in games across multiple platforms relating to gender
+representation within modern day games. 
 
 ### Our Datasets
 
