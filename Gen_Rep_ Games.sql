@@ -19,7 +19,8 @@ Romantic_Interest VARCHAR
 );
 	
 
-SELECT * FROM characters; 						 			
+SELECT * FROM characters; 	
+
 CREATE TABLE games (
 Game_ID VARCHAR PRIMARY KEY,
 Title VARCHAR,
@@ -37,23 +38,23 @@ Protagonist INT,
 Protagonist_Non_Male INT, 
 Relevant_males INT,
 Relevant_no_males INT, 
-Percentage_non_male INT, 
+Percentage_non_male VARCHAR, 
 Criteria VARCHAR, 
 Director VARCHAR,
 Total_team INT,
 female_team INT, 
-Team_percentage INT, 
-Metacritic DECIMAL, 
-Destructoid DECIMAL, 
-IGN	DECIMAL,
-GameSpot DECIMAL,
-Avg_Reviews DECIMAL
+Team_percentage VARCHAR, 
+Metacritic FLOAT, 
+Destructoid FLOAT, 
+IGN	FLOAT,
+GameSpot FLOAT,
+Avg_Reviews Float
 );
 
 SELECT * FROM games; 
 
 CREATE TABLE Sexualization (
-ID INT PRIMARY KEY,
+ID VARCHAR PRIMARY KEY,
 Sexualized_clothing BOOLEAN, 
 Trophy BOOLEAN,
 Damsel_in_Distress BOOLEAN, 
