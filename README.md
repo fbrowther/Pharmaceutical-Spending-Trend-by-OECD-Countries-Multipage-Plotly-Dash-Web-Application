@@ -17,6 +17,10 @@ relating to gender representation within modern day games.
 
 Group Project 2 Process map of actions:
 
+[Process Map](images/Colorful Process Prjt 2.png)
+
+[Process Map](https://github.com/kass173/Project-2/blob/main/Process%20Map/Colorful%20Process%20Prjt%202.png)
+
 ![Project 2 Process Map](/Process Map/Colorful Process Prjt 2.png)
 
 ![plot](/Process Map/Colorful Process Prjt 2.png)
@@ -25,4 +29,6 @@ Group Project 2 Process map of actions:
 
 # The schemata
 
-Attached is the schemata used in our final database,[Schemata](Gen_Rep_ Games.sql).
+Attached is the schemata used in our final database,[Schemata](Gen_Rep_ Games.sql) 
+[schemata](https://github.com/kass173/Project-2/blob/main/Gen_Rep_%20Games.sql).
+
