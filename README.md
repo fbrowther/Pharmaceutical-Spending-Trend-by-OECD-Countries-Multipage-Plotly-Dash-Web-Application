@@ -28,7 +28,7 @@ representation within modern day video games.
 
 Attached is the schema used in our final database and our final databased will be of a relational database structure containing data organised into tables:
 
-[Schemata](https://github.com/kass173/Project-2/blob/main/Gen_Rep_%20Games.sql).
+[Schema](https://github.com/kass173/Project-2/blob/main/Gen_Rep_%20Games.sql).
 
 ![Schema](images/Schema.png)
 
@@ -60,3 +60,10 @@ o    Data analysis
 o    Cleaning & Transforming  
 o    Data loading into final database  
 o    Creating documentation (Technical report and Project Visuals)
+
+
+# Final Database
+
+Find attached a link to our final clean load.  
+
+[Final SQL Database](https://github.com/kass173/Project-2/blob/main/Gen_Rep_%20Games.sql).
