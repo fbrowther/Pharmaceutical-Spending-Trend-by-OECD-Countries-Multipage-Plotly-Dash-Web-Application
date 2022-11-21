@@ -41,10 +41,13 @@ group members.
 ![Slack](images/slack.png)
 
 Secondly, we also created a WhatsApp group again just with our group members init which we 
-discuss the project during working hours and we also booked in extra session where we work 
-together and on our respective parts using Team as the platform.
+discuss the project during our working and personal hours.  
  
 ![Whatsapp](images/whatsapp.png).  
+
+Lastly, to enable us to work together and collaborate effectivly. 
+We also booked in extra session where we work together and on our respective parts using Team as the platform.  
+
 ![Teams](images/teams.png).  
 
 # The Project
