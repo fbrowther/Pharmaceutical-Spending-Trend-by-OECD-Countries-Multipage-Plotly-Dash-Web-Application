@@ -45,7 +45,7 @@ discuss the project during working hours and we also booked in extra session whe
 together and on our respective parts using Team as the platform.
 
 ![Teams](images/teams.png). 
-![Whatsapp](images/whatsapp.png)
+![Whatsapp](images/whatsapp.png). 
 
 # The Project
 We created workload and separated then between the group and set deadline for review so
