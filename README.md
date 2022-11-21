@@ -26,7 +26,7 @@ representation within modern day video games.
 
 # The schema
 
-Attached is the schema used in our final database:
+Attached is the schema used in our final database and our final databased will be of a relational database structure containing data organised into tables:
 
 [Schemata](https://github.com/kass173/Project-2/blob/main/Gen_Rep_%20Games.sql).
 
