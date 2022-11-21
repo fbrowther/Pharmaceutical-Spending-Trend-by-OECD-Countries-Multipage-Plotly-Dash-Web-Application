@@ -51,10 +51,10 @@ We also booked in extra session where we work together and on our respective par
 ![Teams](images/teams.png).  
 
 # The Project
-We created workload and separated then between the group and set deadline for review so
-that we had a realistic timeline to complete the project.  
+For the main project we created a list of the items we needed to complete and shared the workload between the group and set deadline for review so
+we had a realistic timeline to complete the project as well as safeguard by having regular reviews.  
 
-o  Project ideation  
+o    Project ideation  
 o    Data fetching  
 o    Data analysis  
 o    Cleaning & Transforming  
