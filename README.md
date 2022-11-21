@@ -44,7 +44,7 @@ Secondly, we also created a WhatsApp group again just with our group members ini
 discuss the project during working hours and we also booked in extra session where we work 
 together and on our respective parts using Team as the platform.
 
-![Teams](images/teams.png)
+![Teams](images/teams.png). 
 ![Whatsapp](images/whatsapp.png)
 
 # The Project
