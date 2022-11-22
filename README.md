@@ -32,6 +32,8 @@ Attached is the schema used in our final database and our final databased will b
 
 ![Schema](images/Schema.png)
 
+![ERD] (ERD_Project_2.PNG)
+
 # Group Communication
 
 To be able to complete this project effectively, we ensure we had effective communication within our 
