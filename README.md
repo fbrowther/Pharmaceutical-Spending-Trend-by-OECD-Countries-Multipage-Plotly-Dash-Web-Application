@@ -75,6 +75,7 @@ The Entity relationship diagram that show how our data between the datasets is i
 
 # Final Database
 
-Find attached a link to our final clean load.  
+Find attached a link to our final SQL database and the Jupyter files for cleaning our dataset prior to the load.
 
-[Final SQL Database](https://github.com/kass173/Project-2/blob/main/Gen_Rep_%20Games.sql).
+[Jupyter Data Clean File] (Final_jupytercode.ipynb).  
+[Final SQL Database](https://github.com/kass173/Project-2/blob/main/final_sequeldatabase.sql).
