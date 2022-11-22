@@ -32,7 +32,7 @@ Attached is the schema used in our final database and our final databased will b
 
 ![Schema](images/Schema.png)
 
-![ERD] (images/ERD.png)
+![ERD] (images/https://github.com/kass173/Project-2/blob/main/images/ERD.png)
 
 # Group Communication
 
