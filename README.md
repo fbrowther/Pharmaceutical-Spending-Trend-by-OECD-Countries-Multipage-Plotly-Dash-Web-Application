@@ -10,6 +10,13 @@ The aim of our project is to use the ETL process to clean a dataset relating to 
 of uncovering gender patterns in video games across multiple platforms focusing on gender
 representation within modern day video games. 
 
+### Data Sources
+
+We found and used three datasets that focused on gender representation within modern day video games, sourced from Kaggle.com & diamondlobby.com. These datasets were games data, character data & sexualisation info.
+
+![image](https://user-images.githubusercontent.com/111521804/203437788-8deba086-919a-49d7-9ce7-7e9377cd26d7.png)
+
+
 ### Our Datasets
 
 [Charecter data](Resources/characters.grivg.csv)  
