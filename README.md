@@ -10,6 +10,17 @@ The aim of our project is to use the ETL process to clean a dataset relating to 
 of uncovering gender patterns in video games across multiple platforms focusing on gender
 representation within modern day video games. 
 
+# The Project
+For the main project we created a list of the items we needed to complete and shared the workload between the group and set deadline for review so
+we had a realistic timeline to complete the project as well as safeguard by having regular reviews.  
+
+o    Project ideation  
+o    Data fetching  
+o    Data analysis  
+o    Cleaning & Transforming  
+o    Data loading into final database  
+o    Creating documentation (Technical report and Project Visuals)
+
 ### Data Sources
 
 We found and used three datasets that focused on gender representation within modern day video games, sourced from Kaggle.com & diamondlobby.com. These 
@@ -20,6 +31,24 @@ datasets were games data, character data & sexualisation info.
 [Charecter data](Resources/characters.grivg.csv)  
 [Game data](Resources/games.grivg.csv)  
 [Sexulisation data](Resources/sexualization.grivg.csv)  
+
+# Group Communication
+
+To be able to complete this project effectively, we ensure we had effective communication within our 
+group. We put in place a various mediums, firstly we began by creating our own slack channel just with our 
+group members.
+
+![Slack](images/slack.png)
+
+Secondly, we also created a WhatsApp group again just with our group members init which we 
+discuss the project during our working and personal hours.  
+ 
+![Whatsapp](images/whatsapp.png).  
+
+Lastly, to enable us to work together and collaborate effectivly. 
+We also booked in extra session where we work together and on our respective parts using Team as the platform.  
+
+![Teams](images/teams.png).
 
 # ETL Process Map
 
@@ -41,36 +70,7 @@ Attached is the schema used in our final database and our final databased will b
 
 The Entity relationship diagram that show how our data between the datasets is interelated and the relationship or status of each data type and any connection strings.
 
-![ERD](images/ERD.png).  
-
-# Group Communication
-
-To be able to complete this project effectively, we ensure we had effective communication within our 
-group. We put in place a various mediums, firstly we began by creating our own slack channel just with our 
-group members.
-
-![Slack](images/slack.png)
-
-Secondly, we also created a WhatsApp group again just with our group members init which we 
-discuss the project during our working and personal hours.  
- 
-![Whatsapp](images/whatsapp.png).  
-
-Lastly, to enable us to work together and collaborate effectivly. 
-We also booked in extra session where we work together and on our respective parts using Team as the platform.  
-
-![Teams](images/teams.png).  
-
-# The Project
-For the main project we created a list of the items we needed to complete and shared the workload between the group and set deadline for review so
-we had a realistic timeline to complete the project as well as safeguard by having regular reviews.  
-
-o    Project ideation  
-o    Data fetching  
-o    Data analysis  
-o    Cleaning & Transforming  
-o    Data loading into final database  
-o    Creating documentation (Technical report and Project Visuals)
+![ERD](images/ERD.png).    
 
 
 # Final Database
