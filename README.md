@@ -32,9 +32,11 @@ Attached is the schema used in our final database and our final databased will b
 
 ![Schema](images/Schema.png).  
 
+### Entity Relationship Diagram.  
+
 The Entity relationship diagram that show how our data between the datasets is interelated and the relationship or status of each data type and any connection strings.
 
-![ERD](images/ERD.png)
+![ERD](images/ERD.png).  
 
 # Group Communication
 
