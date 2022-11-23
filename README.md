@@ -80,11 +80,11 @@ Find attached a link to our final SQL database and the Jupyter files for cleanin
 The final database consisted of 3 tables (Game, Character & Sexulisation Data). We had to ensure the primary keys used for the tables were unique. 
 Table 1, Games and Table 2, Characters were joined on 1 column (game.game_id = character.game) . 
 
-Game_id, is the primary key in table Game. In the Character table game column game character is where the datasets join hence functions as a foreign key.
+Game_id, is the primary key in table Game. In the Character table game column game character is where the datasets join hence functions as a foreign key.  
 
 Within the Characters Table we joined to the Sexualization table we linked on ID_charecter column which is also a primary key.  
 
-[Jupyter Data Clean File] (Final_jupytercode.ipynb).  
+[Jupyter Data Clean File](https://github.com/kass173/Project-2/blob/main/Final_jupytercode.ipynb).  
 [Final SQL Database](https://github.com/kass173/Project-2/blob/main/final_sequeldatabase.sql).
 
 The reason this topic was chose was due to our common interested in video games and being a majority female group when we discussed this dataset we were interested in finding if games still harboured patriarchal influences.
