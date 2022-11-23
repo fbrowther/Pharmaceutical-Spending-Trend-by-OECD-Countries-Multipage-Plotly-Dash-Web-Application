@@ -1,0 +1,638 @@
+"game_id","title","release","genre","developer","country","platform","percentage_non_male","criteria","female_team","female_teampercentage","avg_reviews","age_range","sexualization_total","gender","damsel_in_distress"
+"CODMW","Call of Duty: Modern Warfare","2019-10-01 00:00:00","Action","Infinity Ward","USA","Multi","17%","MS",0,"0%",7.8,"Adult",0,"Female",False
+"PSS","Pokémon Sword/Shield","2019-11-01 00:00:00","RPG","Game Freak","JPN","Nintendo Switch","56%","MS",1,"11%",8.3,"Teenager",0,"Custom",False
+"PSS","Pokémon Sword/Shield","2019-11-01 00:00:00","RPG","Game Freak","JPN","Nintendo Switch","56%","MS",1,"11%",8.3,"Elderly",0,"Female",False
+"PSS","Pokémon Sword/Shield","2019-11-01 00:00:00","RPG","Game Freak","JPN","Nintendo Switch","56%","MS",1,"11%",8.3,"Adult",0,"Female",False
+"PSS","Pokémon Sword/Shield","2019-11-01 00:00:00","RPG","Game Freak","JPN","Nintendo Switch","56%","MS",1,"11%",8.3,"Teenager",0,"Female",False
+"PSS","Pokémon Sword/Shield","2019-11-01 00:00:00","RPG","Game Freak","JPN","Nintendo Switch","56%","MS",1,"11%",8.3,"Adult",0,"Female",False
+"SMO","Super Mario Odyssey","2017-10-01 00:00:00","Action-adventure","Nintendo EDP","JPN","Nintendo Switch","40%","SR",1,"9%",9.8,"Adult",2,"Female",True
+"BOTW","The Legend of Zelda: Breath of the Wild","2017-03-01 00:00:00","Action-adventure","Nintendo EDP","JPN","Multi","28%","SR",0,"0%",9.9,"Teenager",0,"Female",False
+"PSM","Pokémon Sun/Moon","2016-11-01 00:00:00","RPG","Game Freak","JPN","Nintendo 3DS","43%","MS",0,"0%",8.7,"Child",0,"Custom",False
+"TW3","The Witcher 3: Wild Hunt","2015-05-01 00:00:00","RPG","CD Projeket Red","POL","Multi","32%","SR",0,"0%",9.1,"Young adult",2,"Female",True
+"TWD","The Walking Dead","2012-04-01 00:00:00","Adventure","Telltale Games","USA","Multi","39%","SR",0,"0%",8.7,"Child",0,"Female",False
+"UT","Undertale","2015-09-01 00:00:00","RPG","Toby Fox","USA","Multi","45%","TR",1,"50%",9.6,"Teenager",0,"Non-binary",False
+"BB","Bloodborne","2015-03-01 00:00:00","RPG","FromSoftware","JPN","PS4","40%","TR",0,"0%",9.1,"Adult",0,"Custom",False
+"SK","Shovel Knight: Shovel of Hope","2014-06-01 00:00:00","Action","Yacht Club Games","USA","Multi","17%","TR",1,"11%",8.7,"Adult",1,"Female",True
+"TLOU","The Last of Us","2013-06-01 00:00:00","Action-adventure","Naughty Dog","USA","PS3","33%","TR",0,"0%",9.4,"Child",0,"Female",False
+"BSI","BioShock Infinite","2013-03-01 00:00:00","Action","Irrational Games","USA","Multi","57%","TR",0,"0%",9.5,"Young adult",0,"Female",False
+"JRN","Journey","2012-03-01 00:00:00","Adventure","Thatgamecompany","USA","PS3","100%","TR",1,"14%",9.2,"Unknown",1,"Non-binary",True
+"GTAV","Grand Theft Auto V","2013-11-01 00:00:00","Action-adventure","Rockstar North","GBR","Multi","18%","MS",0,"0%",9.4,"Middle-aged",3,"Female",False
+"GTAV","Grand Theft Auto V","2013-11-01 00:00:00","Action-adventure","Rockstar North","GBR","Multi","18%","MS",0,"0%",9.4,"Young adult",3,"Female",True
+"RDR2","Red Dead Redemption 2","2018-12-01 00:00:00","Action-adventure","Rockstar Studios","USA","Multi","29%","SR",0,"0%",9.6,"Young adult",0,"Female",False
+"RDR2","Red Dead Redemption 2","2018-12-01 00:00:00","Action-adventure","Rockstar Studios","USA","Multi","29%","SR",0,"0%",9.6,"Adult",0,"Female",False
+"RDR2","Red Dead Redemption 2","2018-12-01 00:00:00","Action-adventure","Rockstar Studios","USA","Multi","29%","SR",0,"0%",9.6,"Young adult",0,"Female",False
+"RDR2","Red Dead Redemption 2","2018-12-01 00:00:00","Action-adventure","Rockstar Studios","USA","Multi","29%","SR",0,"0%",9.6,"Young adult",0,"Female",False
+"RDR2","Red Dead Redemption 2","2018-12-01 00:00:00","Action-adventure","Rockstar Studios","USA","Multi","29%","SR",0,"0%",9.6,"Adult",0,"Female",False
+"RDR2","Red Dead Redemption 2","2018-12-01 00:00:00","Action-adventure","Rockstar Studios","USA","Multi","29%","SR",0,"0%",9.6,"Middle-aged",0,"Female",False
+"RDR2","Red Dead Redemption 2","2018-12-01 00:00:00","Action-adventure","Rockstar Studios","USA","Multi","29%","SR",0,"0%",9.6,"Young adult",0,"Female",False
+"SMO","Super Mario Odyssey","2017-10-01 00:00:00","Action-adventure","Nintendo EDP","JPN","Nintendo Switch","40%","SR",1,"9%",9.8,"Unknown",2,"Female",True
+"BOTW","The Legend of Zelda: Breath of the Wild","2017-03-01 00:00:00","Action-adventure","Nintendo EDP","JPN","Multi","28%","SR",0,"0%",9.9,"Young adult",0,"Female",False
+"BOTW","The Legend of Zelda: Breath of the Wild","2017-03-01 00:00:00","Action-adventure","Nintendo EDP","JPN","Multi","28%","SR",0,"0%",9.9,"Middle-aged",1,"Female",False
+"BOTW","The Legend of Zelda: Breath of the Wild","2017-03-01 00:00:00","Action-adventure","Nintendo EDP","JPN","Multi","28%","SR",0,"0%",9.9,"Elderly",0,"Female",False
+"BOTW","The Legend of Zelda: Breath of the Wild","2017-03-01 00:00:00","Action-adventure","Nintendo EDP","JPN","Multi","28%","SR",0,"0%",9.9,"Child",1,"Female",False
+"PSM","Pokémon Sun/Moon","2016-11-01 00:00:00","RPG","Game Freak","JPN","Nintendo 3DS","43%","MS",0,"0%",8.7,"Child",0,"Female",False
+"PSM","Pokémon Sun/Moon","2016-11-01 00:00:00","RPG","Game Freak","JPN","Nintendo 3DS","43%","MS",0,"0%",8.7,"Middle-aged",0,"Female",False
+"TW3","The Witcher 3: Wild Hunt","2015-05-01 00:00:00","RPG","CD Projeket Red","POL","Multi","32%","SR",0,"0%",9.1,"Adult",2,"Female",False
+"TW3","The Witcher 3: Wild Hunt","2015-05-01 00:00:00","RPG","CD Projeket Red","POL","Multi","32%","SR",0,"0%",9.1,"Adult",2,"Female",False
+"TW3","The Witcher 3: Wild Hunt","2015-05-01 00:00:00","RPG","CD Projeket Red","POL","Multi","32%","SR",0,"0%",9.1,"Adult",2,"Female",False
+"TW3","The Witcher 3: Wild Hunt","2015-05-01 00:00:00","RPG","CD Projeket Red","POL","Multi","32%","SR",0,"0%",9.1,"Unknown",0,"Female",False
+"TW3","The Witcher 3: Wild Hunt","2015-05-01 00:00:00","RPG","CD Projeket Red","POL","Multi","32%","SR",0,"0%",9.1,"Unknown",0,"Female",False
+"BL2","Borderlands 2","2012-09-01 00:00:00","Action","Gearbox Software","USA","Multi","33%","MS",0,"0%",8.5,"Adult",0,"Female",False
+"BL2","Borderlands 2","2012-09-01 00:00:00","Action","Gearbox Software","USA","Multi","33%","MS",0,"0%",8.5,"Adult",1,"Female",True
+"BL2","Borderlands 2","2012-09-01 00:00:00","Action","Gearbox Software","USA","Multi","33%","MS",0,"0%",8.5,"Adult",0,"Female",False
+"BL2","Borderlands 2","2012-09-01 00:00:00","Action","Gearbox Software","USA","Multi","33%","MS",0,"0%",8.5,"Adult",0,"Female",False
+"TWD","The Walking Dead","2012-04-01 00:00:00","Adventure","Telltale Games","USA","Multi","39%","SR",0,"0%",8.7,"Middle-aged",0,"Female",False
+"TWD","The Walking Dead","2012-04-01 00:00:00","Adventure","Telltale Games","USA","Multi","39%","SR",0,"0%",8.7,"Adult",0,"Female",False
+"TWD","The Walking Dead","2012-04-01 00:00:00","Adventure","Telltale Games","USA","Multi","39%","SR",0,"0%",8.7,"Adult",0,"Female",False
+"TWD","The Walking Dead","2012-04-01 00:00:00","Adventure","Telltale Games","USA","Multi","39%","SR",0,"0%",8.7,"Adult",0,"Female",False
+"TWD","The Walking Dead","2012-04-01 00:00:00","Adventure","Telltale Games","USA","Multi","39%","SR",0,"0%",8.7,"Adult",0,"Female",False
+"TWD","The Walking Dead","2012-04-01 00:00:00","Adventure","Telltale Games","USA","Multi","39%","SR",0,"0%",8.7,"Young adult",0,"Female",False
+"TWD","The Walking Dead","2012-04-01 00:00:00","Adventure","Telltale Games","USA","Multi","39%","SR",0,"0%",8.7,"Adult",0,"Female",False
+"TWD","The Walking Dead","2012-04-01 00:00:00","Adventure","Telltale Games","USA","Multi","39%","SR",0,"0%",8.7,"Adult",0,"Female",False
+"GOW","God of War","2018-04-01 00:00:00","Action-adventure","Santa Monica Studio","USA","Multi","14%","TR",1,"11%",9.6,"Adult",0,"Female",False
+"UC4","Uncharted 4: A Thief's End","2016-05-01 00:00:00","Action-adventure","Naughty Dog","USA","Multi","33%","TR",1,"7%",9.5,"Adult",0,"Female",False
+"UC4","Uncharted 4: A Thief's End","2016-05-01 00:00:00","Action-adventure","Naughty Dog","USA","Multi","33%","TR",1,"7%",9.5,"Adult",0,"Female",False
+"UT","Undertale","2015-09-01 00:00:00","RPG","Toby Fox","USA","Multi","45%","TR",1,"50%",9.6,"Adult",0,"Female",False
+"UT","Undertale","2015-09-01 00:00:00","RPG","Toby Fox","USA","Multi","45%","TR",1,"50%",9.6,"Adult",0,"Female",False
+"UT","Undertale","2015-09-01 00:00:00","RPG","Toby Fox","USA","Multi","45%","TR",1,"50%",9.6,"Adult",0,"Female",False
+"UT","Undertale","2015-09-01 00:00:00","RPG","Toby Fox","USA","Multi","45%","TR",1,"50%",9.6,"Adult",0,"Non-binary",False
+"GTAV","Grand Theft Auto V","2013-11-01 00:00:00","Action-adventure","Rockstar North","GBR","Multi","18%","MS",0,"0%",9.4,"Middle-aged",0,"Male",False
+"GTAV","Grand Theft Auto V","2013-11-01 00:00:00","Action-adventure","Rockstar North","GBR","Multi","18%","MS",0,"0%",9.4,"Middle-aged",0,"Male",False
+"GTAV","Grand Theft Auto V","2013-11-01 00:00:00","Action-adventure","Rockstar North","GBR","Multi","18%","MS",0,"0%",9.4,"Adult",0,"Male",False
+"GTAV","Grand Theft Auto V","2013-11-01 00:00:00","Action-adventure","Rockstar North","GBR","Multi","18%","MS",0,"0%",9.4,"Young adult",0,"Male",False
+"GTAV","Grand Theft Auto V","2013-11-01 00:00:00","Action-adventure","Rockstar North","GBR","Multi","18%","MS",0,"0%",9.4,"Adult",0,"Male",False
+"GTAV","Grand Theft Auto V","2013-11-01 00:00:00","Action-adventure","Rockstar North","GBR","Multi","18%","MS",0,"0%",9.4,"Unknown",0,"Male",False
+"GTAV","Grand Theft Auto V","2013-11-01 00:00:00","Action-adventure","Rockstar North","GBR","Multi","18%","MS",0,"0%",9.4,"Middle-aged",0,"Male",False
+"GTAV","Grand Theft Auto V","2013-11-01 00:00:00","Action-adventure","Rockstar North","GBR","Multi","18%","MS",0,"0%",9.4,"Adult",0,"Male",False
+"GTAV","Grand Theft Auto V","2013-11-01 00:00:00","Action-adventure","Rockstar North","GBR","Multi","18%","MS",0,"0%",9.4,"Unknown",0,"Male",False
+"PSS","Pokémon Sword/Shield","2019-11-01 00:00:00","RPG","Game Freak","JPN","Nintendo Switch","56%","MS",1,"11%",8.3,"Young adult",0,"Male",False
+"PSS","Pokémon Sword/Shield","2019-11-01 00:00:00","RPG","Game Freak","JPN","Nintendo Switch","56%","MS",1,"11%",8.3,"Teenager",0,"Male",False
+"PSS","Pokémon Sword/Shield","2019-11-01 00:00:00","RPG","Game Freak","JPN","Nintendo Switch","56%","MS",1,"11%",8.3,"Adult",0,"Male",False
+"PSS","Pokémon Sword/Shield","2019-11-01 00:00:00","RPG","Game Freak","JPN","Nintendo Switch","56%","MS",1,"11%",8.3,"Teenager",0,"Male",False
+"CODMW","Call of Duty: Modern Warfare","2019-10-01 00:00:00","Action","Infinity Ward","USA","Multi","17%","MS",0,"0%",7.8,"Adult",0,"Male",False
+"CODMW","Call of Duty: Modern Warfare","2019-10-01 00:00:00","Action","Infinity Ward","USA","Multi","17%","MS",0,"0%",7.8,"Adult",0,"Male",False
+"CODMW","Call of Duty: Modern Warfare","2019-10-01 00:00:00","Action","Infinity Ward","USA","Multi","17%","MS",0,"0%",7.8,"Adult",0,"Male",False
+"CODMW","Call of Duty: Modern Warfare","2019-10-01 00:00:00","Action","Infinity Ward","USA","Multi","17%","MS",0,"0%",7.8,"Adult",0,"Male",False
+"CODMW","Call of Duty: Modern Warfare","2019-10-01 00:00:00","Action","Infinity Ward","USA","Multi","17%","MS",0,"0%",7.8,"Adult",0,"Male",False
+"RDR2","Red Dead Redemption 2","2018-12-01 00:00:00","Action-adventure","Rockstar Studios","USA","Multi","29%","SR",0,"0%",9.6,"Adult",0,"Male",False
+"RDR2","Red Dead Redemption 2","2018-12-01 00:00:00","Action-adventure","Rockstar Studios","USA","Multi","29%","SR",0,"0%",9.6,"Adult",0,"Male",False
+"RDR2","Red Dead Redemption 2","2018-12-01 00:00:00","Action-adventure","Rockstar Studios","USA","Multi","29%","SR",0,"0%",9.6,"Adult",0,"Male",False
+"RDR2","Red Dead Redemption 2","2018-12-01 00:00:00","Action-adventure","Rockstar Studios","USA","Multi","29%","SR",0,"0%",9.6,"Adult",0,"Male",False
+"RDR2","Red Dead Redemption 2","2018-12-01 00:00:00","Action-adventure","Rockstar Studios","USA","Multi","29%","SR",0,"0%",9.6,"Middle-aged",0,"Male",False
+"RDR2","Red Dead Redemption 2","2018-12-01 00:00:00","Action-adventure","Rockstar Studios","USA","Multi","29%","SR",0,"0%",9.6,"Infant",0,"Male",False
+"RDR2","Red Dead Redemption 2","2018-12-01 00:00:00","Action-adventure","Rockstar Studios","USA","Multi","29%","SR",0,"0%",9.6,"Middle-aged",0,"Male",False
+"RDR2","Red Dead Redemption 2","2018-12-01 00:00:00","Action-adventure","Rockstar Studios","USA","Multi","29%","SR",0,"0%",9.6,"Adult",0,"Male",False
+"RDR2","Red Dead Redemption 2","2018-12-01 00:00:00","Action-adventure","Rockstar Studios","USA","Multi","29%","SR",0,"0%",9.6,"Adult",0,"Male",False
+"RDR2","Red Dead Redemption 2","2018-12-01 00:00:00","Action-adventure","Rockstar Studios","USA","Multi","29%","SR",0,"0%",9.6,"Young adult",0,"Male",False
+"RDR2","Red Dead Redemption 2","2018-12-01 00:00:00","Action-adventure","Rockstar Studios","USA","Multi","29%","SR",0,"0%",9.6,"Middle-aged",0,"Male",False
+"RDR2","Red Dead Redemption 2","2018-12-01 00:00:00","Action-adventure","Rockstar Studios","USA","Multi","29%","SR",0,"0%",9.6,"Adult",0,"Male",False
+"RDR2","Red Dead Redemption 2","2018-12-01 00:00:00","Action-adventure","Rockstar Studios","USA","Multi","29%","SR",0,"0%",9.6,"Middle-aged",0,"Male",False
+"RDR2","Red Dead Redemption 2","2018-12-01 00:00:00","Action-adventure","Rockstar Studios","USA","Multi","29%","SR",0,"0%",9.6,"Middle-aged",0,"Male",False
+"RDR2","Red Dead Redemption 2","2018-12-01 00:00:00","Action-adventure","Rockstar Studios","USA","Multi","29%","SR",0,"0%",9.6,"Young adult",0,"Male",False
+"RDR2","Red Dead Redemption 2","2018-12-01 00:00:00","Action-adventure","Rockstar Studios","USA","Multi","29%","SR",0,"0%",9.6,"Middle-aged",0,"Male",False
+"RDR2","Red Dead Redemption 2","2018-12-01 00:00:00","Action-adventure","Rockstar Studios","USA","Multi","29%","SR",0,"0%",9.6,"Middle-aged",0,"Male",False
+"SMO","Super Mario Odyssey","2017-10-01 00:00:00","Action-adventure","Nintendo EDP","JPN","Nintendo Switch","40%","SR",1,"9%",9.8,"Adult",0,"Male",False
+"SMO","Super Mario Odyssey","2017-10-01 00:00:00","Action-adventure","Nintendo EDP","JPN","Nintendo Switch","40%","SR",1,"9%",9.8,"Unknown",0,"Male",False
+"SMO","Super Mario Odyssey","2017-10-01 00:00:00","Action-adventure","Nintendo EDP","JPN","Nintendo Switch","40%","SR",1,"9%",9.8,"Unknown",0,"Male",False
+"BOTW","The Legend of Zelda: Breath of the Wild","2017-03-01 00:00:00","Action-adventure","Nintendo EDP","JPN","Multi","28%","SR",0,"0%",9.9,"Teenager",0,"Male",False
+"BOTW","The Legend of Zelda: Breath of the Wild","2017-03-01 00:00:00","Action-adventure","Nintendo EDP","JPN","Multi","28%","SR",0,"0%",9.9,"Middle-aged",0,"Male",False
+"BOTW","The Legend of Zelda: Breath of the Wild","2017-03-01 00:00:00","Action-adventure","Nintendo EDP","JPN","Multi","28%","SR",0,"0%",9.9,"Young adult",0,"Male",False
+"BOTW","The Legend of Zelda: Breath of the Wild","2017-03-01 00:00:00","Action-adventure","Nintendo EDP","JPN","Multi","28%","SR",0,"0%",9.9,"Middle-aged",0,"Male",False
+"BOTW","The Legend of Zelda: Breath of the Wild","2017-03-01 00:00:00","Action-adventure","Nintendo EDP","JPN","Multi","28%","SR",0,"0%",9.9,"Teenager",0,"Male",False
+"BOTW","The Legend of Zelda: Breath of the Wild","2017-03-01 00:00:00","Action-adventure","Nintendo EDP","JPN","Multi","28%","SR",0,"0%",9.9,"Young adult",0,"Male",False
+"BOTW","The Legend of Zelda: Breath of the Wild","2017-03-01 00:00:00","Action-adventure","Nintendo EDP","JPN","Multi","28%","SR",0,"0%",9.9,"Adult",0,"Male",False
+"BOTW","The Legend of Zelda: Breath of the Wild","2017-03-01 00:00:00","Action-adventure","Nintendo EDP","JPN","Multi","28%","SR",0,"0%",9.9,"Adult",0,"Male",False
+"BOTW","The Legend of Zelda: Breath of the Wild","2017-03-01 00:00:00","Action-adventure","Nintendo EDP","JPN","Multi","28%","SR",0,"0%",9.9,"Elderly",0,"Male",False
+"BOTW","The Legend of Zelda: Breath of the Wild","2017-03-01 00:00:00","Action-adventure","Nintendo EDP","JPN","Multi","28%","SR",0,"0%",9.9,"Elderly",0,"Male",False
+"BOTW","The Legend of Zelda: Breath of the Wild","2017-03-01 00:00:00","Action-adventure","Nintendo EDP","JPN","Multi","28%","SR",0,"0%",9.9,"Adult",0,"Male",False
+"BOTW","The Legend of Zelda: Breath of the Wild","2017-03-01 00:00:00","Action-adventure","Nintendo EDP","JPN","Multi","28%","SR",0,"0%",9.9,"Elderly",0,"Male",False
+"BOTW","The Legend of Zelda: Breath of the Wild","2017-03-01 00:00:00","Action-adventure","Nintendo EDP","JPN","Multi","28%","SR",0,"0%",9.9,"Unknown",0,"Male",False
+"PSM","Pokémon Sun/Moon","2016-11-01 00:00:00","RPG","Game Freak","JPN","Nintendo 3DS","43%","MS",0,"0%",8.7,"Child",0,"Male",False
+"PSM","Pokémon Sun/Moon","2016-11-01 00:00:00","RPG","Game Freak","JPN","Nintendo 3DS","43%","MS",0,"0%",8.7,"Adult",0,"Male",False
+"PSM","Pokémon Sun/Moon","2016-11-01 00:00:00","RPG","Game Freak","JPN","Nintendo 3DS","43%","MS",0,"0%",8.7,"Adult",0,"Male",False
+"PSM","Pokémon Sun/Moon","2016-11-01 00:00:00","RPG","Game Freak","JPN","Nintendo 3DS","43%","MS",0,"0%",8.7,"Teenager",0,"Male",False
+"TW3","The Witcher 3: Wild Hunt","2015-05-01 00:00:00","RPG","CD Projeket Red","POL","Multi","32%","SR",0,"0%",9.1,"Adult",2,"Male",False
+"TW3","The Witcher 3: Wild Hunt","2015-05-01 00:00:00","RPG","CD Projeket Red","POL","Multi","32%","SR",0,"0%",9.1,"Adult",0,"Male",False
+"TW3","The Witcher 3: Wild Hunt","2015-05-01 00:00:00","RPG","CD Projeket Red","POL","Multi","32%","SR",0,"0%",9.1,"Adult",0,"Male",False
+"TW3","The Witcher 3: Wild Hunt","2015-05-01 00:00:00","RPG","CD Projeket Red","POL","Multi","32%","SR",0,"0%",9.1,"Adult",0,"Male",False
+"TW3","The Witcher 3: Wild Hunt","2015-05-01 00:00:00","RPG","CD Projeket Red","POL","Multi","32%","SR",0,"0%",9.1,"Adult",0,"Male",False
+"TW3","The Witcher 3: Wild Hunt","2015-05-01 00:00:00","RPG","CD Projeket Red","POL","Multi","32%","SR",0,"0%",9.1,"Adult",0,"Male",False
+"TW3","The Witcher 3: Wild Hunt","2015-05-01 00:00:00","RPG","CD Projeket Red","POL","Multi","32%","SR",0,"0%",9.1,"Unknown",0,"Male",False
+"TW3","The Witcher 3: Wild Hunt","2015-05-01 00:00:00","RPG","CD Projeket Red","POL","Multi","32%","SR",0,"0%",9.1,"Adult",0,"Male",False
+"TW3","The Witcher 3: Wild Hunt","2015-05-01 00:00:00","RPG","CD Projeket Red","POL","Multi","32%","SR",0,"0%",9.1,"Adult",0,"Male",False
+"TW3","The Witcher 3: Wild Hunt","2015-05-01 00:00:00","RPG","CD Projeket Red","POL","Multi","32%","SR",0,"0%",9.1,"Adult",0,"Male",False
+"TW3","The Witcher 3: Wild Hunt","2015-05-01 00:00:00","RPG","CD Projeket Red","POL","Multi","32%","SR",0,"0%",9.1,"Adult",0,"Male",False
+"TW3","The Witcher 3: Wild Hunt","2015-05-01 00:00:00","RPG","CD Projeket Red","POL","Multi","32%","SR",0,"0%",9.1,"Adult",0,"Male",False
+"TW3","The Witcher 3: Wild Hunt","2015-05-01 00:00:00","RPG","CD Projeket Red","POL","Multi","32%","SR",0,"0%",9.1,"Adult",0,"Male",False
+"CODBO2","Call of Duty: Black Ops 2","2012-11-01 00:00:00","Action","Treyarch","USA","Multi","0%","MS",0,"0%",8.4,"Adult",0,"Male",False
+"CODBO2","Call of Duty: Black Ops 2","2012-11-01 00:00:00","Action","Treyarch","USA","Multi","0%","MS",0,"0%",8.4,"Adult",0,"Male",False
+"CODBO2","Call of Duty: Black Ops 2","2012-11-01 00:00:00","Action","Treyarch","USA","Multi","0%","MS",0,"0%",8.4,"Adult",0,"Male",False
+"CODBO2","Call of Duty: Black Ops 2","2012-11-01 00:00:00","Action","Treyarch","USA","Multi","0%","MS",0,"0%",8.4,"Adult",0,"Male",False
+"CODBO2","Call of Duty: Black Ops 2","2012-11-01 00:00:00","Action","Treyarch","USA","Multi","0%","MS",0,"0%",8.4,"Middle-aged",0,"Male",False
+"CODBO2","Call of Duty: Black Ops 2","2012-11-01 00:00:00","Action","Treyarch","USA","Multi","0%","MS",0,"0%",8.4,"Adult",0,"Male",False
+"CODBO2","Call of Duty: Black Ops 2","2012-11-01 00:00:00","Action","Treyarch","USA","Multi","0%","MS",0,"0%",8.4,"Adult",0,"Male",False
+"CODBO2","Call of Duty: Black Ops 2","2012-11-01 00:00:00","Action","Treyarch","USA","Multi","0%","MS",0,"0%",8.4,"Adult",0,"Male",False
+"CODBO2","Call of Duty: Black Ops 2","2012-11-01 00:00:00","Action","Treyarch","USA","Multi","0%","MS",0,"0%",8.4,"Adult",0,"Male",False
+"CODBO2","Call of Duty: Black Ops 2","2012-11-01 00:00:00","Action","Treyarch","USA","Multi","0%","MS",0,"0%",8.4,"Adult",0,"Male",False
+"CODBO2","Call of Duty: Black Ops 2","2012-11-01 00:00:00","Action","Treyarch","USA","Multi","0%","MS",0,"0%",8.4,"Adult",0,"Male",False
+"CODBO2","Call of Duty: Black Ops 2","2012-11-01 00:00:00","Action","Treyarch","USA","Multi","0%","MS",0,"0%",8.4,"Adult",0,"Male",False
+"BL2","Borderlands 2","2012-09-01 00:00:00","Action","Gearbox Software","USA","Multi","33%","MS",0,"0%",8.5,"Adult",0,"Male",False
+"BL2","Borderlands 2","2012-09-01 00:00:00","Action","Gearbox Software","USA","Multi","33%","MS",0,"0%",8.5,"Adult",0,"Male",False
+"BL2","Borderlands 2","2012-09-01 00:00:00","Action","Gearbox Software","USA","Multi","33%","MS",0,"0%",8.5,"Unknown",0,"Male",False
+"BL2","Borderlands 2","2012-09-01 00:00:00","Action","Gearbox Software","USA","Multi","33%","MS",0,"0%",8.5,"Adult",0,"Male",False
+"BL2","Borderlands 2","2012-09-01 00:00:00","Action","Gearbox Software","USA","Multi","33%","MS",0,"0%",8.5,"Adult",0,"Male",False
+"BL2","Borderlands 2","2012-09-01 00:00:00","Action","Gearbox Software","USA","Multi","33%","MS",0,"0%",8.5,"Adult",0,"Male",False
+"BL2","Borderlands 2","2012-09-01 00:00:00","Action","Gearbox Software","USA","Multi","33%","MS",0,"0%",8.5,"Adult",0,"Male",False
+"BL2","Borderlands 2","2012-09-01 00:00:00","Action","Gearbox Software","USA","Multi","33%","MS",0,"0%",8.5,"Adult",0,"Male",False
+"TWD","The Walking Dead","2012-04-01 00:00:00","Adventure","Telltale Games","USA","Multi","39%","SR",0,"0%",8.7,"Adult",0,"Male",False
+"TWD","The Walking Dead","2012-04-01 00:00:00","Adventure","Telltale Games","USA","Multi","39%","SR",0,"0%",8.7,"Middle-aged",0,"Male",False
+"TWD","The Walking Dead","2012-04-01 00:00:00","Adventure","Telltale Games","USA","Multi","39%","SR",0,"0%",8.7,"Middle-aged",0,"Male",False
+"TWD","The Walking Dead","2012-04-01 00:00:00","Adventure","Telltale Games","USA","Multi","39%","SR",0,"0%",8.7,"Child",0,"Male",False
+"TWD","The Walking Dead","2012-04-01 00:00:00","Adventure","Telltale Games","USA","Multi","39%","SR",0,"0%",8.7,"Young adult",0,"Male",False
+"TWD","The Walking Dead","2012-04-01 00:00:00","Adventure","Telltale Games","USA","Multi","39%","SR",0,"0%",8.7,"Elderly",0,"Male",False
+"TWD","The Walking Dead","2012-04-01 00:00:00","Adventure","Telltale Games","USA","Multi","39%","SR",0,"0%",8.7,"Adult",0,"Male",False
+"TWD","The Walking Dead","2012-04-01 00:00:00","Adventure","Telltale Games","USA","Multi","39%","SR",0,"0%",8.7,"Young adult",0,"Male",False
+"TWD","The Walking Dead","2012-04-01 00:00:00","Adventure","Telltale Games","USA","Multi","39%","SR",0,"0%",8.7,"Adult",0,"Male",False
+"TWD","The Walking Dead","2012-04-01 00:00:00","Adventure","Telltale Games","USA","Multi","39%","SR",0,"0%",8.7,"Adult",0,"Male",False
+"TWD","The Walking Dead","2012-04-01 00:00:00","Adventure","Telltale Games","USA","Multi","39%","SR",0,"0%",8.7,"Middle-aged",0,"Male",False
+"TWD","The Walking Dead","2012-04-01 00:00:00","Adventure","Telltale Games","USA","Multi","39%","SR",0,"0%",8.7,"Elderly",0,"Male",False
+"TWD","The Walking Dead","2012-04-01 00:00:00","Adventure","Telltale Games","USA","Multi","39%","SR",0,"0%",8.7,"Adult",0,"Male",False
+"TWD","The Walking Dead","2012-04-01 00:00:00","Adventure","Telltale Games","USA","Multi","39%","SR",0,"0%",8.7,"Adult",0,"Male",False
+"GOW","God of War","2018-04-01 00:00:00","Action-adventure","Santa Monica Studio","USA","Multi","14%","TR",1,"11%",9.6,"Adult",0,"Male",False
+"GOW","God of War","2018-04-01 00:00:00","Action-adventure","Santa Monica Studio","USA","Multi","14%","TR",1,"11%",9.6,"Child",0,"Male",False
+"GOW","God of War","2018-04-01 00:00:00","Action-adventure","Santa Monica Studio","USA","Multi","14%","TR",1,"11%",9.6,"Adult",0,"Male",False
+"GOW","God of War","2018-04-01 00:00:00","Action-adventure","Santa Monica Studio","USA","Multi","14%","TR",1,"11%",9.6,"Adult",0,"Male",False
+"GOW","God of War","2018-04-01 00:00:00","Action-adventure","Santa Monica Studio","USA","Multi","14%","TR",1,"11%",9.6,"Adult",0,"Male",False
+"GOW","God of War","2018-04-01 00:00:00","Action-adventure","Santa Monica Studio","USA","Multi","14%","TR",1,"11%",9.6,"Adult",0,"Male",False
+"UC4","Uncharted 4: A Thief's End","2016-05-01 00:00:00","Action-adventure","Naughty Dog","USA","Multi","33%","TR",1,"7%",9.5,"Adult",0,"Male",False
+"UC4","Uncharted 4: A Thief's End","2016-05-01 00:00:00","Action-adventure","Naughty Dog","USA","Multi","33%","TR",1,"7%",9.5,"Elderly",0,"Male",False
+"UC4","Uncharted 4: A Thief's End","2016-05-01 00:00:00","Action-adventure","Naughty Dog","USA","Multi","33%","TR",1,"7%",9.5,"Adult",0,"Male",False
+"UC4","Uncharted 4: A Thief's End","2016-05-01 00:00:00","Action-adventure","Naughty Dog","USA","Multi","33%","TR",1,"7%",9.5,"Adult",0,"Male",False
+"INS","Inside","2016-06-01 00:00:00","Action","Paydead","DNK","Multi","0%","TR",0,"0%",9.2,"Child",0,"Male",False
+"INS","Inside","2016-06-01 00:00:00","Action","Paydead","DNK","Multi","0%","TR",0,"0%",9.2,"Adult",0,"Male",False
+"UT","Undertale","2015-09-01 00:00:00","RPG","Toby Fox","USA","Multi","45%","TR",1,"50%",9.6,"Unknown",0,"Male",False
+"UT","Undertale","2015-09-01 00:00:00","RPG","Toby Fox","USA","Multi","45%","TR",1,"50%",9.6,"Unknown",0,"Male",False
+"UT","Undertale","2015-09-01 00:00:00","RPG","Toby Fox","USA","Multi","45%","TR",1,"50%",9.6,"Adult",0,"Male",False
+"UT","Undertale","2015-09-01 00:00:00","RPG","Toby Fox","USA","Multi","45%","TR",1,"50%",9.6,"Unknown",0,"Male",False
+"UT","Undertale","2015-09-01 00:00:00","RPG","Toby Fox","USA","Multi","45%","TR",1,"50%",9.6,"Adult",0,"Male",False
+"UT","Undertale","2015-09-01 00:00:00","RPG","Toby Fox","USA","Multi","45%","TR",1,"50%",9.6,"Child",0,"Male",False
+"BB","Bloodborne","2015-03-01 00:00:00","RPG","FromSoftware","JPN","PS4","40%","TR",0,"0%",9.1,"Unknown",0,"Female",False
+"BB","Bloodborne","2015-03-01 00:00:00","RPG","FromSoftware","JPN","PS4","40%","TR",0,"0%",9.1,"Elderly",0,"Male",False
+"BB","Bloodborne","2015-03-01 00:00:00","RPG","FromSoftware","JPN","PS4","40%","TR",0,"0%",9.1,"Unknown",0,"Male",False
+"BB","Bloodborne","2015-03-01 00:00:00","RPG","FromSoftware","JPN","PS4","40%","TR",0,"0%",9.1,"Unknown",0,"Male",False
+"SK","Shovel Knight: Shovel of Hope","2014-06-01 00:00:00","Action","Yacht Club Games","USA","Multi","17%","TR",1,"11%",8.7,"Adult",0,"Male",False
+"SK","Shovel Knight: Shovel of Hope","2014-06-01 00:00:00","Action","Yacht Club Games","USA","Multi","17%","TR",1,"11%",8.7,"Adult",0,"Male",False
+"SK","Shovel Knight: Shovel of Hope","2014-06-01 00:00:00","Action","Yacht Club Games","USA","Multi","17%","TR",1,"11%",8.7,"Adult",0,"Female",False
+"SK","Shovel Knight: Shovel of Hope","2014-06-01 00:00:00","Action","Yacht Club Games","USA","Multi","17%","TR",1,"11%",8.7,"Adult",0,"Male",False
+"SK","Shovel Knight: Shovel of Hope","2014-06-01 00:00:00","Action","Yacht Club Games","USA","Multi","17%","TR",1,"11%",8.7,"Adult",0,"Male",False
+"SK","Shovel Knight: Shovel of Hope","2014-06-01 00:00:00","Action","Yacht Club Games","USA","Multi","17%","TR",1,"11%",8.7,"Adult",0,"Male",False
+"SK","Shovel Knight: Shovel of Hope","2014-06-01 00:00:00","Action","Yacht Club Games","USA","Multi","17%","TR",1,"11%",8.7,"Adult",0,"Male",False
+"SK","Shovel Knight: Shovel of Hope","2014-06-01 00:00:00","Action","Yacht Club Games","USA","Multi","17%","TR",1,"11%",8.7,"Adult",0,"Male",False
+"SK","Shovel Knight: Shovel of Hope","2014-06-01 00:00:00","Action","Yacht Club Games","USA","Multi","17%","TR",1,"11%",8.7,"Adult",0,"Male",False
+"SK","Shovel Knight: Shovel of Hope","2014-06-01 00:00:00","Action","Yacht Club Games","USA","Multi","17%","TR",1,"11%",8.7,"Adult",0,"Male",False
+"SK","Shovel Knight: Shovel of Hope","2014-06-01 00:00:00","Action","Yacht Club Games","USA","Multi","17%","TR",1,"11%",8.7,"Adult",0,"Male",False
+"PP","Papers, Please","2013-08-01 00:00:00","Simulation","3909 LLC","USA","Multi","33%","TR",0,"0%",8.5,"Adult",0,"Male",False
+"PP","Papers, Please","2013-08-01 00:00:00","Simulation","3909 LLC","USA","Multi","33%","TR",0,"0%",8.5,"Adult",0,"Male",False
+"PP","Papers, Please","2013-08-01 00:00:00","Simulation","3909 LLC","USA","Multi","33%","TR",0,"0%",8.5,"Adult",1,"Female",True
+"PP","Papers, Please","2013-08-01 00:00:00","Simulation","3909 LLC","USA","Multi","33%","TR",0,"0%",8.5,"Child",1,"Male",True
+"PP","Papers, Please","2013-08-01 00:00:00","Simulation","3909 LLC","USA","Multi","33%","TR",0,"0%",8.5,"Elderly",1,"Female",True
+"PP","Papers, Please","2013-08-01 00:00:00","Simulation","3909 LLC","USA","Multi","33%","TR",0,"0%",8.5,"Elderly",1,"Male",True
+"TLOU","The Last of Us","2013-06-01 00:00:00","Action-adventure","Naughty Dog","USA","PS3","33%","TR",0,"0%",9.4,"Middle-aged",0,"Male",False
+"TLOU","The Last of Us","2013-06-01 00:00:00","Action-adventure","Naughty Dog","USA","PS3","33%","TR",0,"0%",9.4,"Adult",0,"Female",False
+"TLOU","The Last of Us","2013-06-01 00:00:00","Action-adventure","Naughty Dog","USA","PS3","33%","TR",0,"0%",9.4,"Adult",0,"Female",False
+"TLOU","The Last of Us","2013-06-01 00:00:00","Action-adventure","Naughty Dog","USA","PS3","33%","TR",0,"0%",9.4,"Middle-aged",0,"Male",False
+"TLOU","The Last of Us","2013-06-01 00:00:00","Action-adventure","Naughty Dog","USA","PS3","33%","TR",0,"0%",9.4,"Middle-aged",0,"Male",False
+"TLOU","The Last of Us","2013-06-01 00:00:00","Action-adventure","Naughty Dog","USA","PS3","33%","TR",0,"0%",9.4,"Adult",0,"Male",False
+"TLOU","The Last of Us","2013-06-01 00:00:00","Action-adventure","Naughty Dog","USA","PS3","33%","TR",0,"0%",9.4,"Child",0,"Male",False
+"TLOU","The Last of Us","2013-06-01 00:00:00","Action-adventure","Naughty Dog","USA","PS3","33%","TR",0,"0%",9.4,"Adult",0,"Male",False
+"BSI","BioShock Infinite","2013-03-01 00:00:00","Action","Irrational Games","USA","Multi","57%","TR",0,"0%",9.5,"Adult",0,"Male",False
+"BSI","BioShock Infinite","2013-03-01 00:00:00","Action","Irrational Games","USA","Multi","57%","TR",0,"0%",9.5,"Unknown",0,"Non-binary",False
+"BSI","BioShock Infinite","2013-03-01 00:00:00","Action","Irrational Games","USA","Multi","57%","TR",0,"0%",9.5,"Adult",0,"Male",False
+"BSI","BioShock Infinite","2013-03-01 00:00:00","Action","Irrational Games","USA","Multi","57%","TR",0,"0%",9.5,"Adult",0,"Male",False
+"BSI","BioShock Infinite","2013-03-01 00:00:00","Action","Irrational Games","USA","Multi","57%","TR",0,"0%",9.5,"Adult",0,"Female",False
+"BSI","BioShock Infinite","2013-03-01 00:00:00","Action","Irrational Games","USA","Multi","57%","TR",0,"0%",9.5,"Adult",0,"Female",False
+"HLM","Hotline Miami","2012-10-01 00:00:00","Action","Dennaton Games","SWE","Multi","20%","TR",0,"0%",8.7,"Adult",0,"Male",False
+"HLM","Hotline Miami","2012-10-01 00:00:00","Action","Dennaton Games","SWE","Multi","20%","TR",0,"0%",8.7,"Adult",0,"Male",False
+"HLM","Hotline Miami","2012-10-01 00:00:00","Action","Dennaton Games","SWE","Multi","20%","TR",0,"0%",8.7,"Adult",2,"Female",True
+"HLM","Hotline Miami","2012-10-01 00:00:00","Action","Dennaton Games","SWE","Multi","20%","TR",0,"0%",8.7,"Adult",0,"Male",False
+"HLM","Hotline Miami","2012-10-01 00:00:00","Action","Dennaton Games","SWE","Multi","20%","TR",0,"0%",8.7,"Adult",0,"Male",False
+"HLM","Hotline Miami","2012-10-01 00:00:00","Action","Dennaton Games","SWE","Multi","20%","TR",0,"0%",8.7,"Adult",0,"Female",False
+"HLM","Hotline Miami","2012-10-01 00:00:00","Action","Dennaton Games","SWE","Multi","20%","TR",0,"0%",8.7,"Adult",0,"Male",False
+"HLM","Hotline Miami","2012-10-01 00:00:00","Action","Dennaton Games","SWE","Multi","20%","TR",0,"0%",8.7,"Adult",0,"Male",False
+"HLM","Hotline Miami","2012-10-01 00:00:00","Action","Dennaton Games","SWE","Multi","20%","TR",0,"0%",8.7,"Adult",0,"Male",False
+"HLM","Hotline Miami","2012-10-01 00:00:00","Action","Dennaton Games","SWE","Multi","20%","TR",0,"0%",8.7,"Adult",0,"Male",False
+"JRN","Journey","2012-03-01 00:00:00","Adventure","Thatgamecompany","USA","PS3","100%","TR",1,"14%",9.2,"Unknown",0,"Non-binary",False
+"JRN","Journey","2012-03-01 00:00:00","Adventure","Thatgamecompany","USA","PS3","100%","TR",1,"14%",9.2,"Unknown",0,"Non-binary",False
+"JRN","Journey","2012-03-01 00:00:00","Adventure","Thatgamecompany","USA","PS3","100%","TR",1,"14%",9.2,"Unknown",0,"Non-binary",False
+"FC3","Far Cry 3","2019-11-01 00:00:00","Action","Ubisoft Montreal","CAN","Multi","21%","TR",0,"0%",8.8,"Adult",0,"Male",False
+"FC3","Far Cry 3","2019-11-01 00:00:00","Action","Ubisoft Montreal","CAN","Multi","21%","TR",0,"0%",8.8,"Adult",0,"Male",False
+"FC3","Far Cry 3","2019-11-01 00:00:00","Action","Ubisoft Montreal","CAN","Multi","21%","TR",0,"0%",8.8,"Adult",0,"Male",False
+"FC3","Far Cry 3","2019-11-01 00:00:00","Action","Ubisoft Montreal","CAN","Multi","21%","TR",0,"0%",8.8,"Adult",0,"Male",False
+"FC3","Far Cry 3","2019-11-01 00:00:00","Action","Ubisoft Montreal","CAN","Multi","21%","TR",0,"0%",8.8,"Adult",0,"Female",False
+"FC3","Far Cry 3","2019-11-01 00:00:00","Action","Ubisoft Montreal","CAN","Multi","21%","TR",0,"0%",8.8,"Elderly",0,"Male",False
+"FC3","Far Cry 3","2019-11-01 00:00:00","Action","Ubisoft Montreal","CAN","Multi","21%","TR",0,"0%",8.8,"Adult",3,"Female",False
+"FC3","Far Cry 3","2019-11-01 00:00:00","Action","Ubisoft Montreal","CAN","Multi","21%","TR",0,"0%",8.8,"Elderly",0,"Male",False
+"FC3","Far Cry 3","2019-11-01 00:00:00","Action","Ubisoft Montreal","CAN","Multi","21%","TR",0,"0%",8.8,"Young adult",1,"Female",True
+"FC3","Far Cry 3","2019-11-01 00:00:00","Action","Ubisoft Montreal","CAN","Multi","21%","TR",0,"0%",8.8,"Young adult",0,"Male",False
+"FC3","Far Cry 3","2019-11-01 00:00:00","Action","Ubisoft Montreal","CAN","Multi","21%","TR",0,"0%",8.8,"Young adult",0,"Male",False
+"FC3","Far Cry 3","2019-11-01 00:00:00","Action","Ubisoft Montreal","CAN","Multi","21%","TR",0,"0%",8.8,"Middle-aged",0,"Male",False
+"FC3","Far Cry 3","2019-11-01 00:00:00","Action","Ubisoft Montreal","CAN","Multi","21%","TR",0,"0%",8.8,"Middle-aged",0,"Male",False
+"FC3","Far Cry 3","2019-11-01 00:00:00","Action","Ubisoft Montreal","CAN","Multi","21%","TR",0,"0%",8.8,"Young adult",0,"Male",False
+"PSN5","Persona 5","2016-09-01 00:00:00","RPG","P-Studio","JPN","Multi","44%","TR",0,"0%",9.5,"Teenager",0,"Male",False
+"PSN5","Persona 5","2016-09-01 00:00:00","RPG","P-Studio","JPN","Multi","44%","TR",0,"0%",9.5,"Unknown",0,"Male",False
+"PSN5","Persona 5","2016-09-01 00:00:00","RPG","P-Studio","JPN","Multi","44%","TR",0,"0%",9.5,"Teenager",0,"Male",False
+"PSN5","Persona 5","2016-09-01 00:00:00","RPG","P-Studio","JPN","Multi","44%","TR",0,"0%",9.5,"Adult",0,"Male",False
+"PSN5","Persona 5","2016-09-01 00:00:00","RPG","P-Studio","JPN","Multi","44%","TR",0,"0%",9.5,"Teenager",0,"Female",False
+"PSN5","Persona 5","2016-09-01 00:00:00","RPG","P-Studio","JPN","Multi","44%","TR",0,"0%",9.5,"Young adult",0,"Male",False
+"PSN5","Persona 5","2016-09-01 00:00:00","RPG","P-Studio","JPN","Multi","44%","TR",0,"0%",9.5,"Middle-aged",0,"Male",False
+"PSN5","Persona 5","2016-09-01 00:00:00","RPG","P-Studio","JPN","Multi","44%","TR",0,"0%",9.5,"Unknown",0,"Female",False
+"PSN5","Persona 5","2016-09-01 00:00:00","RPG","P-Studio","JPN","Multi","44%","TR",0,"0%",9.5,"Middle-aged",0,"Male",False
+"PSN5","Persona 5","2016-09-01 00:00:00","RPG","P-Studio","JPN","Multi","44%","TR",0,"0%",9.5,"Teenager",2,"Female",False
+"PSN5","Persona 5","2016-09-01 00:00:00","RPG","P-Studio","JPN","Multi","44%","TR",0,"0%",9.5,"Teenager",1,"Female",True
+"PSN5","Persona 5","2016-09-01 00:00:00","RPG","P-Studio","JPN","Multi","44%","TR",0,"0%",9.5,"Teenager",0,"Male",False
+"PSN5","Persona 5","2016-09-01 00:00:00","RPG","P-Studio","JPN","Multi","44%","TR",0,"0%",9.5,"Teenager",0,"Female",False
+"PSN5","Persona 5","2016-09-01 00:00:00","RPG","P-Studio","JPN","Multi","44%","TR",0,"0%",9.5,"Young adult",0,"Female",False
+"PSN5","Persona 5","2016-09-01 00:00:00","RPG","P-Studio","JPN","Multi","44%","TR",0,"0%",9.5,"Teenager",0,"Female",False
+"PSN5","Persona 5","2016-09-01 00:00:00","RPG","P-Studio","JPN","Multi","44%","TR",0,"0%",9.5,"Teenager",0,"Female",False
+"PSN5","Persona 5","2016-09-01 00:00:00","RPG","P-Studio","JPN","Multi","44%","TR",0,"0%",9.5,"Middle-aged",0,"Male",False
+"PSN5","Persona 5","2016-09-01 00:00:00","RPG","P-Studio","JPN","Multi","44%","TR",0,"0%",9.5,"Adult",0,"Male",False
+"TN","Tunic","2022-09-01 00:00:00","Action-adventure","Andrew Shouldice","CAN","Multi","100%","TR",0,"0%",8.9,"Unknown",0,"Non-binary",False
+"TN","Tunic","2022-09-01 00:00:00","Action-adventure","Andrew Shouldice","CAN","Multi","100%","TR",0,"0%",8.9,"Unknown",0,"Non-binary",False
+"ER","Elden Ring","2022-02-01 00:00:00","RPG","FromSoftware","JPN","Multi","47%","TR",0,"0%",9.9,"Adult",0,"Custom",False
+"ER","Elden Ring","2022-02-01 00:00:00","RPG","FromSoftware","JPN","Multi","47%","TR",0,"0%",9.9,"Adult",0,"Female",False
+"ER","Elden Ring","2022-02-01 00:00:00","RPG","FromSoftware","JPN","Multi","47%","TR",0,"0%",9.9,"Unknown",0,"Female",False
+"ER","Elden Ring","2022-02-01 00:00:00","RPG","FromSoftware","JPN","Multi","47%","TR",0,"0%",9.9,"Adult",0,"Female",False
+"ER","Elden Ring","2022-02-01 00:00:00","RPG","FromSoftware","JPN","Multi","47%","TR",0,"0%",9.9,"Unknown",0,"Non-binary",False
+"ER","Elden Ring","2022-02-01 00:00:00","RPG","FromSoftware","JPN","Multi","47%","TR",0,"0%",9.9,"Adult",0,"Male",False
+"ER","Elden Ring","2022-02-01 00:00:00","RPG","FromSoftware","JPN","Multi","47%","TR",0,"0%",9.9,"Adult",0,"Male",False
+"ER","Elden Ring","2022-02-01 00:00:00","RPG","FromSoftware","JPN","Multi","47%","TR",0,"0%",9.9,"Adult",0,"Male",False
+"ER","Elden Ring","2022-02-01 00:00:00","RPG","FromSoftware","JPN","Multi","47%","TR",0,"0%",9.9,"Unknown",0,"Non-binary",False
+"ER","Elden Ring","2022-02-01 00:00:00","RPG","FromSoftware","JPN","Multi","47%","TR",0,"0%",9.9,"Adult",0,"Female",False
+"ER","Elden Ring","2022-02-01 00:00:00","RPG","FromSoftware","JPN","Multi","47%","TR",0,"0%",9.9,"Adult",0,"Male",False
+"ER","Elden Ring","2022-02-01 00:00:00","RPG","FromSoftware","JPN","Multi","47%","TR",0,"0%",9.9,"Adult",0,"Female",False
+"ER","Elden Ring","2022-02-01 00:00:00","RPG","FromSoftware","JPN","Multi","47%","TR",0,"0%",9.9,"Adult",0,"Male",False
+"ER","Elden Ring","2022-02-01 00:00:00","RPG","FromSoftware","JPN","Multi","47%","TR",0,"0%",9.9,"Adult",0,"Male",False
+"ER","Elden Ring","2022-02-01 00:00:00","RPG","FromSoftware","JPN","Multi","47%","TR",0,"0%",9.9,"Adult",0,"Male",False
+"ER","Elden Ring","2022-02-01 00:00:00","RPG","FromSoftware","JPN","Multi","47%","TR",0,"0%",9.9,"Adult",0,"Female",False
+"ER","Elden Ring","2022-02-01 00:00:00","RPG","FromSoftware","JPN","Multi","47%","TR",0,"0%",9.9,"Adult",0,"Male",False
+"ER","Elden Ring","2022-02-01 00:00:00","RPG","FromSoftware","JPN","Multi","47%","TR",0,"0%",9.9,"Adult",0,"Male",False
+"ER","Elden Ring","2022-02-01 00:00:00","RPG","FromSoftware","JPN","Multi","47%","TR",0,"0%",9.9,"Adult",0,"Male",False
+"TSPUD","The Stanley Parable (Ultra Deluxe)","2022-04-01 00:00:00","Interactive Story","Galactic Cafe","GBR","Multi","0%","TR",1,"25%",9,"Adult",0,"Male",False
+"TSPUD","The Stanley Parable (Ultra Deluxe)","2022-04-01 00:00:00","Interactive Story","Galactic Cafe","GBR","Multi","0%","TR",1,"25%",9,"Unknown",0,"Male",False
+"NW","Neon White","2022-06-01 00:00:00","Action","Angel Matrix","USA","Multi","44%","TR",0,"0%",8.6,"Adult",0,"Male",False
+"NW","Neon White","2022-06-01 00:00:00","Action","Angel Matrix","USA","Multi","44%","TR",0,"0%",8.6,"Unknown",0,"Male",False
+"NW","Neon White","2022-06-01 00:00:00","Action","Angel Matrix","USA","Multi","44%","TR",0,"0%",8.6,"Adult",0,"Male",False
+"NW","Neon White","2022-06-01 00:00:00","Action","Angel Matrix","USA","Multi","44%","TR",0,"0%",8.6,"Unknown",0,"Non-binary",False
+"NW","Neon White","2022-06-01 00:00:00","Action","Angel Matrix","USA","Multi","44%","TR",0,"0%",8.6,"Adult",1,"Female",False
+"NW","Neon White","2022-06-01 00:00:00","Action","Angel Matrix","USA","Multi","44%","TR",0,"0%",8.6,"Adult",2,"Female",False
+"NW","Neon White","2022-06-01 00:00:00","Action","Angel Matrix","USA","Multi","44%","TR",0,"0%",8.6,"Adult",0,"Male",False
+"NW","Neon White","2022-06-01 00:00:00","Action","Angel Matrix","USA","Multi","44%","TR",0,"0%",8.6,"Unknown",0,"Male",False
+"NW","Neon White","2022-06-01 00:00:00","Action","Angel Matrix","USA","Multi","44%","TR",0,"0%",8.6,"Unknown",0,"Female",False
+"CH","Cuphead","2017-09-01 00:00:00","Action","Studio MDHR","CAN","Multi","14%","TR",2,"25%",8.9,"Unknown",0,"Male",False
+"CH","Cuphead","2017-09-01 00:00:00","Action","Studio MDHR","CAN","Multi","14%","TR",2,"25%",8.9,"Unknown",0,"Male",False
+"CH","Cuphead","2017-09-01 00:00:00","Action","Studio MDHR","CAN","Multi","14%","TR",2,"25%",8.9,"Unknown",0,"Male",False
+"CH","Cuphead","2017-09-01 00:00:00","Action","Studio MDHR","CAN","Multi","14%","TR",2,"25%",8.9,"Unknown",0,"Male",False
+"CH","Cuphead","2017-09-01 00:00:00","Action","Studio MDHR","CAN","Multi","14%","TR",2,"25%",8.9,"Unknown",0,"Male",False
+"CH","Cuphead","2017-09-01 00:00:00","Action","Studio MDHR","CAN","Multi","14%","TR",2,"25%",8.9,"Unknown",0,"Male",False
+"CH","Cuphead","2017-09-01 00:00:00","Action","Studio MDHR","CAN","Multi","14%","TR",2,"25%",8.9,"Unknown",1,"Female",True
+"DL","Deathloop","2021-09-01 00:00:00","Action","Arkane Lyon","FRA","Multi","44%","TR",1,"14%",9.5,"Adult",0,"Male",False
+"DL","Deathloop","2021-09-01 00:00:00","Action","Arkane Lyon","FRA","Multi","44%","TR",1,"14%",9.5,"Adult",0,"Female",False
+"DL","Deathloop","2021-09-01 00:00:00","Action","Arkane Lyon","FRA","Multi","44%","TR",1,"14%",9.5,"Adult",0,"Female",False
+"DL","Deathloop","2021-09-01 00:00:00","Action","Arkane Lyon","FRA","Multi","44%","TR",1,"14%",9.5,"Adult",0,"Male",False
+"DL","Deathloop","2021-09-01 00:00:00","Action","Arkane Lyon","FRA","Multi","44%","TR",1,"14%",9.5,"Adult",0,"Male",False
+"DL","Deathloop","2021-09-01 00:00:00","Action","Arkane Lyon","FRA","Multi","44%","TR",1,"14%",9.5,"Adult",0,"Female",False
+"DL","Deathloop","2021-09-01 00:00:00","Action","Arkane Lyon","FRA","Multi","44%","TR",1,"14%",9.5,"Adult",0,"Male",False
+"DL","Deathloop","2021-09-01 00:00:00","Action","Arkane Lyon","FRA","Multi","44%","TR",1,"14%",9.5,"Adult",0,"Female",False
+"DL","Deathloop","2021-09-01 00:00:00","Action","Arkane Lyon","FRA","Multi","44%","TR",1,"14%",9.5,"Adult",0,"Male",False
+"NRA","NieR: Automata","2017-02-01 00:00:00","RPG","PlatinumGames","JPN","Multi","62%","TR",1,"8%",9,"Young adult",1,"Female",False
+"NRA","NieR: Automata","2017-02-01 00:00:00","RPG","PlatinumGames","JPN","Multi","62%","TR",1,"8%",9,"Young adult",0,"Male",False
+"NRA","NieR: Automata","2017-02-01 00:00:00","RPG","PlatinumGames","JPN","Multi","62%","TR",1,"8%",9,"Young adult",1,"Female",False
+"NRA","NieR: Automata","2017-02-01 00:00:00","RPG","PlatinumGames","JPN","Multi","62%","TR",1,"8%",9,"Unknown",0,"Non-binary",False
+"NRA","NieR: Automata","2017-02-01 00:00:00","RPG","PlatinumGames","JPN","Multi","62%","TR",1,"8%",9,"Adult",0,"Male",False
+"NRA","NieR: Automata","2017-02-01 00:00:00","RPG","PlatinumGames","JPN","Multi","62%","TR",1,"8%",9,"Adult",1,"Male",False
+"NRA","NieR: Automata","2017-02-01 00:00:00","RPG","PlatinumGames","JPN","Multi","62%","TR",1,"8%",9,"Teenager",0,"Female",False
+"NRA","NieR: Automata","2017-02-01 00:00:00","RPG","PlatinumGames","JPN","Multi","62%","TR",1,"8%",9,"Adult",0,"Female",False
+"NRA","NieR: Automata","2017-02-01 00:00:00","RPG","PlatinumGames","JPN","Multi","62%","TR",1,"8%",9,"Adult",0,"Female",False
+"NRA","NieR: Automata","2017-02-01 00:00:00","RPG","PlatinumGames","JPN","Multi","62%","TR",1,"8%",9,"Unknown",0,"Male",False
+"NRA","NieR: Automata","2017-02-01 00:00:00","RPG","PlatinumGames","JPN","Multi","62%","TR",1,"8%",9,"Adult",0,"Female",False
+"NRA","NieR: Automata","2017-02-01 00:00:00","RPG","PlatinumGames","JPN","Multi","62%","TR",1,"8%",9,"Adult",0,"Female",False
+"NRA","NieR: Automata","2017-02-01 00:00:00","RPG","PlatinumGames","JPN","Multi","62%","TR",1,"8%",9,"Child",0,"Male",False
+"IWATE","I Was a Teenage Exocolonist","2022-08-01 00:00:00","RPG","Northway Gates","CAN","Multi","52%","TR",4,"67%",8.9,"Teenager",0,"Male",False
+"IWATE","I Was a Teenage Exocolonist","2022-08-01 00:00:00","RPG","Northway Gates","CAN","Multi","52%","TR",4,"67%",8.9,"Teenager",0,"Female",False
+"IWATE","I Was a Teenage Exocolonist","2022-08-01 00:00:00","RPG","Northway Gates","CAN","Multi","52%","TR",4,"67%",8.9,"Teenager",0,"Male",False
+"IWATE","I Was a Teenage Exocolonist","2022-08-01 00:00:00","RPG","Northway Gates","CAN","Multi","52%","TR",4,"67%",8.9,"Teenager",0,"Female",False
+"IWATE","I Was a Teenage Exocolonist","2022-08-01 00:00:00","RPG","Northway Gates","CAN","Multi","52%","TR",4,"67%",8.9,"Teenager",0,"Male",False
+"IWATE","I Was a Teenage Exocolonist","2022-08-01 00:00:00","RPG","Northway Gates","CAN","Multi","52%","TR",4,"67%",8.9,"Teenager",0,"Female",False
+"IWATE","I Was a Teenage Exocolonist","2022-08-01 00:00:00","RPG","Northway Gates","CAN","Multi","52%","TR",4,"67%",8.9,"Teenager",0,"Male",False
+"IWATE","I Was a Teenage Exocolonist","2022-08-01 00:00:00","RPG","Northway Gates","CAN","Multi","52%","TR",4,"67%",8.9,"Teenager",0,"Non-binary",False
+"IWATE","I Was a Teenage Exocolonist","2022-08-01 00:00:00","RPG","Northway Gates","CAN","Multi","52%","TR",4,"67%",8.9,"Teenager",0,"Male",False
+"IWATE","I Was a Teenage Exocolonist","2022-08-01 00:00:00","RPG","Northway Gates","CAN","Multi","52%","TR",4,"67%",8.9,"Teenager",0,"Female",False
+"IWATE","I Was a Teenage Exocolonist","2022-08-01 00:00:00","RPG","Northway Gates","CAN","Multi","52%","TR",4,"67%",8.9,"Teenager",0,"Custom",False
+"IWATE","I Was a Teenage Exocolonist","2022-08-01 00:00:00","RPG","Northway Gates","CAN","Multi","52%","TR",4,"67%",8.9,"Adult",0,"Female",False
+"IWATE","I Was a Teenage Exocolonist","2022-08-01 00:00:00","RPG","Northway Gates","CAN","Multi","52%","TR",4,"67%",8.9,"Adult",0,"Male",False
+"IWATE","I Was a Teenage Exocolonist","2022-08-01 00:00:00","RPG","Northway Gates","CAN","Multi","52%","TR",4,"67%",8.9,"Elderly",0,"Female",False
+"IWATE","I Was a Teenage Exocolonist","2022-08-01 00:00:00","RPG","Northway Gates","CAN","Multi","52%","TR",4,"67%",8.9,"Adult",0,"Male",False
+"IWATE","I Was a Teenage Exocolonist","2022-08-01 00:00:00","RPG","Northway Gates","CAN","Multi","52%","TR",4,"67%",8.9,"Middle-aged",0,"Female",False
+"IWATE","I Was a Teenage Exocolonist","2022-08-01 00:00:00","RPG","Northway Gates","CAN","Multi","52%","TR",4,"67%",8.9,"Middle-aged",0,"Male",False
+"IWATE","I Was a Teenage Exocolonist","2022-08-01 00:00:00","RPG","Northway Gates","CAN","Multi","52%","TR",4,"67%",8.9,"Middle-aged",0,"Male",False
+"IWATE","I Was a Teenage Exocolonist","2022-08-01 00:00:00","RPG","Northway Gates","CAN","Multi","52%","TR",4,"67%",8.9,"Adult",0,"Female",False
+"IWATE","I Was a Teenage Exocolonist","2022-08-01 00:00:00","RPG","Northway Gates","CAN","Multi","52%","TR",4,"67%",8.9,"Middle-aged",0,"Male",False
+"IWATE","I Was a Teenage Exocolonist","2022-08-01 00:00:00","RPG","Northway Gates","CAN","Multi","52%","TR",4,"67%",8.9,"Middle-aged",0,"Female",False
+"IWATE","I Was a Teenage Exocolonist","2022-08-01 00:00:00","RPG","Northway Gates","CAN","Multi","52%","TR",4,"67%",8.9,"Middle-aged",0,"Non-binary",False
+"IWATE","I Was a Teenage Exocolonist","2022-08-01 00:00:00","RPG","Northway Gates","CAN","Multi","52%","TR",4,"67%",8.9,"Adult",0,"Male",False
+"IWATE","I Was a Teenage Exocolonist","2022-08-01 00:00:00","RPG","Northway Gates","CAN","Multi","52%","TR",4,"67%",8.9,"Child",0,"Female",False
+"IWATE","I Was a Teenage Exocolonist","2022-08-01 00:00:00","RPG","Northway Gates","CAN","Multi","52%","TR",4,"67%",8.9,"Adult",0,"Female",False
+"IWATE","I Was a Teenage Exocolonist","2022-08-01 00:00:00","RPG","Northway Gates","CAN","Multi","52%","TR",4,"67%",8.9,"Adult",0,"Male",False
+"IWATE","I Was a Teenage Exocolonist","2022-08-01 00:00:00","RPG","Northway Gates","CAN","Multi","52%","TR",4,"67%",8.9,"Adult",0,"Male",False
+"IMM","Immortality","2022-08-01 00:00:00","Interactive Story","Sam Barlow","GBR","Multi","57%","TR",4,"31%",8.5,"Adult",0,"Female",False
+"IMM","Immortality","2022-08-01 00:00:00","Interactive Story","Sam Barlow","GBR","Multi","57%","TR",4,"31%",8.5,"Unknown",0,"Non-binary",False
+"IMM","Immortality","2022-08-01 00:00:00","Interactive Story","Sam Barlow","GBR","Multi","57%","TR",4,"31%",8.5,"Unknown",0,"Non-binary",False
+"IMM","Immortality","2022-08-01 00:00:00","Interactive Story","Sam Barlow","GBR","Multi","57%","TR",4,"31%",8.5,"Adult",0,"Male",False
+"IMM","Immortality","2022-08-01 00:00:00","Interactive Story","Sam Barlow","GBR","Multi","57%","TR",4,"31%",8.5,"Adult",0,"Male",False
+"IMM","Immortality","2022-08-01 00:00:00","Interactive Story","Sam Barlow","GBR","Multi","57%","TR",4,"31%",8.5,"Adult",0,"Male",False
+"IMM","Immortality","2022-08-01 00:00:00","Interactive Story","Sam Barlow","GBR","Multi","57%","TR",4,"31%",8.5,"Adult",0,"Female",False
+"DEL","Disco Elysium","2019-10-01 00:00:00","RPG","ZA/UM","GBR","Multi","33%","TR",0,"0%",9.3,"Middle-aged",0,"Male",False
+"DEL","Disco Elysium","2019-10-01 00:00:00","RPG","ZA/UM","GBR","Multi","33%","TR",0,"0%",9.3,"Middle-aged",0,"Male",False
+"DEL","Disco Elysium","2019-10-01 00:00:00","RPG","ZA/UM","GBR","Multi","33%","TR",0,"0%",9.3,"Adult",0,"Female",False
+"HA","Hades","2021-09-01 00:00:00","RPG","Supergiant Games","USA","Computer","44%","TR",2,"20%",9.1,"Adult",0,"Male",False
+"HA","Hades","2021-09-01 00:00:00","RPG","Supergiant Games","USA","Computer","44%","TR",2,"20%",9.1,"Adult",0,"Male",False
+"HA","Hades","2021-09-01 00:00:00","RPG","Supergiant Games","USA","Computer","44%","TR",2,"20%",9.1,"Adult",0,"Female",False
+"HA","Hades","2021-09-01 00:00:00","RPG","Supergiant Games","USA","Computer","44%","TR",2,"20%",9.1,"Adult",0,"Female",False
+"HA","Hades","2021-09-01 00:00:00","RPG","Supergiant Games","USA","Computer","44%","TR",2,"20%",9.1,"Adult",0,"Male",False
+"HA","Hades","2021-09-01 00:00:00","RPG","Supergiant Games","USA","Computer","44%","TR",2,"20%",9.1,"Adult",0,"Male",False
+"HA","Hades","2021-09-01 00:00:00","RPG","Supergiant Games","USA","Computer","44%","TR",2,"20%",9.1,"Adult",0,"Female",False
+"HA","Hades","2021-09-01 00:00:00","RPG","Supergiant Games","USA","Computer","44%","TR",2,"20%",9.1,"Adult",0,"Male",False
+"HA","Hades","2021-09-01 00:00:00","RPG","Supergiant Games","USA","Computer","44%","TR",2,"20%",9.1,"Adult",0,"Female",False
+"HA","Hades","2021-09-01 00:00:00","RPG","Supergiant Games","USA","Computer","44%","TR",2,"20%",9.1,"Adult",0,"Male",False
+"HA","Hades","2021-09-01 00:00:00","RPG","Supergiant Games","USA","Computer","44%","TR",2,"20%",9.1,"Adult",0,"Female",False
+"HA","Hades","2021-09-01 00:00:00","RPG","Supergiant Games","USA","Computer","44%","TR",2,"20%",9.1,"Adult",0,"Male",False
+"HA","Hades","2021-09-01 00:00:00","RPG","Supergiant Games","USA","Computer","44%","TR",2,"20%",9.1,"Adult",0,"Male",False
+"HA","Hades","2021-09-01 00:00:00","RPG","Supergiant Games","USA","Computer","44%","TR",2,"20%",9.1,"Adult",0,"Female",False
+"HA","Hades","2021-09-01 00:00:00","RPG","Supergiant Games","USA","Computer","44%","TR",2,"20%",9.1,"Adult",0,"Female",False
+"HA","Hades","2021-09-01 00:00:00","RPG","Supergiant Games","USA","Computer","44%","TR",2,"20%",9.1,"Adult",0,"Male",False
+"CACW","Chicory: A Colorful World","2021-06-01 00:00:00","Adventure","Finji","USA","Multi","100%","TR",2,"67%",9.1,"Unknown",0,"Non-binary",False
+"CACW","Chicory: A Colorful World","2021-06-01 00:00:00","Adventure","Finji","USA","Multi","100%","TR",2,"67%",9.1,"Unknown",0,"Female",False
+"CACW","Chicory: A Colorful World","2021-06-01 00:00:00","Adventure","Finji","USA","Multi","100%","TR",2,"67%",9.1,"Unknown",0,"Female",False
+"ITT","It Takes Two","2021-03-01 00:00:00","Action-adventure","Hazelight Studios","SWE","Multi","50%","TR",1,"20%",9,"Adult",0,"Male",False
+"ITT","It Takes Two","2021-03-01 00:00:00","Action-adventure","Hazelight Studios","SWE","Multi","50%","TR",1,"20%",9,"Adult",0,"Female",False
+"ITT","It Takes Two","2021-03-01 00:00:00","Action-adventure","Hazelight Studios","SWE","Multi","50%","TR",1,"20%",9,"Child",0,"Female",False
+"ITT","It Takes Two","2021-03-01 00:00:00","Action-adventure","Hazelight Studios","SWE","Multi","50%","TR",1,"20%",9,"Unknown",0,"Male",False
+"TLOU2","The Last of Us Part II","2020-06-01 00:00:00","Action-adventure","Naughty Dog","USA","PS4","45%","TR",2,"18%",9,"Young adult",0,"Female",False
+"TLOU2","The Last of Us Part II","2020-06-01 00:00:00","Action-adventure","Naughty Dog","USA","PS4","45%","TR",2,"18%",9,"Young adult",0,"Female",False
+"TLOU2","The Last of Us Part II","2020-06-01 00:00:00","Action-adventure","Naughty Dog","USA","PS4","45%","TR",2,"18%",9,"Middle-aged",0,"Male",False
+"TLOU2","The Last of Us Part II","2020-06-01 00:00:00","Action-adventure","Naughty Dog","USA","PS4","45%","TR",2,"18%",9,"Middle-aged",0,"Male",False
+"TLOU2","The Last of Us Part II","2020-06-01 00:00:00","Action-adventure","Naughty Dog","USA","PS4","45%","TR",2,"18%",9,"Young adult",0,"Female",False
+"TLOU2","The Last of Us Part II","2020-06-01 00:00:00","Action-adventure","Naughty Dog","USA","PS4","45%","TR",2,"18%",9,"Young adult",0,"Male",False
+"TLOU2","The Last of Us Part II","2020-06-01 00:00:00","Action-adventure","Naughty Dog","USA","PS4","45%","TR",2,"18%",9,"Child",0,"Male",False
+"TLOU2","The Last of Us Part II","2020-06-01 00:00:00","Action-adventure","Naughty Dog","USA","PS4","45%","TR",2,"18%",9,"Teenager",0,"Female",False
+"TLOU2","The Last of Us Part II","2020-06-01 00:00:00","Action-adventure","Naughty Dog","USA","PS4","45%","TR",2,"18%",9,"Adult",0,"Male",False
+"TLOU2","The Last of Us Part II","2020-06-01 00:00:00","Action-adventure","Naughty Dog","USA","PS4","45%","TR",2,"18%",9,"Young adult",0,"Male",False
+"TLOU2","The Last of Us Part II","2020-06-01 00:00:00","Action-adventure","Naughty Dog","USA","PS4","45%","TR",2,"18%",9,"Young adult",0,"Female",False
+"HLA","Half-Life:Alyx","2020-03-01 00:00:00","Action","Valve","USA","Computer","20%","TR",0,"0%",9.3,"Young adult",0,"Female",False
+"HLA","Half-Life:Alyx","2020-03-01 00:00:00","Action","Valve","USA","Computer","20%","TR",0,"0%",9.3,"Middle-aged",0,"Male",False
+"HLA","Half-Life:Alyx","2020-03-01 00:00:00","Action","Valve","USA","Computer","20%","TR",0,"0%",9.3,"Middle-aged",0,"Male",False
+"HLA","Half-Life:Alyx","2020-03-01 00:00:00","Action","Valve","USA","Computer","20%","TR",0,"0%",9.3,"Unknown",0,"Male",False
+"HLA","Half-Life:Alyx","2020-03-01 00:00:00","Action","Valve","USA","Computer","20%","TR",0,"0%",9.3,"Middle-aged",0,"Male",False
+"OAWW","Ori and the Will of the Wisps","2020-03-01 00:00:00","Action-adventure","Moon Studios","AUT","Multi","63%","TR",1,"10%",9,"Unknown",0,"Female",False
+"OAWW","Ori and the Will of the Wisps","2020-03-01 00:00:00","Action-adventure","Moon Studios","AUT","Multi","63%","TR",1,"10%",9,"Unknown",0,"Female",False
+"OAWW","Ori and the Will of the Wisps","2020-03-01 00:00:00","Action-adventure","Moon Studios","AUT","Multi","63%","TR",1,"10%",9,"Unknown",0,"Non-binary",False
+"OAWW","Ori and the Will of the Wisps","2020-03-01 00:00:00","Action-adventure","Moon Studios","AUT","Multi","63%","TR",1,"10%",9,"Unknown",0,"Male",False
+"OAWW","Ori and the Will of the Wisps","2020-03-01 00:00:00","Action-adventure","Moon Studios","AUT","Multi","63%","TR",1,"10%",9,"Unknown",0,"Male",False
+"OAWW","Ori and the Will of the Wisps","2020-03-01 00:00:00","Action-adventure","Moon Studios","AUT","Multi","63%","TR",1,"10%",9,"Unknown",0,"Non-binary",False
+"OAWW","Ori and the Will of the Wisps","2020-03-01 00:00:00","Action-adventure","Moon Studios","AUT","Multi","63%","TR",1,"10%",9,"Unknown",0,"Male",False
+"OAWW","Ori and the Will of the Wisps","2020-03-01 00:00:00","Action-adventure","Moon Studios","AUT","Multi","63%","TR",1,"10%",9,"Unknown",0,"Female",False
+"DQXI","Dragon Quest XI","2017-07-01 00:00:00","RPG","Square Enix","JPN","Multi","31%","TR",0,"0%",8.7,"Teenager",0,"Male",False
+"DQXI","Dragon Quest XI","2017-07-01 00:00:00","RPG","Square Enix","JPN","Multi","31%","TR",0,"0%",8.7,"Elderly",0,"Male",False
+"DQXI","Dragon Quest XI","2017-07-01 00:00:00","RPG","Square Enix","JPN","Multi","31%","TR",0,"0%",8.7,"Teenager",0,"Female",False
+"DQXI","Dragon Quest XI","2017-07-01 00:00:00","RPG","Square Enix","JPN","Multi","31%","TR",0,"0%",8.7,"Young adult",2,"Female",False
+"DQXI","Dragon Quest XI","2017-07-01 00:00:00","RPG","Square Enix","JPN","Multi","31%","TR",0,"0%",8.7,"Young adult",0,"Male",False
+"DQXI","Dragon Quest XI","2017-07-01 00:00:00","RPG","Square Enix","JPN","Multi","31%","TR",0,"0%",8.7,"Adult",0,"Male",False
+"DQXI","Dragon Quest XI","2017-07-01 00:00:00","RPG","Square Enix","JPN","Multi","31%","TR",0,"0%",8.7,"Teenager",0,"Female",False
+"DQXI","Dragon Quest XI","2017-07-01 00:00:00","RPG","Square Enix","JPN","Multi","31%","TR",0,"0%",8.7,"Elderly",0,"Male",False
+"DQXI","Dragon Quest XI","2017-07-01 00:00:00","RPG","Square Enix","JPN","Multi","31%","TR",0,"0%",8.7,"Adult",0,"Male",False
+"DQXI","Dragon Quest XI","2017-07-01 00:00:00","RPG","Square Enix","JPN","Multi","31%","TR",0,"0%",8.7,"Adult",0,"Male",False
+"DQXI","Dragon Quest XI","2017-07-01 00:00:00","RPG","Square Enix","JPN","Multi","31%","TR",0,"0%",8.7,"Unknown",0,"Male",False
+"DQXI","Dragon Quest XI","2017-07-01 00:00:00","RPG","Square Enix","JPN","Multi","31%","TR",0,"0%",8.7,"Unknown",0,"Male",False
+"DQXI","Dragon Quest XI","2017-07-01 00:00:00","RPG","Square Enix","JPN","Multi","31%","TR",0,"0%",8.7,"Unknown",0,"Female",False
+"YK0","Yakuza 0","2015-03-01 00:00:00","Action-adventure","Ryu Ga Gotoku Studio","JPN","Multi","12%","TR",0,"0%",8.6,"Young adult",0,"Male",False
+"YK0","Yakuza 0","2015-03-01 00:00:00","Action-adventure","Ryu Ga Gotoku Studio","JPN","Multi","12%","TR",0,"0%",8.6,"Young adult",0,"Male",False
+"YK0","Yakuza 0","2015-03-01 00:00:00","Action-adventure","Ryu Ga Gotoku Studio","JPN","Multi","12%","TR",0,"0%",8.6,"Middle-aged",0,"Male",False
+"YK0","Yakuza 0","2015-03-01 00:00:00","Action-adventure","Ryu Ga Gotoku Studio","JPN","Multi","12%","TR",0,"0%",8.6,"Middle-aged",0,"Male",False
+"YK0","Yakuza 0","2015-03-01 00:00:00","Action-adventure","Ryu Ga Gotoku Studio","JPN","Multi","12%","TR",0,"0%",8.6,"Middle-aged",0,"Male",False
+"YK0","Yakuza 0","2015-03-01 00:00:00","Action-adventure","Ryu Ga Gotoku Studio","JPN","Multi","12%","TR",0,"0%",8.6,"Middle-aged",0,"Male",False
+"YK0","Yakuza 0","2015-03-01 00:00:00","Action-adventure","Ryu Ga Gotoku Studio","JPN","Multi","12%","TR",0,"0%",8.6,"Adult",0,"Male",False
+"YK0","Yakuza 0","2015-03-01 00:00:00","Action-adventure","Ryu Ga Gotoku Studio","JPN","Multi","12%","TR",0,"0%",8.6,"Young adult",0,"Male",False
+"YK0","Yakuza 0","2015-03-01 00:00:00","Action-adventure","Ryu Ga Gotoku Studio","JPN","Multi","12%","TR",0,"0%",8.6,"Middle-aged",0,"Male",False
+"YK0","Yakuza 0","2015-03-01 00:00:00","Action-adventure","Ryu Ga Gotoku Studio","JPN","Multi","12%","TR",0,"0%",8.6,"Middle-aged",0,"Male",False
+"YK0","Yakuza 0","2015-03-01 00:00:00","Action-adventure","Ryu Ga Gotoku Studio","JPN","Multi","12%","TR",0,"0%",8.6,"Young adult",2,"Female",True
+"YK0","Yakuza 0","2015-03-01 00:00:00","Action-adventure","Ryu Ga Gotoku Studio","JPN","Multi","12%","TR",0,"0%",8.6,"Adult",0,"Male",False
+"YK0","Yakuza 0","2015-03-01 00:00:00","Action-adventure","Ryu Ga Gotoku Studio","JPN","Multi","12%","TR",0,"0%",8.6,"Young adult",0,"Male",False
+"YK0","Yakuza 0","2015-03-01 00:00:00","Action-adventure","Ryu Ga Gotoku Studio","JPN","Multi","12%","TR",0,"0%",8.6,"Adult",0,"Male",False
+"YK0","Yakuza 0","2015-03-01 00:00:00","Action-adventure","Ryu Ga Gotoku Studio","JPN","Multi","12%","TR",0,"0%",8.6,"Adult",0,"Female",False
+"YK0","Yakuza 0","2015-03-01 00:00:00","Action-adventure","Ryu Ga Gotoku Studio","JPN","Multi","12%","TR",0,"0%",8.6,"Adult",0,"Male",False
+"YK0","Yakuza 0","2015-03-01 00:00:00","Action-adventure","Ryu Ga Gotoku Studio","JPN","Multi","12%","TR",0,"0%",8.6,"Middle-aged",0,"Male",False
+"TINGWD","There is No Game: Wrong Dimension","2020-08-01 00:00:00","Interactive Story","Draw Me A Pixel","FRA","Computer","40%","TR",2,"33%",9.2,"Unknown",0,"Non-binary",False
+"TINGWD","There is No Game: Wrong Dimension","2020-08-01 00:00:00","Interactive Story","Draw Me A Pixel","FRA","Computer","40%","TR",2,"33%",9.2,"Unknown",0,"Male",False
+"TINGWD","There is No Game: Wrong Dimension","2020-08-01 00:00:00","Interactive Story","Draw Me A Pixel","FRA","Computer","40%","TR",2,"33%",9.2,"Unknown",1,"Female",True
+"TINGWD","There is No Game: Wrong Dimension","2020-08-01 00:00:00","Interactive Story","Draw Me A Pixel","FRA","Computer","40%","TR",2,"33%",9.2,"Unknown",0,"Male",False
+"TINGWD","There is No Game: Wrong Dimension","2020-08-01 00:00:00","Interactive Story","Draw Me A Pixel","FRA","Computer","40%","TR",2,"33%",9.2,"Adult",0,"Male",False
+"DOS2","Divinity:Original Sin II","2017-09-01 00:00:00","RPG","Larian Studios","BEL","Multi","36%","TR",1,"14%",9.5,"Adult",0,"Custom",False
+"DOS2","Divinity:Original Sin II","2017-09-01 00:00:00","RPG","Larian Studios","BEL","Multi","36%","TR",1,"14%",9.5,"Adult",0,"Male",False
+"DOS2","Divinity:Original Sin II","2017-09-01 00:00:00","RPG","Larian Studios","BEL","Multi","36%","TR",1,"14%",9.5,"Adult",0,"Female",False
+"DOS2","Divinity:Original Sin II","2017-09-01 00:00:00","RPG","Larian Studios","BEL","Multi","36%","TR",1,"14%",9.5,"Adult",0,"Male",False
+"DOS2","Divinity:Original Sin II","2017-09-01 00:00:00","RPG","Larian Studios","BEL","Multi","36%","TR",1,"14%",9.5,"Adult",0,"Male",False
+"DOS2","Divinity:Original Sin II","2017-09-01 00:00:00","RPG","Larian Studios","BEL","Multi","36%","TR",1,"14%",9.5,"Adult",0,"Male",False
+"DOS2","Divinity:Original Sin II","2017-09-01 00:00:00","RPG","Larian Studios","BEL","Multi","36%","TR",1,"14%",9.5,"Adult",0,"Female",False
+"DOS2","Divinity:Original Sin II","2017-09-01 00:00:00","RPG","Larian Studios","BEL","Multi","36%","TR",1,"14%",9.5,"Adult",0,"Male",False
+"DOS2","Divinity:Original Sin II","2017-09-01 00:00:00","RPG","Larian Studios","BEL","Multi","36%","TR",1,"14%",9.5,"Adult",0,"Male",False
+"DOS2","Divinity:Original Sin II","2017-09-01 00:00:00","RPG","Larian Studios","BEL","Multi","36%","TR",1,"14%",9.5,"Adult",0,"Male",False
+"DOS2","Divinity:Original Sin II","2017-09-01 00:00:00","RPG","Larian Studios","BEL","Multi","36%","TR",1,"14%",9.5,"Adult",0,"Female",False
+"SSDT","Sekiro: Shadows Die Twice","2019-03-01 00:00:00","Action-adventure","FromSoftware","JPN","Multi","13%","TR",0,"0%",9.1,"Adult",0,"Male",False
+"SSDT","Sekiro: Shadows Die Twice","2019-03-01 00:00:00","Action-adventure","FromSoftware","JPN","Multi","13%","TR",0,"0%",9.1,"Child",1,"Male",False
+"SSDT","Sekiro: Shadows Die Twice","2019-03-01 00:00:00","Action-adventure","FromSoftware","JPN","Multi","13%","TR",0,"0%",9.1,"Adult",0,"Male",False
+"SSDT","Sekiro: Shadows Die Twice","2019-03-01 00:00:00","Action-adventure","FromSoftware","JPN","Multi","13%","TR",0,"0%",9.1,"Elderly",0,"Male",False
+"SSDT","Sekiro: Shadows Die Twice","2019-03-01 00:00:00","Action-adventure","FromSoftware","JPN","Multi","13%","TR",0,"0%",9.1,"Adult",0,"Male",False
+"SSDT","Sekiro: Shadows Die Twice","2019-03-01 00:00:00","Action-adventure","FromSoftware","JPN","Multi","13%","TR",0,"0%",9.1,"Adult",0,"Female",False
+"SSDT","Sekiro: Shadows Die Twice","2019-03-01 00:00:00","Action-adventure","FromSoftware","JPN","Multi","13%","TR",0,"0%",9.1,"Elderly",0,"Male",False
+"SSDT","Sekiro: Shadows Die Twice","2019-03-01 00:00:00","Action-adventure","FromSoftware","JPN","Multi","13%","TR",0,"0%",9.1,"Elderly",0,"Male",False
+"OABF","Ori and the Blind Forest","2015-03-01 00:00:00","Action-adventure","Moon Studios","AUT","Multi","80%","TR",0,"0%",9,"Unknown",0,"Non-binary",False
+"OABF","Ori and the Blind Forest","2015-03-01 00:00:00","Action-adventure","Moon Studios","AUT","Multi","80%","TR",0,"0%",9,"Unknown",0,"Female",False
+"OABF","Ori and the Blind Forest","2015-03-01 00:00:00","Action-adventure","Moon Studios","AUT","Multi","80%","TR",0,"0%",9,"Unknown",0,"Female",False
+"OABF","Ori and the Blind Forest","2015-03-01 00:00:00","Action-adventure","Moon Studios","AUT","Multi","80%","TR",0,"0%",9,"Unknown",0,"Male",False
+"OABF","Ori and the Blind Forest","2015-03-01 00:00:00","Action-adventure","Moon Studios","AUT","Multi","80%","TR",0,"0%",9,"Unknown",0,"Non-binary",False
+"DMC5","Devil May Cry 5","2019-03-01 00:00:00","Action-adventure","Capcom","JPN","Multi","38%","TR",0,"0%",9.3,"Young adult",0,"Male",False
+"DMC5","Devil May Cry 5","2019-03-01 00:00:00","Action-adventure","Capcom","JPN","Multi","38%","TR",0,"0%",9.3,"Middle-aged",0,"Male",False
+"DMC5","Devil May Cry 5","2019-03-01 00:00:00","Action-adventure","Capcom","JPN","Multi","38%","TR",0,"0%",9.3,"Adult",0,"Female",False
+"DMC5","Devil May Cry 5","2019-03-01 00:00:00","Action-adventure","Capcom","JPN","Multi","38%","TR",0,"0%",9.3,"Adult",0,"Male",False
+"DMC5","Devil May Cry 5","2019-03-01 00:00:00","Action-adventure","Capcom","JPN","Multi","38%","TR",0,"0%",9.3,"Unknown",0,"Male",False
+"DMC5","Devil May Cry 5","2019-03-01 00:00:00","Action-adventure","Capcom","JPN","Multi","38%","TR",0,"0%",9.3,"Adult",0,"Female",False
+"DMC5","Devil May Cry 5","2019-03-01 00:00:00","Action-adventure","Capcom","JPN","Multi","38%","TR",0,"0%",9.3,"Unknown",0,"Female",False
+"DMC5","Devil May Cry 5","2019-03-01 00:00:00","Action-adventure","Capcom","JPN","Multi","38%","TR",0,"0%",9.3,"Middle-aged",0,"Male",False
+"FE3H","Fire Emblem: Three Houses","2019-07-01 00:00:00","RPG","Intelligent Systems Koei Tecmo","JPN","Nintendo Switch","45%","TR",3,"25%",9.2,"Adult",0,"Custom",False
+"FE3H","Fire Emblem: Three Houses","2019-07-01 00:00:00","RPG","Intelligent Systems Koei Tecmo","JPN","Nintendo Switch","45%","TR",3,"25%",9.2,"Unknown",0,"Female",False
+"FE3H","Fire Emblem: Three Houses","2019-07-01 00:00:00","RPG","Intelligent Systems Koei Tecmo","JPN","Nintendo Switch","45%","TR",3,"25%",9.2,"Young adult",0,"Female",False
+"FE3H","Fire Emblem: Three Houses","2019-07-01 00:00:00","RPG","Intelligent Systems Koei Tecmo","JPN","Nintendo Switch","45%","TR",3,"25%",9.2,"Young adult",0,"Male",False
+"FE3H","Fire Emblem: Three Houses","2019-07-01 00:00:00","RPG","Intelligent Systems Koei Tecmo","JPN","Nintendo Switch","45%","TR",3,"25%",9.2,"Young adult",0,"Male",False
+"FE3H","Fire Emblem: Three Houses","2019-07-01 00:00:00","RPG","Intelligent Systems Koei Tecmo","JPN","Nintendo Switch","45%","TR",3,"25%",9.2,"Elderly",0,"Male",False
+"FE3H","Fire Emblem: Three Houses","2019-07-01 00:00:00","RPG","Intelligent Systems Koei Tecmo","JPN","Nintendo Switch","45%","TR",3,"25%",9.2,"Unknown",0,"Female",False
+"FE3H","Fire Emblem: Three Houses","2019-07-01 00:00:00","RPG","Intelligent Systems Koei Tecmo","JPN","Nintendo Switch","45%","TR",3,"25%",9.2,"Unknown",0,"Male",False
+"FE3H","Fire Emblem: Three Houses","2019-07-01 00:00:00","RPG","Intelligent Systems Koei Tecmo","JPN","Nintendo Switch","45%","TR",3,"25%",9.2,"Unknown",0,"Male",False
+"FE3H","Fire Emblem: Three Houses","2019-07-01 00:00:00","RPG","Intelligent Systems Koei Tecmo","JPN","Nintendo Switch","45%","TR",3,"25%",9.2,"Adult",0,"Female",False
+"FE3H","Fire Emblem: Three Houses","2019-07-01 00:00:00","RPG","Intelligent Systems Koei Tecmo","JPN","Nintendo Switch","45%","TR",3,"25%",9.2,"Unknown",0,"Male",False
+"WROEF","What Remains of Edith Finch","2017-04-01 00:00:00","Adventure","Giant Sparrow","USA","Multi","35%","TR",0,"0%",8.9,"Teenager",0,"Female",False
+"WROEF","What Remains of Edith Finch","2017-04-01 00:00:00","Adventure","Giant Sparrow","USA","Multi","35%","TR",0,"0%",8.9,"Elderly",0,"Female",False
+"WROEF","What Remains of Edith Finch","2017-04-01 00:00:00","Adventure","Giant Sparrow","USA","Multi","35%","TR",0,"0%",8.9,"Middle-aged",0,"Female",False
+"WROEF","What Remains of Edith Finch","2017-04-01 00:00:00","Adventure","Giant Sparrow","USA","Multi","35%","TR",0,"0%",8.9,"Middle-aged",0,"Male",False
+"WROEF","What Remains of Edith Finch","2017-04-01 00:00:00","Adventure","Giant Sparrow","USA","Multi","35%","TR",0,"0%",8.9,"Child",0,"Female",False
+"WROEF","What Remains of Edith Finch","2017-04-01 00:00:00","Adventure","Giant Sparrow","USA","Multi","35%","TR",0,"0%",8.9,"Teenager",0,"Female",False
+"WROEF","What Remains of Edith Finch","2017-04-01 00:00:00","Adventure","Giant Sparrow","USA","Multi","35%","TR",0,"0%",8.9,"Adult",0,"Male",False
+"WROEF","What Remains of Edith Finch","2017-04-01 00:00:00","Adventure","Giant Sparrow","USA","Multi","35%","TR",0,"0%",8.9,"Young adult",0,"Male",False
+"WROEF","What Remains of Edith Finch","2017-04-01 00:00:00","Adventure","Giant Sparrow","USA","Multi","35%","TR",0,"0%",8.9,"Child",0,"Male",False
+"WROEF","What Remains of Edith Finch","2017-04-01 00:00:00","Adventure","Giant Sparrow","USA","Multi","35%","TR",0,"0%",8.9,"Child",0,"Male",False
+"WROEF","What Remains of Edith Finch","2017-04-01 00:00:00","Adventure","Giant Sparrow","USA","Multi","35%","TR",0,"0%",8.9,"Adult",0,"Male",False
+"WROEF","What Remains of Edith Finch","2017-04-01 00:00:00","Adventure","Giant Sparrow","USA","Multi","35%","TR",0,"0%",8.9,"Child",0,"Male",False
+"WROEF","What Remains of Edith Finch","2017-04-01 00:00:00","Adventure","Giant Sparrow","USA","Multi","35%","TR",0,"0%",8.9,"Young adult",0,"Male",False
+"WROEF","What Remains of Edith Finch","2017-04-01 00:00:00","Adventure","Giant Sparrow","USA","Multi","35%","TR",0,"0%",8.9,"Middle-aged",0,"Female",False
+"WROEF","What Remains of Edith Finch","2017-04-01 00:00:00","Adventure","Giant Sparrow","USA","Multi","35%","TR",0,"0%",8.9,"Middle-aged",0,"Male",False
+"WROEF","What Remains of Edith Finch","2017-04-01 00:00:00","Adventure","Giant Sparrow","USA","Multi","35%","TR",0,"0%",8.9,"Child",0,"Male",False
+"WROEF","What Remains of Edith Finch","2017-04-01 00:00:00","Adventure","Giant Sparrow","USA","Multi","35%","TR",0,"0%",8.9,"Unknown",0,"Male",False
+"CLS","Celeste","2018-01-01 00:00:00","Action","Maddy Makes Games","CAN","Multi","67%","TR",3,"60%",9.5,"Young adult",0,"Female",False
+"CLS","Celeste","2018-01-01 00:00:00","Action","Maddy Makes Games","CAN","Multi","67%","TR",3,"60%",9.5,"Elderly",0,"Female",False
+"CLS","Celeste","2018-01-01 00:00:00","Action","Maddy Makes Games","CAN","Multi","67%","TR",3,"60%",9.5,"Adult",0,"Male",False
+"CLS","Celeste","2018-01-01 00:00:00","Action","Maddy Makes Games","CAN","Multi","67%","TR",3,"60%",9.5,"Young adult",0,"Female",False
+"CLS","Celeste","2018-01-01 00:00:00","Action","Maddy Makes Games","CAN","Multi","67%","TR",3,"60%",9.5,"Elderly",0,"Male",False
+"CLS","Celeste","2018-01-01 00:00:00","Action","Maddy Makes Games","CAN","Multi","67%","TR",3,"60%",9.5,"Unknown",0,"Non-binary",False
+"DC","Dead Cells","2018-08-01 00:00:00","Action-adventure","Motion Twin","FRA","Multi","40%","TR",0,"0%",9.1,"Unknown",0,"Non-binary",False
+"DC","Dead Cells","2018-08-01 00:00:00","Action-adventure","Motion Twin","FRA","Multi","40%","TR",0,"0%",9.1,"Unknown",0,"Male",False
+"DC","Dead Cells","2018-08-01 00:00:00","Action-adventure","Motion Twin","FRA","Multi","40%","TR",0,"0%",9.1,"Unknown",0,"Male",False
+"DC","Dead Cells","2018-08-01 00:00:00","Action-adventure","Motion Twin","FRA","Multi","40%","TR",0,"0%",9.1,"Unknown",0,"Female",False
+"DC","Dead Cells","2018-08-01 00:00:00","Action-adventure","Motion Twin","FRA","Multi","40%","TR",0,"0%",9.1,"Unknown",0,"Male",False
+"HLKN","Hollow Knight","2017-02-01 00:00:00","Action-adventure","Team Cherry","AUS","Computer","50%","TR",0,"0%",9.3,"Unknown",0,"Non-binary",False
+"HLKN","Hollow Knight","2017-02-01 00:00:00","Action-adventure","Team Cherry","AUS","Computer","50%","TR",0,"0%",9.3,"Unknown",0,"Male",False
+"HLKN","Hollow Knight","2017-02-01 00:00:00","Action-adventure","Team Cherry","AUS","Computer","50%","TR",0,"0%",9.3,"Unknown",0,"Female",False
+"HLKN","Hollow Knight","2017-02-01 00:00:00","Action-adventure","Team Cherry","AUS","Computer","50%","TR",0,"0%",9.3,"Unknown",0,"Female",False
+"HLKN","Hollow Knight","2017-02-01 00:00:00","Action-adventure","Team Cherry","AUS","Computer","50%","TR",0,"0%",9.3,"Unknown",0,"Non-binary",False
+"HLKN","Hollow Knight","2017-02-01 00:00:00","Action-adventure","Team Cherry","AUS","Computer","50%","TR",0,"0%",9.3,"Unknown",0,"Male",False
+"HLKN","Hollow Knight","2017-02-01 00:00:00","Action-adventure","Team Cherry","AUS","Computer","50%","TR",0,"0%",9.3,"Unknown",0,"Male",False
+"HLKN","Hollow Knight","2017-02-01 00:00:00","Action-adventure","Team Cherry","AUS","Computer","50%","TR",0,"0%",9.3,"Unknown",0,"Female",False
+"HLKN","Hollow Knight","2017-02-01 00:00:00","Action-adventure","Team Cherry","AUS","Computer","50%","TR",0,"0%",9.3,"Unknown",0,"Female",False
+"HLKN","Hollow Knight","2017-02-01 00:00:00","Action-adventure","Team Cherry","AUS","Computer","50%","TR",0,"0%",9.3,"Unknown",0,"Male",False
+"HLKN","Hollow Knight","2017-02-01 00:00:00","Action-adventure","Team Cherry","AUS","Computer","50%","TR",0,"0%",9.3,"Unknown",0,"Female",False
+"HLKN","Hollow Knight","2017-02-01 00:00:00","Action-adventure","Team Cherry","AUS","Computer","50%","TR",0,"0%",9.3,"Unknown",0,"Male",False
+"HLKN","Hollow Knight","2017-02-01 00:00:00","Action-adventure","Team Cherry","AUS","Computer","50%","TR",0,"0%",9.3,"Unknown",0,"Male",False
+"HLKN","Hollow Knight","2017-02-01 00:00:00","Action-adventure","Team Cherry","AUS","Computer","50%","TR",0,"0%",9.3,"Unknown",0,"Male",False
+"HLKN","Hollow Knight","2017-02-01 00:00:00","Action-adventure","Team Cherry","AUS","Computer","50%","TR",0,"0%",9.3,"Unknown",0,"Female",False
+"HLKN","Hollow Knight","2017-02-01 00:00:00","Action-adventure","Team Cherry","AUS","Computer","50%","TR",0,"0%",9.3,"Unknown",0,"Male",False
+"NITW","Night in the Woods","2017-02-01 00:00:00","Adventure","Secret Lab","AUT","Multi","67%","TR",1,"14%",8.9,"Young adult",0,"Female",False
+"NITW","Night in the Woods","2017-02-01 00:00:00","Adventure","Secret Lab","AUT","Multi","67%","TR",1,"14%",8.9,"Young adult",0,"Female",False
+"NITW","Night in the Woods","2017-02-01 00:00:00","Adventure","Secret Lab","AUT","Multi","67%","TR",1,"14%",8.9,"Young adult",0,"Male",False
+"NITW","Night in the Woods","2017-02-01 00:00:00","Adventure","Secret Lab","AUT","Multi","67%","TR",1,"14%",8.9,"Young adult",0,"Male",False
+"NITW","Night in the Woods","2017-02-01 00:00:00","Adventure","Secret Lab","AUT","Multi","67%","TR",1,"14%",8.9,"Young adult",0,"Female",False
+"NITW","Night in the Woods","2017-02-01 00:00:00","Adventure","Secret Lab","AUT","Multi","67%","TR",1,"14%",8.9,"Unknown",0,"Non-binary",False
+"NITW","Night in the Woods","2017-02-01 00:00:00","Adventure","Secret Lab","AUT","Multi","67%","TR",1,"14%",8.9,"Young adult",0,"Male",False
+"NITW","Night in the Woods","2017-02-01 00:00:00","Adventure","Secret Lab","AUT","Multi","67%","TR",1,"14%",8.9,"Middle-aged",0,"Female",False
+"NITW","Night in the Woods","2017-02-01 00:00:00","Adventure","Secret Lab","AUT","Multi","67%","TR",1,"14%",8.9,"Unknown",0,"Non-binary",False
+"BY2","Bayonetta 2","2014-09-01 00:00:00","Action-adventure","PlatinumGames","JPN","Wii U","27%","TR",2,"17%",9.7,"Unknown",2,"Female",False
+"BY2","Bayonetta 2","2014-09-01 00:00:00","Action-adventure","PlatinumGames","JPN","Wii U","27%","TR",2,"17%",9.7,"Unknown",0,"Male",False
+"BY2","Bayonetta 2","2014-09-01 00:00:00","Action-adventure","PlatinumGames","JPN","Wii U","27%","TR",2,"17%",9.7,"Unknown",2,"Female",True
+"BY2","Bayonetta 2","2014-09-01 00:00:00","Action-adventure","PlatinumGames","JPN","Wii U","27%","TR",2,"17%",9.7,"Unknown",0,"Male",False
+"BY2","Bayonetta 2","2014-09-01 00:00:00","Action-adventure","PlatinumGames","JPN","Wii U","27%","TR",2,"17%",9.7,"Unknown",0,"Male",False
+"BY2","Bayonetta 2","2014-09-01 00:00:00","Action-adventure","PlatinumGames","JPN","Wii U","27%","TR",2,"17%",9.7,"Unknown",0,"Male",False
+"BY2","Bayonetta 2","2014-09-01 00:00:00","Action-adventure","PlatinumGames","JPN","Wii U","27%","TR",2,"17%",9.7,"Unknown",0,"Male",False
+"BY2","Bayonetta 2","2014-09-01 00:00:00","Action-adventure","PlatinumGames","JPN","Wii U","27%","TR",2,"17%",9.7,"Unknown",0,"Male",False
+"BY2","Bayonetta 2","2014-09-01 00:00:00","Action-adventure","PlatinumGames","JPN","Wii U","27%","TR",2,"17%",9.7,"Unknown",0,"Male",False
+"BY2","Bayonetta 2","2014-09-01 00:00:00","Action-adventure","PlatinumGames","JPN","Wii U","27%","TR",2,"17%",9.7,"Unknown",0,"Female",False
+"BY2","Bayonetta 2","2014-09-01 00:00:00","Action-adventure","PlatinumGames","JPN","Wii U","27%","TR",2,"17%",9.7,"Unknown",0,"Male",False
+"BRA","Broken Age","2014-01-01 00:00:00","Adventure","Double Fine Productions","USA","Computer","44%","TR",1,"17%",8.5,"Teenager",0,"Female",False
+"BRA","Broken Age","2014-01-01 00:00:00","Adventure","Double Fine Productions","USA","Computer","44%","TR",1,"17%",8.5,"Elderly",0,"Female",False
+"BRA","Broken Age","2014-01-01 00:00:00","Adventure","Double Fine Productions","USA","Computer","44%","TR",1,"17%",8.5,"Unknown",0,"Female",False
+"BRA","Broken Age","2014-01-01 00:00:00","Adventure","Double Fine Productions","USA","Computer","44%","TR",1,"17%",8.5,"Teenager",0,"Male",False
+"BRA","Broken Age","2014-01-01 00:00:00","Adventure","Double Fine Productions","USA","Computer","44%","TR",1,"17%",8.5,"Teenager",0,"Female",False
+"BRA","Broken Age","2014-01-01 00:00:00","Adventure","Double Fine Productions","USA","Computer","44%","TR",1,"17%",8.5,"Adult",0,"Male",False
+"BRA","Broken Age","2014-01-01 00:00:00","Adventure","Double Fine Productions","USA","Computer","44%","TR",1,"17%",8.5,"Elderly",0,"Male",False
+"BRA","Broken Age","2014-01-01 00:00:00","Adventure","Double Fine Productions","USA","Computer","44%","TR",1,"17%",8.5,"Adult",0,"Female",False
+"BRA","Broken Age","2014-01-01 00:00:00","Adventure","Double Fine Productions","USA","Computer","44%","TR",1,"17%",8.5,"Adult",0,"Male",False
+"BRA","Broken Age","2014-01-01 00:00:00","Adventure","Double Fine Productions","USA","Computer","44%","TR",1,"17%",8.5,"Adult",0,"Male",False
+"BRA","Broken Age","2014-01-01 00:00:00","Adventure","Double Fine Productions","USA","Computer","44%","TR",1,"17%",8.5,"Teenager",0,"Male",False
+"BRA","Broken Age","2014-01-01 00:00:00","Adventure","Double Fine Productions","USA","Computer","44%","TR",1,"17%",8.5,"Adult",0,"Female",False
+"BRA","Broken Age","2014-01-01 00:00:00","Adventure","Double Fine Productions","USA","Computer","44%","TR",1,"17%",8.5,"Unknown",0,"Male",False
+"BRA","Broken Age","2014-01-01 00:00:00","Adventure","Double Fine Productions","USA","Computer","44%","TR",1,"17%",8.5,"Unknown",0,"Male",False
+"BRA","Broken Age","2014-01-01 00:00:00","Adventure","Double Fine Productions","USA","Computer","44%","TR",1,"17%",8.5,"Adult",0,"Male",False
+"BRA","Broken Age","2014-01-01 00:00:00","Adventure","Double Fine Productions","USA","Computer","44%","TR",1,"17%",8.5,"Child",0,"Female",False
+"MGSV","Metal Gear Solid V: The Phantom Pain","2015-09-01 00:00:00","Action","Kojima Productions","JPN","Multi","20%","TR",0,"0%",9.6,"Adult",0,"Male",False
+"MGSV","Metal Gear Solid V: The Phantom Pain","2015-09-01 00:00:00","Action","Kojima Productions","JPN","Multi","20%","TR",0,"0%",9.6,"Adult",0,"Female",False
+"MGSV","Metal Gear Solid V: The Phantom Pain","2015-09-01 00:00:00","Action","Kojima Productions","JPN","Multi","20%","TR",0,"0%",9.6,"Adult",0,"Male",False
+"MGSV","Metal Gear Solid V: The Phantom Pain","2015-09-01 00:00:00","Action","Kojima Productions","JPN","Multi","20%","TR",0,"0%",9.6,"Adult",0,"Male",False
+"MGSV","Metal Gear Solid V: The Phantom Pain","2015-09-01 00:00:00","Action","Kojima Productions","JPN","Multi","20%","TR",0,"0%",9.6,"Adult",0,"Male",False
+"MGSV","Metal Gear Solid V: The Phantom Pain","2015-09-01 00:00:00","Action","Kojima Productions","JPN","Multi","20%","TR",0,"0%",9.6,"Elderly",0,"Male",False
+"MGSV","Metal Gear Solid V: The Phantom Pain","2015-09-01 00:00:00","Action","Kojima Productions","JPN","Multi","20%","TR",0,"0%",9.6,"Child",0,"Male",False
+"MGSV","Metal Gear Solid V: The Phantom Pain","2015-09-01 00:00:00","Action","Kojima Productions","JPN","Multi","20%","TR",0,"0%",9.6,"Elderly",0,"Male",False
+"MGSV","Metal Gear Solid V: The Phantom Pain","2015-09-01 00:00:00","Action","Kojima Productions","JPN","Multi","20%","TR",0,"0%",9.6,"Middle-aged",0,"Male",False
+"MGSV","Metal Gear Solid V: The Phantom Pain","2015-09-01 00:00:00","Action","Kojima Productions","JPN","Multi","20%","TR",0,"0%",9.6,"Unknown",0,"Non-binary",False
+"TSWP","The Swapper","2013-05-01 00:00:00","Action","Facepalm Games","FIN","Computer","67%","TR",0,"0%",9,"Unknown",0,"Female",False
+"TSWP","The Swapper","2013-05-01 00:00:00","Action","Facepalm Games","FIN","Computer","67%","TR",0,"0%",9,"Unknown",0,"Non-binary",False
+"TSWP","The Swapper","2013-05-01 00:00:00","Action","Facepalm Games","FIN","Computer","67%","TR",0,"0%",9,"Unknown",0,"Female",False
+"TSWP","The Swapper","2013-05-01 00:00:00","Action","Facepalm Games","FIN","Computer","67%","TR",0,"0%",9,"Unknown",0,"Female",False
+"TSWP","The Swapper","2013-05-01 00:00:00","Action","Facepalm Games","FIN","Computer","67%","TR",0,"0%",9,"Unknown",0,"Male",False
+"TSWP","The Swapper","2013-05-01 00:00:00","Action","Facepalm Games","FIN","Computer","67%","TR",0,"0%",9,"Unknown",0,"Male",False
+"OWB","Owlboy","2016-11-01 00:00:00","Action-adventure","D-Pad Studio","NOR","Multi","0%","TR",0,"0%",9.3,"Child",0,"Male",False
+"OWB","Owlboy","2016-11-01 00:00:00","Action-adventure","D-Pad Studio","NOR","Multi","0%","TR",0,"0%",9.3,"Elderly",0,"Male",False
+"OWB","Owlboy","2016-11-01 00:00:00","Action-adventure","D-Pad Studio","NOR","Multi","0%","TR",0,"0%",9.3,"Young adult",0,"Male",False
+"OWB","Owlboy","2016-11-01 00:00:00","Action-adventure","D-Pad Studio","NOR","Multi","0%","TR",0,"0%",9.3,"Adult",0,"Male",False
+"OWB","Owlboy","2016-11-01 00:00:00","Action-adventure","D-Pad Studio","NOR","Multi","0%","TR",0,"0%",9.3,"Unknown",0,"Male",False
+"OWB","Owlboy","2016-11-01 00:00:00","Action-adventure","D-Pad Studio","NOR","Multi","0%","TR",0,"0%",9.3,"Unknown",0,"Male",False
+"OWB","Owlboy","2016-11-01 00:00:00","Action-adventure","D-Pad Studio","NOR","Multi","0%","TR",0,"0%",9.3,"Unknown",0,"Male",False
+"OWB","Owlboy","2016-11-01 00:00:00","Action-adventure","D-Pad Studio","NOR","Multi","0%","TR",0,"0%",9.3,"Unknown",0,"Male",False
+"DS2","Dark Souls 2","2014-03-01 00:00:00","RPG","FromSoftware","JPN","Multi","60%","TR",0,"0%",9,"Unknown",0,"Custom",False
+"DS2","Dark Souls 2","2014-03-01 00:00:00","RPG","FromSoftware","JPN","Multi","60%","TR",0,"0%",9,"Unknown",0,"Female",False
+"DS2","Dark Souls 2","2014-03-01 00:00:00","RPG","FromSoftware","JPN","Multi","60%","TR",0,"0%",9,"Unknown",0,"Female",False
+"DS2","Dark Souls 2","2014-03-01 00:00:00","RPG","FromSoftware","JPN","Multi","60%","TR",0,"0%",9,"Unknown",0,"Male",False
+"DS2","Dark Souls 2","2014-03-01 00:00:00","RPG","FromSoftware","JPN","Multi","60%","TR",0,"0%",9,"Unknown",0,"Male",False
+"TBOIR","The Binding of Isaac: Rebirth","2014-11-01 00:00:00","RPG","Nicalis","USA","Multi","36%","TR",0,"0%",8.9,"Child",0,"Male",False
+"TBOIR","The Binding of Isaac: Rebirth","2014-11-01 00:00:00","RPG","Nicalis","USA","Multi","36%","TR",0,"0%",8.9,"Adult",0,"Female",False
+"TBOIR","The Binding of Isaac: Rebirth","2014-11-01 00:00:00","RPG","Nicalis","USA","Multi","36%","TR",0,"0%",8.9,"Child",0,"Female",False
+"TBOIR","The Binding of Isaac: Rebirth","2014-11-01 00:00:00","RPG","Nicalis","USA","Multi","36%","TR",0,"0%",8.9,"Child",0,"Male",False
+"TBOIR","The Binding of Isaac: Rebirth","2014-11-01 00:00:00","RPG","Nicalis","USA","Multi","36%","TR",0,"0%",8.9,"Child",0,"Male",False
+"TBOIR","The Binding of Isaac: Rebirth","2014-11-01 00:00:00","RPG","Nicalis","USA","Multi","36%","TR",0,"0%",8.9,"Child",0,"Male",False
+"TBOIR","The Binding of Isaac: Rebirth","2014-11-01 00:00:00","RPG","Nicalis","USA","Multi","36%","TR",0,"0%",8.9,"Child",0,"Female",False
+"TBOIR","The Binding of Isaac: Rebirth","2014-11-01 00:00:00","RPG","Nicalis","USA","Multi","36%","TR",0,"0%",8.9,"Child",0,"Male",False
+"TBOIR","The Binding of Isaac: Rebirth","2014-11-01 00:00:00","RPG","Nicalis","USA","Multi","36%","TR",0,"0%",8.9,"Child",0,"Male",False
+"TBOIR","The Binding of Isaac: Rebirth","2014-11-01 00:00:00","RPG","Nicalis","USA","Multi","36%","TR",0,"0%",8.9,"Child",0,"Male",False
+"TBOIR","The Binding of Isaac: Rebirth","2014-11-01 00:00:00","RPG","Nicalis","USA","Multi","36%","TR",0,"0%",8.9,"Child",0,"Non-binary",False
+"COL","Child of Light","2014-04-01 00:00:00","Action","Ubisoft Montreal","CAN","Multi","54%","TR",3,"43%",8.5,"Teenager",0,"Female",False
+"COL","Child of Light","2014-04-01 00:00:00","Action","Ubisoft Montreal","CAN","Multi","54%","TR",3,"43%",8.5,"Middle-aged",0,"Male",False
+"COL","Child of Light","2014-04-01 00:00:00","Action","Ubisoft Montreal","CAN","Multi","54%","TR",3,"43%",8.5,"Unknown",0,"Male",False
+"COL","Child of Light","2014-04-01 00:00:00","Action","Ubisoft Montreal","CAN","Multi","54%","TR",3,"43%",8.5,"Middle-aged",0,"Female",False
+"COL","Child of Light","2014-04-01 00:00:00","Action","Ubisoft Montreal","CAN","Multi","54%","TR",3,"43%",8.5,"Young adult",0,"Female",False
+"COL","Child of Light","2014-04-01 00:00:00","Action","Ubisoft Montreal","CAN","Multi","54%","TR",3,"43%",8.5,"Child",0,"Male",False
+"COL","Child of Light","2014-04-01 00:00:00","Action","Ubisoft Montreal","CAN","Multi","54%","TR",3,"43%",8.5,"Young adult",0,"Female",False
+"COL","Child of Light","2014-04-01 00:00:00","Action","Ubisoft Montreal","CAN","Multi","54%","TR",3,"43%",8.5,"Unknown",0,"Male",False
+"COL","Child of Light","2014-04-01 00:00:00","Action","Ubisoft Montreal","CAN","Multi","54%","TR",3,"43%",8.5,"Adult",0,"Male",False
+"COL","Child of Light","2014-04-01 00:00:00","Action","Ubisoft Montreal","CAN","Multi","54%","TR",3,"43%",8.5,"Adult",0,"Female",False
+"COL","Child of Light","2014-04-01 00:00:00","Action","Ubisoft Montreal","CAN","Multi","54%","TR",3,"43%",8.5,"Middle-aged",0,"Female",False
+"COL","Child of Light","2014-04-01 00:00:00","Action","Ubisoft Montreal","CAN","Multi","54%","TR",3,"43%",8.5,"Unknown",0,"Male",False
+"COL","Child of Light","2014-04-01 00:00:00","Action","Ubisoft Montreal","CAN","Multi","54%","TR",3,"43%",8.5,"Teenager",0,"Female",False
+"FLR","Florence","2018-02-01 00:00:00","Interactive Story","Mountains","USA","Mobile","50%","TR",0,"0%",8.8,"Adult",0,"Female",False
+"FLR","Florence","2018-02-01 00:00:00","Interactive Story","Mountains","USA","Mobile","50%","TR",0,"0%",8.8,"Adult",0,"Male",False
+"MSMMM","Marvel's Spider-Man: Miles Morales","2020-11-01 00:00:00","Action-adventure","Insomniac Games","USA","PS4","42%","TR",1,"13%",8.4,"Teenager",0,"Male",False
+"MSMMM","Marvel's Spider-Man: Miles Morales","2020-11-01 00:00:00","Action-adventure","Insomniac Games","USA","PS4","42%","TR",1,"13%",8.4,"Adult",0,"Male",False
+"MSMMM","Marvel's Spider-Man: Miles Morales","2020-11-01 00:00:00","Action-adventure","Insomniac Games","USA","PS4","42%","TR",1,"13%",8.4,"Middle-aged",0,"Female",False
+"MSMMM","Marvel's Spider-Man: Miles Morales","2020-11-01 00:00:00","Action-adventure","Insomniac Games","USA","PS4","42%","TR",1,"13%",8.4,"Middle-aged",0,"Male",False
+"MSMMM","Marvel's Spider-Man: Miles Morales","2020-11-01 00:00:00","Action-adventure","Insomniac Games","USA","PS4","42%","TR",1,"13%",8.4,"Adult",0,"Male",False
+"MSMMM","Marvel's Spider-Man: Miles Morales","2020-11-01 00:00:00","Action-adventure","Insomniac Games","USA","PS4","42%","TR",1,"13%",8.4,"Teenager",0,"Male",False
+"MSMMM","Marvel's Spider-Man: Miles Morales","2020-11-01 00:00:00","Action-adventure","Insomniac Games","USA","PS4","42%","TR",1,"13%",8.4,"Middle-aged",0,"Male",False
+"MSMMM","Marvel's Spider-Man: Miles Morales","2020-11-01 00:00:00","Action-adventure","Insomniac Games","USA","PS4","42%","TR",1,"13%",8.4,"Young adult",0,"Female",False
+"MSMMM","Marvel's Spider-Man: Miles Morales","2020-11-01 00:00:00","Action-adventure","Insomniac Games","USA","PS4","42%","TR",1,"13%",8.4,"Adult",0,"Female",False
+"MSMMM","Marvel's Spider-Man: Miles Morales","2020-11-01 00:00:00","Action-adventure","Insomniac Games","USA","PS4","42%","TR",1,"13%",8.4,"Young adult",0,"Female",False
+"MSMMM","Marvel's Spider-Man: Miles Morales","2020-11-01 00:00:00","Action-adventure","Insomniac Games","USA","PS4","42%","TR",1,"13%",8.4,"Adult",0,"Male",False
+"MSMMM","Marvel's Spider-Man: Miles Morales","2020-11-01 00:00:00","Action-adventure","Insomniac Games","USA","PS4","42%","TR",1,"13%",8.4,"Teenager",0,"Female",False
+"KBOS","Kena: Bridge of Spirits","2021-09-01 00:00:00","Action-adventure","Ember Lab","USA","Multi","50%","TR",1,"33%",8.3,"Teenager",0,"Female",False
+"KBOS","Kena: Bridge of Spirits","2021-09-01 00:00:00","Action-adventure","Ember Lab","USA","Multi","50%","TR",1,"33%",8.3,"Unknown",0,"Non-binary",False
+"KBOS","Kena: Bridge of Spirits","2021-09-01 00:00:00","Action-adventure","Ember Lab","USA","Multi","50%","TR",1,"33%",8.3,"Unknown",0,"Male",False
+"KBOS","Kena: Bridge of Spirits","2021-09-01 00:00:00","Action-adventure","Ember Lab","USA","Multi","50%","TR",1,"33%",8.3,"Elderly",0,"Male",False
+"KBOS","Kena: Bridge of Spirits","2021-09-01 00:00:00","Action-adventure","Ember Lab","USA","Multi","50%","TR",1,"33%",8.3,"Infant",0,"Female",False
+"KBOS","Kena: Bridge of Spirits","2021-09-01 00:00:00","Action-adventure","Ember Lab","USA","Multi","50%","TR",1,"33%",8.3,"Infant",0,"Male",False
+"KBOS","Kena: Bridge of Spirits","2021-09-01 00:00:00","Action-adventure","Ember Lab","USA","Multi","50%","TR",1,"33%",8.3,"Child",0,"Male",False
+"KBOS","Kena: Bridge of Spirits","2021-09-01 00:00:00","Action-adventure","Ember Lab","USA","Multi","50%","TR",1,"33%",8.3,"Adult",0,"Male",False
+"KBOS","Kena: Bridge of Spirits","2021-09-01 00:00:00","Action-adventure","Ember Lab","USA","Multi","50%","TR",1,"33%",8.3,"Adult",0,"Female",False
+"KBOS","Kena: Bridge of Spirits","2021-09-01 00:00:00","Action-adventure","Ember Lab","USA","Multi","50%","TR",1,"33%",8.3,"Adult",0,"Female",False

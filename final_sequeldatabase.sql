@@ -82,6 +82,16 @@ Select G.game_id, G.Title,G.releasedate, G.Genre, G.developer, Ch.game, Ch.age_r
  	join characters as Ch 
 	on Ch.game = G.game_id;
 	
+<<<<<<< HEAD:final_sequeldatabase.sql
+	
+---	joining  character and Sexualization tables 
+Select Ch.id, Ch.game, Ch.age_range, Ch.gender, Se.sexualization_total
+	From characters as Ch
+	Join Sexualization as Se
+	on Se.id = Ch.id ;
+
+=======
+>>>>>>> 034687ddbd35baa1333d253866b572314aae982d:Gen_Rep_ Games.sql
 
 
 
