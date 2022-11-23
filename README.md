@@ -60,7 +60,11 @@ We also booked in extra session where we work together and on our respective par
 
 Attached is the starter schema we created 
 
-[Schema](https://github.com/kass173/Project-2/blob/main/Gen_Rep_%20Games.sql).
+[Schema](https://github.com/kass173/Project-2/blob/main/Gen_Rep_%20Games.sql).  
+
+and below is our final Schema
+
+[Final Schema](https://github.com/kass173/Project-2/blob/main/Final/final_sequeldatabase.sql)
 
 ![Schema](images/Schema.png).  
 
