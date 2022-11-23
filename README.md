@@ -68,7 +68,7 @@ And below is our final Schema
 
 [Final Schema](https://github.com/kass173/Project-2/blob/main/Final/final_sequeldatabase.sql)
 
-![Final Schema](images/Final Schema.png).  
+![Final Schema](images/Final Schema.png).
 
 ### Entity Relationship Diagram.  
 
