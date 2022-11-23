@@ -58,7 +58,7 @@ We also booked in extra session where we work together and on our respective par
 
 # The schema
 
-Attached is the schema used in our final database and our final databased will be of a relational database structure containing data organised into tables:
+Attached is the starter schema we created 
 
 [Schema](https://github.com/kass173/Project-2/blob/main/Gen_Rep_%20Games.sql).
 
