@@ -81,8 +81,8 @@ Select G.game_id, G.Title,G.releasedate, G.Genre, G.developer, Ch.game, Ch.age_r
 	From games as G
  	join characters as Ch 
 	on Ch.game = G.game_id;
-	
-<<<<<<< HEAD:final_sequeldatabase.sql
+	From games as G
+
 	
 ---	joining  character and Sexualization tables 
 Select Ch.id, Ch.game, Ch.age_range, Ch.gender, Se.sexualization_total
@@ -90,8 +90,22 @@ Select Ch.id, Ch.game, Ch.age_range, Ch.gender, Se.sexualization_total
 	Join Sexualization as Se
 	on Se.id = Ch.id ;
 
-=======
->>>>>>> 034687ddbd35baa1333d253866b572314aae982d:Gen_Rep_ Games.sql
+
+-- titles with the highest level or sexualization and no females in the production team; from all table join
+Select G.Title,G.releasedate, G.Genre,G.Female_team,G.female_teampercentage,G.Avg_reviews,Ch.age_range,Ch.sexualization_total,
+G.female_team 
+	From games as G
+	join characters as Ch on Ch.game = G.game_id
+	join Sexualization as Se on Se.id = Ch.id 
+	where Ch.sexualization_total = 3 ;
+	 
+	 
+
+	
+	
+	
+	
+
 
 
 
