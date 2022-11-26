@@ -30,6 +30,16 @@ datasets were games data, character data & sexualisation info.
 [Game data](Resources/games.grivg.csv)  
 [Sexulisation data](Resources/sexualization.grivg.csv)  
 
+# Group Tasks.  
+
+Helen : SQL Database Creation of Table including the largest table with 24 columns , Assisting  all the other members of the group with data cleaning, cleaning of the data in the sexualization table. Organising and getting us all working together on Data cleaning, ERD set up, loading data into SQL.
+Prerna and Charlotte : Data cleaning of the Games Table, loading data into SQL.
+Charlotte : Suggesting the dataset.
+Farah : Data cleaning of the Character Table ,loading data into SQL.
+Kass: Read me, Technical report, Project Proposal, managing Github, Process Map, Data set search.
+Prerna : Tidying up Sequel Tables and finalising the master Jupyter ,final SQL database, setting up the joins and query in SQL Database.
+We worked together on cleaning the data, loading it into the database  and then tested the running of the code as a team.
+
 # Group Communication
 
 To be able to complete this project effectively, we ensure we had effective communication within our 
