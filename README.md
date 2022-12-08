@@ -2,7 +2,6 @@
 Grace, Farjana, Helen, Vivian, Charlotte
 
 # Objective of this Project:
-![alt text] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fpartnership.who.int%2Fiomc%2Fparticipating-organizations%2Foecd&psig=AOvVaw0LKZ26Bjf4n8HI4C0BqoZ3&ust=1670620167591000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKjIv6D36vsCFQAAAAAdAAAAABAE)
 
 The Organization for Economic Co-operation and Development (OECD) is a unique forum where the governments of 37 democracies with market-based economies collaborate to develop policy standards to promote sustainable economic growth. 
 
