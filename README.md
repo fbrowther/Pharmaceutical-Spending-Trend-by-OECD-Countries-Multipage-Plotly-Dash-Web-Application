@@ -2,7 +2,7 @@
 Grace, Farjana, Helen, Vivian, Charlotte
 
 # Objective of this Project:
-![alt text](https://en.wikipedia.org/wiki/File:OECD_member_states_map.svg)
+![alt text] (https://en.wikipedia.org/wiki/File:OECD_member_states_map.svg)
 
 The Organization for Economic Co-operation and Development (OECD) is a unique forum where the governments of 37 democracies with market-based economies collaborate to develop policy standards to promote sustainable economic growth. 
 
