@@ -1,7 +1,8 @@
 # Project3-Group1
 Determining the recent trend in pharmaceutical spending (on prescription medicines and self-medication) by the OECD countries
 
-Data source: https://data.oecd.org/healthres/pharmaceutical-spending.htm
+Data source: https://datahub.io/core/pharmaceutical-drug-spending#readme and 
+https://data.oecd.org/healthres/pharmaceutical-spending.htm
 
 The Organization for Economic Co-operation and Development (OECD) is a unique forum where the governments of 37 democracies with market-based economies collaborate to develop policy standards to promote sustainable economic growth.
 
