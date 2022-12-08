@@ -3,6 +3,8 @@ Grace, Farjana, Helen, Vivian, Charlotte
 
 # Objective of this Project:
 
+(https://www.economist.com/img/b/1424/801/90/sites/default/files/20170708_BLP511.jpg)
+
 The Organization for Economic Co-operation and Development (OECD) is a unique forum where the governments of 37 democracies with market-based economies collaborate to develop policy standards to promote sustainable economic growth. 
 
 As a part of this project, we will determining the recent trend in pharmaceutical spending (on prescription medicines and self-medication) by the OECD countries for the period of 1971 - 2019. 
