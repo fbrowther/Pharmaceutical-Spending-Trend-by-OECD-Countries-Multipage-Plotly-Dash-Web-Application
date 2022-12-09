@@ -15,11 +15,13 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
   (4) by per capita (USD) (using economy-wide PPPs)
   
 ## Data source: 
+
 (1) https://datahub.io/core/pharmaceutical-drug-spending#readme and 
 (2) https://data.oecd.org/healthres/pharmaceutical-spending.htm
 
   
 # Project Plan: Create a data dashboard app that can be made interactive with drop-down menus to choose the country and the year.
+
     (1) Source data, clean and upload onto the PostgreSQL
     (2) Retrieve the data from PostgreSQL and display the data on the Flask app
     (3) CSS and HTML for webpage
@@ -35,6 +37,7 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
           (g) 'Pharma News Headline' - Web scraping to get new headline regarding any updates on Pharma
     
 # Initial Split of the Project :
+
     (1) Charlotte- no SQL- some database with Vivian, and python data cleaning, sqlalchemy 
     (2) Vivian- SQL – database build + ERD 
     (3) Grace- Half data clean half flask API - matplotlib
