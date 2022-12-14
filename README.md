@@ -23,22 +23,29 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
 3. CSS and HTML for webpage
 4. JS for interactivity 
 5. Employing a live server to deploy
-6. Dashboard Elements will display a relevant plot showcasing  -
-  a.'Spending by country' - Total spending by each countries in a specific year (in millions) - 
-  b. 'Spending by Year' - Total spending for each country for all years  - 'Spending by Year'
-  c. 'Country on map' - Use lat and long markers to highlight different countries/ places on map - 'Spending by country on map'
-  d. '% of total health spending' - Share of the total health spending
-  e. 'Spending by % GDP' - Total spending as a percentage of GDP - Spending by % GDP,
-  f. 'Spending by per capita' - by per capita (USD) 
-  g. 'Pharma News Headline' - Web scraping to get new headline regarding any updates on Pharma
+6. Dashboard Elements will display a relevant plot showcasing:
+
+    a. 'Spending by country' - Total spending by each countries in a specific year (in millions) - 
+
+    b. 'Spending by Year' - Total spending for each country for all years  - 'Spending by Year'
+
+    c. 'Country on map' - Use lat and long markers to highlight different countries/ places on map - 'Spending by country on map'
+
+    d. '% of total health spending' - Share of the total health spending
+
+    e. 'Spending by % GDP' - Total spending as a percentage of GDP - Spending by % GDP,
+
+    f. 'Spending by per capita' - by per capita (USD) 
+
+    g. 'Pharma News Headline' - Web scraping to get new headline regarding any updates on Pharma
     
 ## Initial Split of the Project :
 
-1. Charlotte- no SQL- some database with Vivian, and python data cleaning, sqlalchemy 
-2. Vivian- SQL – database build + ERD 
-3. Grace- Half data clean half flask API - matplotlib
-4. Helen- other half data – some flask -matplotlib-JS
-5. Farjana- HTML, Webscraping, rest of flask, CSS, JS. Final writer. 
+* Charlotte - no SQL- some database with Vivian, and python data cleaning, sqlalchemy 
+* Vivian - SQL – database build + ERD 
+* Grace - Half data clean half flask API - matplotlib
+* Helen - other half data – some flask -matplotlib-JS
+* Farjana - HTML, Webscraping, rest of flask, CSS, JS. Final writer. 
 
 - - - 
 
