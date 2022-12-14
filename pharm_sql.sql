@@ -29,3 +29,11 @@ FROM pharm_data
 INNER JOIN latlongdata
 ON pharm_data.location = latlongdata.location;
 
+SELECT LOCATION, SUM(TOTAL_SPEND) AS "TOTAL SPEND"
+FROM pharm_data
+GROUP BY LOCATION;
+
+
+SELECT LOCATION, TIME, SUM(TOTAL_SPEND) AS "TOTAL SPEND"
+FROM pharm_data
+GROUP BY LOCATION, TIME;
