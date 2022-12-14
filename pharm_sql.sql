@@ -1,0 +1,26 @@
+CREATE TABLE pharm_data(
+	LOCATION VARCHAR,
+	TIME INTEGER,
+	PC_HEALTHXP DECIMAL,
+	PC_GDP DECIMAL,
+	USD_CAP	DECIMAL,
+	FLAG_CODES VARCHAR,
+	TOTAL_SPEND DECIMAL	
+);
+
+
+CREATE TABLE latlongdata(
+	LOCATION VARCHAR,
+	CAPITAL	VARCHAR,
+	LATITUDE DECIMAL,
+	LONGDITUDE DECIMAL
+
+);
+
+SELECT * FROM pharm_data;
+SELECT * FROM latlongdata;
+
+SELECT *
+FROM pharm_data
+INNER JOIN latlongdata
+ON pharm_data.location = latlongdata.location;
