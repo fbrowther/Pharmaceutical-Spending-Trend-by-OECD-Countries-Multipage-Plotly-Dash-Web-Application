@@ -8,19 +8,20 @@ CREATE TABLE pharma_data(
 	Percent_of_Gross_Domestic_Product FLOAT,
 	USD_per_capita FLOAT, 
 	Total_spending_in_Millions FLOAT,
-	Latitude POINT,
-	Longitude POINT
+	capital VARCHAR,
+	Latitude DECIMAL,
+	Longitude DECIMAL
 );
 
 SELECT * FROM pharma_data;
 
-Country,Capital,Latitude,Longditude
+
 
 CREATE TABLE lat_long (
 	country VARCHAR PRIMARY KEY references pharma_data(country),
 	Capital VARCHAR,
-	Latitude POINT, 
-	Longitude POINT
+	Latitude DECIMAL, 
+	Longitude DECIMAL,
 );
 
 SELECT * FROM lat_long;
