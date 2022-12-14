@@ -1,3 +1,5 @@
+--- create table named pharm_data
+
 CREATE TABLE pharm_data(
 	LOCATION VARCHAR,
 	TIME INTEGER,
@@ -8,6 +10,7 @@ CREATE TABLE pharm_data(
 	TOTAL_SPEND DECIMAL	
 );
 
+--- create table named latlongdata
 
 CREATE TABLE latlongdata(
 	LOCATION VARCHAR,
@@ -20,7 +23,9 @@ CREATE TABLE latlongdata(
 SELECT * FROM pharm_data;
 SELECT * FROM latlongdata;
 
+--- inner join latlongdata table to pharm_data table to create one table
 SELECT *
 FROM pharm_data
 INNER JOIN latlongdata
 ON pharm_data.location = latlongdata.location;
+
