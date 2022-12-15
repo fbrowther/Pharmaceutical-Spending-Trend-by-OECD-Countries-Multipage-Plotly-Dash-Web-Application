@@ -41,7 +41,7 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
     
 ## Initial Split of the Project :
 
-* Charlotte - python data cleaning.
+* Charlotte - Data cleaning.
 * Vivian - SQL.
 * Grace - Data Cleaning.
 * Helen - Data Cleaning, initial plan and SQL.
