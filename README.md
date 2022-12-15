@@ -21,7 +21,7 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
 1. Source data, clean and upload onto the PostgreSQL
 2. Retrieve the data from PostgreSQL and display the data on the Flask app
 3. CSS and HTML for webpage
-4. JS for interactivity 
+4. Plotly Dash
 5. Employing a live server to deploy
 6. Dashboard Elements will display a relevant plot showcasing:
 
