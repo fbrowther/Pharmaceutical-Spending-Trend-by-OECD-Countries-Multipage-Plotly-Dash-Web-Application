@@ -15,8 +15,6 @@ CREATE TABLE pharma_data(
 
 SELECT * FROM pharma_data;
 
-
-
 CREATE TABLE lat_long (
 	country VARCHAR PRIMARY KEY references pharma_data(country),
 	Capital VARCHAR,
