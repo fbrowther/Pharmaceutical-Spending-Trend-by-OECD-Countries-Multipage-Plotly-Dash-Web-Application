@@ -1,22 +1,21 @@
 --- create table named pharm_data
 
 CREATE TABLE pharm_data(
-	LOCATION VARCHAR,
-	TIME INTEGER,
-	PC_HEALTHXP DECIMAL,
-	PC_GDP DECIMAL,
-	USD_CAP	DECIMAL,
-	FLAG_CODES VARCHAR,
-	TOTAL_SPEND DECIMAL	
+	country VARCHAR,
+	year INTEGER,
+	percent_of_health_spending DECIMAL,
+	percent_of_gross_domestic_product_DECIMAL,
+	usd_per_capita DECIMAL,
+	total_spending_in_millions(usd) DECIMAL
 );
 
 --- create table named latlongdata
 
 CREATE TABLE latlongdata(
-	LOCATION VARCHAR,
-	CAPITAL	VARCHAR,
-	LATITUDE DECIMAL,
-	LONGDITUDE DECIMAL
+	Country VARCHAR,
+	Capital	VARCHAR,
+	Latitude DECIMAL,
+	Longitude DECIMAL
 
 );
 
