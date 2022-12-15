@@ -41,11 +41,11 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
     
 ## Initial Split of the Project :
 
-* Charlotte - no SQL- some database with Vivian, and python data cleaning, sqlalchemy 
-* Vivian - SQL – database build + ERD 
-* Grace - Half data clean half flask API - matplotlib
-* Helen - other half data – some flask -matplotlib-JS
-* Farjana - HTML, Webscraping, rest of flask, CSS, JS. Final writer. 
+* Charlotte - python data cleaning.
+* Vivian - SQL.
+* Grace - Data Cleaning.
+* Helen - Data Cleaning, initial plan and SQL.
+* Farjana - Proposal, Webscraping, Flask, Dashboard and Plotly.
 
 - - - 
 
