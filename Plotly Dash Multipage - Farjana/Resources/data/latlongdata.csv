@@ -1,0 +1,46 @@
+Country,Continent,Capital,Latitude,Longditude
+AUS,Oceania,Canberra,-35.26666667,149.133333
+AUT,Europe,Vienna,48.2,16.366667
+BEL,Europe,Brussels,50.83333333,4.333333
+BGR,Europe,Sofia,42.68333333,23.316667
+BRA,South America,Brasilia,-15.78333333,-47.916667
+CAN,North America,Ottawa,45.41666667,-75.7
+CHL,South America,Santiago,-33.45,-70.666667
+CHE,Europe,Bern,46.91666667,7.466667
+COL,South America,Bogota,4.6,-74.083333
+CRI,Central America,San Jose,9.933333333,-84.083333
+CYP,Europe,Nicosia,35.16666667,33.366667
+CZE,Europe,Prague,50.08333333,14.466667
+DEU,Europe,Berlin,52.51666667,13.4
+DNK,Europe,Copenhagen,55.66666667,12.583333
+ESP,Europe,Madrid,40.4,-3.683333
+EST,Europe,Tallinn,59.43333333,24.716667
+FIN,Europe,Helsinki,60.16666667,24.933333
+FRA,Europe,Paris,48.86666667,2.333333
+GBR,Europe,London,51.5,-0.083333
+GRC,Europe,Athens,37.98333333,23.733333
+HUN,Europe,Budapest,47.5,19.083333
+HRV,Europe,Zagreb,45.8,16
+IRL,Europe,Dublin,53.31666667,-6.233333
+ISL,Europe,Reykjavik,64.15,-21.95
+ISR,Asia,Jerusalem,31.76666667,35.233333
+ITA,Europe,Rome,41.9,12.483333
+JPN,Asia,Tokyo,35.68333333,139.75
+KOR,Asia,Seoul,37.55,126.983333
+LTU,Europe,Vilnius,54.68333333,25.316667
+LUX,Europe,Luxembourg,49.6,6.116667
+LVA,Europe,Riga,56.95,24.1
+MEX,Central America,Mexico City,19.43333333,-99.133333
+MLT,Europe,Valletta,35.88333333,14.5
+NLD,Europe,Amsterdam,52.35,4.916667
+NOR,Europe,Oslo,59.91666667,10.75
+NZL,Oceania,Wellington,-41.3,174.783333
+POL,Europe,Warsaw,52.25,21
+PRT,Europe,Lisbon,38.71666667,-9.133333
+ROU,Europe,Bucharest,44.43333333,26.1
+SVK,Europe,Bratislava,48.15,17.116667
+SVN,Europe,Ljubljana,46.05,14.516667
+SWE,Europe,Stockholm,59.33333333,18.05
+TUR,Asia,Ankara,39.93333333,32.866667
+USA,North America,"Washington, D.C.",38.883333,-77
+RUS,Russia, Moscow,55.751244,37.618423
