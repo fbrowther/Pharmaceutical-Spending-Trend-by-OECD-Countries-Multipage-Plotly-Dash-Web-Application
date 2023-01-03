@@ -16,10 +16,9 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
   
 #### Project Plan: 
 1. Create a multipage Dash App that displayes the analysed data in the form of interactive visualisations that can be selected by years, countries, and continents. 
-
 <video src="https://github.com/fbrowther/Project3-Group1/blob/main/Plotly%20Dash%20Multipage%20-%20Farjana/Data%20visualization%20Multipage%20Dash%20App%20.mov" controls="controls" style="max-width: 700px;">
 </video>
-                                                                                                                                          "></video>
+
 2. The Dash App also displays the 'data table' retrieved from the MongoDB database. This database can be updated periodically to display more recent data and update the visualisations on the app.
 ![alt text](https://github.com/fbrowther/Project3-Group1/blob/main/Plotly%20Dash%20Multipage%20-%20Farjana/assets/Mongodb%20Pharma_db.png)
 
