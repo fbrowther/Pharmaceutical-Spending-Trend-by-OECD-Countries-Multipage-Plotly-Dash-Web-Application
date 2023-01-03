@@ -1,5 +1,4 @@
 # Project 3: Pharmaceutical Drug Spending
-DAV Module - Project 3 Group Challenge
 
 ## Objective of this Project:
 
