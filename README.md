@@ -46,7 +46,7 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
 * Vivian - SQL
 * Grace - Data Cleaning
 * Helen - Data Cleaning, initial plan and SQL
-* Farjana - Proposal, Complete Multipage Dash App, Presentation, and final writeup
+* Farjana - Proposal, Complete Multipage Dash App, Mongodb and PostgreSQL uploads, Presentation, and final writeup
 
 - - - 
 
