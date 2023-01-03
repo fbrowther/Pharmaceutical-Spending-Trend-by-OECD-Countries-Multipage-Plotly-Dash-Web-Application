@@ -14,9 +14,12 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
 3. Total spending as a Percentage of GDP
 4. by per capita (USD) (using economy-wide PPPs)
   
-#### Project Plan: Create a multipage Dash App that displayes the analysed data in the form of interactive visualizations that can be selected by years, country, and continent. The Dash App also displays the 'data table' retrieved from the MongoDB database. This database can be updated periodically to display more recent data visualization on this app.
+#### Project Plan: 
+1. Create a multipage Dash App that displayes the analysed data in the form of interactive visualizations that can be selected by years, country, and continent. 
+2. The Dash App also displays the 'data table' retrieved from the MongoDB database. This database can be updated periodically to display more recent data visualization on this app.
 
-1. Source data, clean and upload onto the PostgreSQL
+#### Methodology:
+1. Source data, clean and upload onto the PostgreSQL and/or MongoDB
 2. Retrieve the data from either PostgreSQL/MongoDB and display the data on the Flask app
 3. CSS and HTML for webpage
 4. Plotly Dash
