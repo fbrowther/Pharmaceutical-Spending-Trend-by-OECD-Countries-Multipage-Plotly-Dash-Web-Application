@@ -23,6 +23,7 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
 
 #### Methodology:
 1. Source data, clean and upload onto the PostgreSQL and/or MongoDB
+![alt text](https://github.com/fbrowther/Project3-Group1/blob/main/Plotly%20Dash%20Multipage%20-%20Farjana/assets/Pharmadata%20table%20in%20SQL.png)
 2. Retrieve the data from either PostgreSQL/MongoDB and display the data on the Dash App
 3. Use dash bootstrap component (dbc) for displaying the multipage app 
 4. Employ a live server to deploy
