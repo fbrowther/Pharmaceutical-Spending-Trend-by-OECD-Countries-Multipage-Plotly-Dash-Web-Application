@@ -22,12 +22,12 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
 ![alt text](https://github.com/fbrowther/Project3-Group1/blob/main/Plotly%20Dash%20Multipage%20-%20Farjana/assets/Mongodb%20Pharma_db.png)
 
 #### Methodology:
-1. Source data, clean and upload onto the PostgreSQL and/or MongoDB
+1. Source data, clean and upload onto PostgreSQL and/or MongoDB
 ![alt text](https://github.com/fbrowther/Project3-Group1/blob/main/Plotly%20Dash%20Multipage%20-%20Farjana/assets/Pharmadata%20table%20in%20SQL.png)
-2. Retrieve the data from either PostgreSQL/MongoDB and display the data on the Dash App
+2. Retrieve the data from either PostgreSQL/MongoDB and display on the multipage Dash App
 3. Use dash bootstrap component (dbc) for displaying the multipage app 
 4. Employ a live server to deploy
-5. Dashboard Elements will display a relevant plot showcasing:
+5. Each page of the multipage app displays a relevant plot showcasing:
     a. 'Spending by country' - Total spending by each countries in a specific year (in millions) 
 
     b. 'Spending by Year' - Total spending for each country for all years 
@@ -39,13 +39,15 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
     e. 'Spending by % GDP' - Total spending as a percentage of GDP - Spending by % GDP,
 
     f. 'Spending by per capita' - by per capita (USD) 
+    
+    g. Data_table - Data table displays all the data from OECD that was used in building the data visualistion app.
 
     
 ## Final Contribution from the team members:
 * Charlotte - Data cleaning
 * Vivian - SQL
 * Grace - Data Cleaning
-* Helen - Data Cleaning, initial plan and SQL
+* Helen - Data Cleaning, initial plan write-up and SQL
 * Farjana - Proposal, Complete Multipage Dash App, MongoDB and PostgreSQL uploads, Presentation, and final writeup
 
 - - - 
