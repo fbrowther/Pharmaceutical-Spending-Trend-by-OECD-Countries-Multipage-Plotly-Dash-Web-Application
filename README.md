@@ -1,8 +1,7 @@
 # Project 3: Pharmaceutical Drug Spending
 
 ## Objective of this Project:
-
-![drugs-img](Images/file-20190219-136739-1nw6w7r.avif)
+![alt text](https://github.com/fbrowther/Project3-Group1/blob/main/Plotly%20Dash%20Multipage%20-%20Farjana/assets/OECD%20LOGO.png)
 
 The Organization for Economic Co-operation and Development (OECD) is a unique forum where the governments of 37 democracies with market-based economies collaborate to develop policy standards to promote sustainable economic growth. 
 
