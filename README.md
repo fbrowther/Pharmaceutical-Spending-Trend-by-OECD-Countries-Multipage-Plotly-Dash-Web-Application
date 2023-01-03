@@ -3,8 +3,6 @@ DAV Module - Project 3 Group Challenge
 
 ## Objective of this Project:
 
-![pharma-drugs](Images/file-20190219-136739-1nw6w7r.avif)
-
 The Organization for Economic Co-operation and Development (OECD) is a unique forum where the governments of 37 democracies with market-based economies collaborate to develop policy standards to promote sustainable economic growth. 
 
 As a part of this project, we will be determining the recent trend in pharmaceutical spending (on prescription medicines and self-medication) by the OECD countries for the period of 1970 - 2016. 
