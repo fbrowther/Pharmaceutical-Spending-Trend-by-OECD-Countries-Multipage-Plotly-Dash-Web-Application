@@ -22,15 +22,13 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
 
 #### Methodology:
 1. Source data, clean and upload onto the PostgreSQL and/or MongoDB
-2. Retrieve the data from either PostgreSQL/MongoDB and display the data on the Flask app
-3. CSS and HTML for webpage
-4. Plotly Dash
-5. Employing a live server to deploy
-6. Dashboard Elements will display a relevant plot showcasing:
+2. Retrieve the data from either PostgreSQL/MongoDB and display the data on the Dash App
+3. Use dash bootstrap component (dbc) for displaying the multipage app 
+4. Employ a live server to deploy
+5. Dashboard Elements will display a relevant plot showcasing:
+    a. 'Spending by country' - Total spending by each countries in a specific year (in millions) 
 
-    a. 'Spending by country' - Total spending by each countries in a specific year (in millions) - 
-
-    b. 'Spending by Year' - Total spending for each country for all years  - 'Spending by Year'
+    b. 'Spending by Year' - Total spending for each country for all years 
 
     c. 'Country on map' - Use lat and long markers to highlight different countries/ places on map - 'Spending by country on map'
 
@@ -40,15 +38,13 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
 
     f. 'Spending by per capita' - by per capita (USD) 
 
-    g. 'Pharma News Headline' - Web scraping to get new headline regarding any updates on Pharma
     
-## Initial Split of the Project :
-
+## Final Contribution from the team members:
 * Charlotte - Data cleaning
 * Vivian - SQL
 * Grace - Data Cleaning
 * Helen - Data Cleaning, initial plan and SQL
-* Farjana - Proposal, Complete Multipage Dash App, Mongodb and PostgreSQL uploads, Presentation, and final writeup
+* Farjana - Proposal, Complete Multipage Dash App, MongoDB and PostgreSQL uploads, Presentation, and final writeup
 
 - - - 
 
