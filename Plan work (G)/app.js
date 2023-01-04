@@ -11,7 +11,7 @@ var myMap = L.map("heatmap", {
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
   }).addTo(myMap);
   
-  var url = "../Plotly Dash Multipage - Farjana/Resources/data/data_csv.csv";
+  var data = "./data_csv.csv";
   
   d3.json(url).then(function(response) {
   
