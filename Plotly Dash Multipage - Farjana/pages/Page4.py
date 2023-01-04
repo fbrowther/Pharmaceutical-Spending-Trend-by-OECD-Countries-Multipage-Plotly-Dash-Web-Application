@@ -13,7 +13,7 @@ line_graph = px.line(data_frame=Pharma_line, x='Years', y='Total Spend ($)', tit
 max_country = Pharma_line.sort_values(by='Total Spend ($)', ascending=False).loc[0]['Country']
 
 # Page3 contents
-dash.register_page(__name__, name='Trend in Pharma Spending')
+dash.register_page(__name__, name='Trend in Spending')
 
 # Set up the layout using an overall div
 layout = html.Div(
