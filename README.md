@@ -5,7 +5,7 @@
 
 The Organization for Economic Co-operation and Development (OECD) is a unique forum where the governments of 37 democracies with market-based economies collaborate to develop policy standards to promote sustainable economic growth. 
 
-As a part of this project, we will be determining the recent trend in pharmaceutical spending (on prescription medicines and self-medication) by these countries for the period of 1970 - 2016. 
+As a part of this project, it will be determined whether there exists any trend in pharmaceutical spending (on prescription medicines and self-medication) by these countries for the period of 1970 - 2016 and which factors might be the contributing to this trend. 
 
 Pharmaceutical Drug Spending has been calculated as the following indicators -  
 
