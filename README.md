@@ -15,7 +15,7 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
 4. by per capita (USD) (using economy-wide PPPs)
   
 #### Project Plan: 
-1. Create a multipage Dash App that displayes the analysed data in the form of interactive visualisations that can be selected by years, countries, and continents. 
+1. Create a multipage Dash App that displayes the analysed data in the form of interactive visualisations that can be selected by years, countries, and continents. Here is the recording of the app, I developed.
 ![Multipage Dash App](https://user-images.githubusercontent.com/111912050/210579960-1a9b710c-f33f-4e41-bb4d-8c5e2193dd95.mov)
 
 2. The Dash App also displays the 'data table' retrieved from the MongoDB database. This database can be updated periodically to display more recent data and update the visualisations on the app.
