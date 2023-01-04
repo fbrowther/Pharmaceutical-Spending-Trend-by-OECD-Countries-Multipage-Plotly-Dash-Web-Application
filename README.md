@@ -25,7 +25,7 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
 1. Source data, clean and upload onto PostgreSQL and/or MongoDB (above)
 ![alt text](https://github.com/fbrowther/Project3-Group1/blob/main/Plotly%20Dash%20Multipage%20-%20Farjana/assets/Pharmadata%20table%20in%20SQL.png)
 2. Retrieve the data from either PostgreSQL/MongoDB and display on the multipage Dash App
-3. Use dash bootstrap component (dbc) for displaying the multipage app 
+3. Use dash bootstrap component (dbc) to display the multipage app 
 4. Employ a live server to deploy
 5. Each page of the multipage app displays a relevant plot showcasing:
     a. 'Spending by country' - Total spending by each countries in a specific year (in millions) 
