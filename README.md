@@ -1,13 +1,11 @@
 # Project 3: Pharmaceutical Drug Spending
-DAV Module - Project 3 Group Challenge
 
 ## Objective of this Project:
-
-![pharma-drugs](Images/file-20190219-136739-1nw6w7r.avif)
+![alt text](https://github.com/fbrowther/Project3-Group1/blob/main/Plotly%20Dash%20Multipage%20-%20Farjana/assets/OECD%20LOGO.png)
 
 The Organization for Economic Co-operation and Development (OECD) is a unique forum where the governments of 37 democracies with market-based economies collaborate to develop policy standards to promote sustainable economic growth. 
 
-As a part of this project, we will be determining the recent trend in pharmaceutical spending (on prescription medicines and self-medication) by the OECD countries for the period of 1970 - 2016. 
+As a part of this project, it will be determined whether there exists any trend in pharmaceutical spending (on prescription medicines and self-medication) by these countries for the period of 1970 - 2016 and which factors might be the contributing to this trend. 
 
 Pharmaceutical Drug Spending has been calculated as the following indicators -  
 
@@ -16,29 +14,41 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
 3. Total spending as a Percentage of GDP
 4. by per capita (USD) (using economy-wide PPPs)
   
-## Project Plan: Create a data dashboard app that can be made interactive with drop-down menus to choose the country and the year.
+#### Project Plan: 
+1. Create a multipage Dash App that displayes the analysed data in the form of interactive visualisations that can be selected by years, countries, and continents. Here is the recording of the app, I developed.
+![Multipage Dash App](https://user-images.githubusercontent.com/111912050/210579960-1a9b710c-f33f-4e41-bb4d-8c5e2193dd95.mov)
 
-1. Source data, clean and upload onto the PostgreSQL
-2. Retrieve the data from PostgreSQL and display the data on the Flask app
-3. CSS and HTML for webpage
-4. JS for interactivity 
-5. Employing a live server to deploy
-6. Dashboard Elements will display a relevant plot showcasing  -
-  a.'Spending by country' - Total spending by each countries in a specific year (in millions) - 
-  b. 'Spending by Year' - Total spending for each country for all years  - 'Spending by Year'
-  c. 'Country on map' - Use lat and long markers to highlight different countries/ places on map - 'Spending by country on map'
-  d. '% of total health spending' - Share of the total health spending
-  e. 'Spending by % GDP' - Total spending as a percentage of GDP - Spending by % GDP,
-  f. 'Spending by per capita' - by per capita (USD) 
-  g. 'Pharma News Headline' - Web scraping to get new headline regarding any updates on Pharma
+2. The Dash App also displays the 'data table' retrieved from the MongoDB database. This database can be updated periodically to display more recent data and update the visualisations on the app.
+![alt text](https://github.com/fbrowther/Project3-Group1/blob/main/Plotly%20Dash%20Multipage%20-%20Farjana/assets/Mongodb%20Pharma_db.png)
+
+#### Methodology:
+1. Source data, clean and upload onto PostgreSQL and/or MongoDB (above)
+![alt text](https://github.com/fbrowther/Project3-Group1/blob/main/Plotly%20Dash%20Multipage%20-%20Farjana/assets/Pharmadata%20table%20in%20SQL.png)
+2. Retrieve the data from either PostgreSQL/MongoDB and display on the multipage Dash App
+3. Use dash bootstrap component (dbc) to display the multipage app 
+4. Employ a live server to deploy
+5. Each page of the multipage app displays a relevant plot showcasing:
+    a. 'Spending by country' - Total spending by each countries in a specific year (in millions) 
+
+    b. 'Spending by Year' - Total spending for each country for all years 
+
+    c. 'Country on map' - Use lat and long markers to highlight different countries/ places on map - 'Spending by country on map'
+
+    d. '% of total health spending' - Share of the total health spending
+
+    e. 'Spending by % GDP' - Total spending as a percentage of GDP - Spending by % GDP,
+
+    f. 'Spending by per capita' - by per capita (USD) 
     
-## Initial Split of the Project :
+    g. Data_table - Data table displays all the data from OECD that was used in building the data visualistion app.
 
-1. Charlotte- no SQL- some database with Vivian, and python data cleaning, sqlalchemy 
-2. Vivian- SQL – database build + ERD 
-3. Grace- Half data clean half flask API - matplotlib
-4. Helen- other half data – some flask -matplotlib-JS
-5. Farjana- HTML, Webscraping, rest of flask, CSS, JS. Final writer. 
+    
+## Final Contribution from the team members:
+* Charlotte - Data cleaning
+* Vivian - SQL
+* Grace - Data Cleaning
+* Helen - Data Cleaning, initial plan write-up and SQL
+* Farjana - Proposal, Build complete multipage dash app, MongoDB and PostgreSQL uploads, and final writeup
 
 - - - 
 
