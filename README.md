@@ -63,6 +63,9 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
 * https://data.oecd.org/healthres/pharmaceutical-spending.htm
 
 - - -
+## Google Slides
+
+* https://docs.google.com/presentation/d/1BGN3w8bC1VH9pO0LSOj2HkoqEgWpkW-U6dasfCdafZY/edit?usp=sharing
 
 Team - Group 1 (5)
 * Charlotte Large (charlotte-la)
