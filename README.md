@@ -73,10 +73,10 @@ https://user-images.githubusercontent.com/111912050/210833330-59424d19-94c4-4f24
 
 ## Final Contribution from the team members:
 * Charlotte - Data cleaning, prepared slides (google slides-50%)
-* Vivian - SQL (absent for presentation)
+* Farjana - Project Proposal, Build complete multipage dash app, MongoDB and PostgreSQL uploads & retrive data from them to display on the app, and complete README writeup
 * Grace - Data cleaning
 * Helen - Data cleaning, initial plan write-up, prepared slides (google slides-50%) and SQL
-* Farjana - Proposal, Build complete multipage dash app, MongoDB and PostgreSQL uploads and Retrive data from them to display on App, and complete README writeup
+* Vivian - SQL (absent for presentation)
 
 ## Files for reference:
 * Project (initial) proposal - (https://github.com/fbrowther/Project3-Group1/blob/main/Project%203%20Group1%20PROPOSAL.docx)
