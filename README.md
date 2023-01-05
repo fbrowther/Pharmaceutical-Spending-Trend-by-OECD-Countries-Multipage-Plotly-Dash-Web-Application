@@ -17,7 +17,7 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
 #### Project Plan: 
 1. Create a multipage Dash App that displayes the analysed data in the form of interactive visualisations that can be selected by years, countries, and continents. 
 Here is the recording of the final app I developed.
-![Multipage Dash App](https://user-images.githubusercontent.com/111912050/210579960-1a9b710c-f33f-4e41-bb4d-8c5e2193dd95.mov)
+![Multipage Dash App](https://user-images.githubusercontent.com/111912050/210801199-141eda54-06d1-4808-ad30-dcabf571d272.mov)
 
 
 ![Multipage Dash App](https://github.com/fbrowther/Project3-Group1/blob/main/Screen_recording_for_app_AdobeExpress.mp4)
