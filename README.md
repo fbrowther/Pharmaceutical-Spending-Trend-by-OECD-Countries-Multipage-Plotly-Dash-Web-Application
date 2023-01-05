@@ -15,7 +15,7 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
 4. by per capita (USD) (using economy-wide PPPs)
 
 ## Technologies used in the project: 
-Programming language used - Python and SQL
+Programming languages used - Python and SQL
 1. PostgreSQL (with PgAdmin)
 2. MongoDB Compass,
 3. Python (Visual Studio Code and Jupyter Notebook)
