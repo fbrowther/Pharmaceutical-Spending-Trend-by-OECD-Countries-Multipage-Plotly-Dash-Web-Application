@@ -56,12 +56,10 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
 * Helen - Data cleaning, initial plan write-up, presentation (google slides-50%) and SQL
 * Farjana - Proposal, Build complete multipage dash app, MongoDB and PostgreSQL uploads and Retrive data from them to display on App, and final writeup
 
-## 
-Files to be looked at are -
-Project (initial) proposal -
-Deployable Final Plotly Dash Multipage App related files -
-Presentation -
-
+## Files for reference:
+* Project (initial) proposal -
+* Deployable Final Plotly Dash Multipage App related files -
+* Presentation -
 
 
 - - - 
