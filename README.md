@@ -22,20 +22,21 @@ Here is the recording of the final app I developed.
 2. The Dash App also displays the 'data table' retrieved from the MongoDB database. This database can be updated periodically to display more recent data and update the visualisations on the app.
 ![alt text](https://github.com/fbrowther/Project3-Group1/blob/main/Plotly%20Dash%20Multipage%20-%20Farjana/assets/Mongodb%20Pharma_db.png)
 
-#### Technologies employed: 
+#### Technologies used: 
+Programming language used - Python and SQL
 1. PostgreSQL (with PgAdmin)
 2. MongoDB Compass,
 3. Python (Visual Studio Code and Jupiter Notebook)
 4. Flask
 5. Plotly Dash (plotly express)
-6. Dash multipage
+6. Dash Multi-Page Apps
 7. Dash Callbacks
 8. Dash datatable
 9. Dash Core Components (dcc)
 10. Dash HTML Components (dhc)
 11. Dash Bootstrap Components (dbc)
 
-#### Methodology:
+#### Methods:
 1. Source data, clean and upload onto PostgreSQL and/or MongoDB (above)
 ![alt text](https://github.com/fbrowther/Project3-Group1/blob/main/Plotly%20Dash%20Multipage%20-%20Farjana/assets/Pharmadata%20table%20in%20SQL.png)
 2. Retrieve the data from either PostgreSQL/MongoDB and display on the multipage Dash App
