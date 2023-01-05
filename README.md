@@ -19,7 +19,7 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
 * https://data.oecd.org/healthres/pharmaceutical-spending.htm
 
 ## Technologies used in the project: 
-Programming languages used - Python and SQL
+Programming languages - Python and SQL
 1. PostgreSQL (with PgAdmin)
 2. MongoDB Compass,
 3. Python (Visual Studio Code and Jupyter Notebook)
@@ -86,6 +86,7 @@ https://user-images.githubusercontent.com/111912050/210833330-59424d19-94c4-4f24
 - - - 
 [Project 3 Rubric](https://docs.google.com/document/d/1QUqS6glykg0RTwGe4pNwHNrlmnhDqc2RsyfgtZHijR4/edit)
 - - -
+
 ## Google Slides
 * https://docs.google.com/presentation/d/1BGN3w8bC1VH9pO0LSOj2HkoqEgWpkW-U6dasfCdafZY/edit?usp=sharing
 - - -
