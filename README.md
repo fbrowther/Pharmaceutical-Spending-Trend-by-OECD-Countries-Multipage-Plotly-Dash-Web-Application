@@ -13,18 +13,8 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
 2. as a percentage of the total health spending/ share of the total health spending, 
 3. Total spending as a Percentage of GDP
 4. by per capita (USD) (using economy-wide PPPs)
-  
-#### Project Plan: 
-1. Create a multipage Dash App that displayes the analysed data in the form of interactive visualisations that can be selected by years, countries, and continents. 
-Here is the recording of the final app I developed.
-![Multipage Dash App](https://user-images.githubusercontent.com/111912050/210801199-141eda54-06d1-4808-ad30-dcabf571d272.mov)
 
-
-
-2. The Dash App also displays the 'data table' retrieved from the MongoDB database. This database can be updated periodically to display more recent data and update the visualisations on the app.
-![alt text](https://github.com/fbrowther/Project3-Group1/blob/main/Plotly%20Dash%20Multipage%20-%20Farjana/assets/Mongodb%20Pharma_db.png)
-
-#### Technologies used: 
+#### Technologies used in the project: 
 Programming language used - Python and SQL
 1. PostgreSQL (with PgAdmin)
 2. MongoDB Compass,
@@ -37,6 +27,16 @@ Programming language used - Python and SQL
 9. Dash Core Components (dcc)
 10. Dash HTML Components (dhc)
 11. Dash Bootstrap Components (dbc)
+
+  
+#### Project Plan: 
+1. Create a multipage Dash App that displayes the analysed data in the form of interactive visualisations that can be selected by years, countries, and continents. 
+Here is the recording of the final app I developed.
+![Multipage Dash App](https://user-images.githubusercontent.com/111912050/210801199-141eda54-06d1-4808-ad30-dcabf571d272.mov)
+
+
+2. The Dash App also displays the 'data table' retrieved from the MongoDB database. This database can be updated periodically to display more recent data and update the visualisations on the app.
+![alt text](https://github.com/fbrowther/Project3-Group1/blob/main/Plotly%20Dash%20Multipage%20-%20Farjana/assets/Mongodb%20Pharma_db.png)
 
 #### Methods:
 1. Source data, clean and upload onto PostgreSQL and/or MongoDB (above)
