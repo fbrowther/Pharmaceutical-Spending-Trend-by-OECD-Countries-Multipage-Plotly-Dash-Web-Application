@@ -1,5 +1,9 @@
 # Project 3: Pharmaceutical Drug Spending
 
+## Google Slides
+* https://docs.google.com/presentation/d/1BGN3w8bC1VH9pO0LSOj2HkoqEgWpkW-U6dasfCdafZY/edit?usp=sharing
+- - -
+
 ## Objective of this Project:
 ![alt text](https://github.com/fbrowther/Project3-Group1/blob/main/Plotly%20Dash%20Multipage%20-%20Farjana/assets/OECD%20LOGO.png)
 
@@ -87,9 +91,6 @@ https://user-images.githubusercontent.com/111912050/210833330-59424d19-94c4-4f24
 [Project 3 Rubric](https://docs.google.com/document/d/1QUqS6glykg0RTwGe4pNwHNrlmnhDqc2RsyfgtZHijR4/edit)
 - - -
 
-## Google Slides
-* https://docs.google.com/presentation/d/1BGN3w8bC1VH9pO0LSOj2HkoqEgWpkW-U6dasfCdafZY/edit?usp=sharing
-- - -
 
 Team - Group 1 (5)
 * Charlotte Large (charlotte-la)
