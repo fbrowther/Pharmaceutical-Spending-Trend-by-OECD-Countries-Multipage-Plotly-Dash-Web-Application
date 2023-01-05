@@ -14,6 +14,10 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
 3. Total spending as a Percentage of GDP
 4. by per capita (USD) (using economy-wide PPPs)
 
+## Data source: 
+* https://datahub.io/core/pharmaceutical-drug-spending#readme and 
+* https://data.oecd.org/healthres/pharmaceutical-spending.htm
+
 ## Technologies used in the project: 
 Programming languages used - Python and SQL
 1. PostgreSQL (with PgAdmin)
@@ -27,14 +31,12 @@ Programming languages used - Python and SQL
 9. Dash Core Components (dcc)
 10. Dash HTML Components (dhc)
 11. Dash Bootstrap Components (dbc)
-
   
 ## Project Plan: 
 1. Create a multipage Dash App that displayes the analysed data in the form of interactive visualisations that can be selected by years, countries, and continents. 
 Here is the recording of the final app I developed.
 
 https://user-images.githubusercontent.com/111912050/210833330-59424d19-94c4-4f24-8704-bbe7a9c3e253.mp4
-
 
 2. The Dash App also displays the 'data table' retrieved from the MongoDB database. This database can be updated periodically to display more recent data and update the visualisations on the app.
 ![alt text](https://github.com/fbrowther/Project3-Group1/blob/main/Plotly%20Dash%20Multipage%20-%20Farjana/assets/Mongodb%20Pharma_db.png)
@@ -84,18 +86,13 @@ https://user-images.githubusercontent.com/111912050/210833330-59424d19-94c4-4f24
 - - - 
 [Project 3 Rubric](https://docs.google.com/document/d/1QUqS6glykg0RTwGe4pNwHNrlmnhDqc2RsyfgtZHijR4/edit)
 - - -
-
-## Data source: 
-* https://datahub.io/core/pharmaceutical-drug-spending#readme and 
-* https://data.oecd.org/healthres/pharmaceutical-spending.htm
-
-- - -
 ## Google Slides
 * https://docs.google.com/presentation/d/1BGN3w8bC1VH9pO0LSOj2HkoqEgWpkW-U6dasfCdafZY/edit?usp=sharing
+- - -
 
 Team - Group 1 (5)
 * Charlotte Large (charlotte-la)
-* Grace Cheuk (gw-sc)
 * Farjana Rowther (fbrowther)
+* Grace Cheuk (gw-sc)
 * Helen Vlachou (EleniQ)
 * Vivian Nnadozie (vnnadozie)
