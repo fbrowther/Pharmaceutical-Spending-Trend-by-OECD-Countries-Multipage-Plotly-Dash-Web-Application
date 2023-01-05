@@ -14,7 +14,7 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
 3. Total spending as a Percentage of GDP
 4. by per capita (USD) (using economy-wide PPPs)
 
-#### Technologies used in the project: 
+## Technologies used in the project: 
 Programming language used - Python and SQL
 1. PostgreSQL (with PgAdmin)
 2. MongoDB Compass,
