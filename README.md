@@ -34,6 +34,10 @@ Programming language used - Python and SQL
 Here is the recording of the final app I developed.
 ![Multipage Dash App](https://user-images.githubusercontent.com/111912050/210801199-141eda54-06d1-4808-ad30-dcabf571d272.mov)
 ![Multipage Dash App](https://user-images.githubusercontent.com/111912050/210812477-2046cf72-9bf1-4064-a1e1-3914ec5e1dcc.mp4)
+
+https://user-images.githubusercontent.com/111912050/210833330-59424d19-94c4-4f24-8704-bbe7a9c3e253.mp4
+
+
 ![Multipage Dash App](https://github.com/fbrowther/Project3-Group1/blob/main/Plotly%20Dash%20Multipage%20-%20Farjana/Final%20app.mp4)
 
 
