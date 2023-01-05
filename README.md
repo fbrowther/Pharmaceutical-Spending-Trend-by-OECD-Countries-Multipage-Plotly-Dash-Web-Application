@@ -18,7 +18,7 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
 Programming language used - Python and SQL
 1. PostgreSQL (with PgAdmin)
 2. MongoDB Compass,
-3. Python (Visual Studio Code and Jupiter Notebook)
+3. Python (Visual Studio Code and Jupyter Notebook)
 4. Flask
 5. Plotly Dash (plotly express)
 6. Dash Multi-Page Apps
