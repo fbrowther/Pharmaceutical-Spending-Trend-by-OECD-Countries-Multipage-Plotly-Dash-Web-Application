@@ -44,10 +44,10 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
 
     
 ## Final Contribution from the team members:
-* Charlotte - Data cleaning
+* Charlotte - Data cleaning, Presentation(50%)
 * Vivian - SQL
 * Grace - Data cleaning
-* Helen - Data cleaning, initial plan write-up and SQL
+* Helen - Data cleaning, initial plan write-up, presentation (50%) and SQL
 * Farjana - Proposal, Build complete multipage dash app, MongoDB and PostgreSQL uploads and Retrive data from them to display on App, and final writeup
 
 - - - 
