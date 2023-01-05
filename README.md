@@ -66,8 +66,8 @@ Here is the recording of the final app I developed.
 3. Majority of the countries belonging to this forum concentrated around Europe and their spending was proportional to their GDP (visualization displayed on map)
 4. Since 1970, there was a slow and steady increase in the spending of the majority of the economies proportional to their increase in GDP.
 5. Taking into account the cumulative spend of all the countries for the entire duration of the dataset, USA still was the single largest spender on pharmaceutical drugs followed by Japan, Germany, France, Italy, Mexico, and Canada.
-6. There exist a positive effect of countries spending more or proportionaltely higher on pharmaceuticals with regards to timely accessibility to medicine of their population.
-7. However, there also a exist negative connotation to this overall increased spening on pharmaceutical. This trend in spending of high income economies is indicative of this society's undebatable reliance on over the counter medications as the decades have passed. This is an crucial and important observation that needs to be investigated by the health authoriries of these nations. 
+6. There exist a positive effect of countries spending more or proportionaltely higher on pharmaceuticals with regards to timely accessibility of their population to medicine.
+7. However, there also exist a negative connotation to this overall increased spening on pharmaceuticals of high income economies. This trend is indicative of these society's undebatable increased reliance on over the counter medications as the decades have passed. This is an crucial and important observation that needs to be investigated by the health authorities of these nations. 
 
 ## Final Contribution from the team members:
 * Charlotte - Data cleaning, prepared slides (google slides-50%)
