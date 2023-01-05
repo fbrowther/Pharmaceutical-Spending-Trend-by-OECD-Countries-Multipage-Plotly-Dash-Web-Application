@@ -58,7 +58,7 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
 
 ## Files for reference:
 * Project (initial) proposal - (https://github.com/fbrowther/Project3-Group1/blob/main/Project%203%20Group1%20PROPOSAL.docx)
-* Deployable Final Plotly Dash Multipage App related files -
+* Deployable Final Plotly Dash Multipage App related files - (https://github.com/fbrowther/Project3-Group1/tree/main/Plotly%20Dash%20Multipage%20-%20Farjana)
 * Presentation - (https://github.com/fbrowther/Project3-Group1/blob/main/Project%203%20Presentation.pdf)
 
 
