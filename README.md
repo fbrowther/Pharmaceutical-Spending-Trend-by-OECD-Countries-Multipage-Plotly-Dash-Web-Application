@@ -42,29 +42,28 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
     
     g. Data_table - Data table displays all the data from OECD that was used in building the data visualistion app.
 
-    
+## Findings and Conclusions:
+
+
+
+
 ## Final Contribution from the team members:
-* Charlotte - Data cleaning, Presentation(50%)
+* Charlotte - Data cleaning, Presentation (google slides-50%)
 * Vivian - SQL
 * Grace - Data cleaning
-* Helen - Data cleaning, initial plan write-up, presentation (50%) and SQL
+* Helen - Data cleaning, initial plan write-up, presentation (google slides-50%) and SQL
 * Farjana - Proposal, Build complete multipage dash app, MongoDB and PostgreSQL uploads and Retrive data from them to display on App, and final writeup
 
 - - - 
-
 [Project 3 Rubric](https://docs.google.com/document/d/1QUqS6glykg0RTwGe4pNwHNrlmnhDqc2RsyfgtZHijR4/edit)
-
-
 - - -
 
 ## Data source: 
-
 * https://datahub.io/core/pharmaceutical-drug-spending#readme and 
 * https://data.oecd.org/healthres/pharmaceutical-spending.htm
 
 - - -
 ## Google Slides
-
 * https://docs.google.com/presentation/d/1BGN3w8bC1VH9pO0LSOj2HkoqEgWpkW-U6dasfCdafZY/edit?usp=sharing
 
 Team - Group 1 (5)
