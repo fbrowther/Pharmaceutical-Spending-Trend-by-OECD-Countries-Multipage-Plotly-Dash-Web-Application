@@ -29,7 +29,7 @@ Programming language used - Python and SQL
 11. Dash Bootstrap Components (dbc)
 
   
-#### Project Plan: 
+## Project Plan: 
 1. Create a multipage Dash App that displayes the analysed data in the form of interactive visualisations that can be selected by years, countries, and continents. 
 Here is the recording of the final app I developed.
 ![Multipage Dash App](https://user-images.githubusercontent.com/111912050/210801199-141eda54-06d1-4808-ad30-dcabf571d272.mov)
@@ -38,7 +38,7 @@ Here is the recording of the final app I developed.
 2. The Dash App also displays the 'data table' retrieved from the MongoDB database. This database can be updated periodically to display more recent data and update the visualisations on the app.
 ![alt text](https://github.com/fbrowther/Project3-Group1/blob/main/Plotly%20Dash%20Multipage%20-%20Farjana/assets/Mongodb%20Pharma_db.png)
 
-#### Methods:
+## Methods:
 1. Source data, clean and upload onto PostgreSQL and/or MongoDB (above)
 ![alt text](https://github.com/fbrowther/Project3-Group1/blob/main/Plotly%20Dash%20Multipage%20-%20Farjana/assets/Pharmadata%20table%20in%20SQL.png)
 2. Retrieve the data from either PostgreSQL/MongoDB and display on the multipage Dash App
