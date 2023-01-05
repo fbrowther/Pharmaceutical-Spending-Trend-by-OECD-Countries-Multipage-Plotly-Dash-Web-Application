@@ -20,10 +20,6 @@ Here is the recording of the final app I developed.
 ![Multipage Dash App](https://user-images.githubusercontent.com/111912050/210801199-141eda54-06d1-4808-ad30-dcabf571d272.mov)
 
 
-![Multipage Dash App](https://github.com/fbrowther/Project3-Group1/blob/main/Screen_recording_for_app_AdobeExpress.mp4)
-
-
-
 
 2. The Dash App also displays the 'data table' retrieved from the MongoDB database. This database can be updated periodically to display more recent data and update the visualisations on the app.
 ![alt text](https://github.com/fbrowther/Project3-Group1/blob/main/Plotly%20Dash%20Multipage%20-%20Farjana/assets/Mongodb%20Pharma_db.png)
