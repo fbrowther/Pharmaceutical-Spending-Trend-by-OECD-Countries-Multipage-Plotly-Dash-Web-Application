@@ -42,6 +42,19 @@ Here is the recording of the final app I developed.
     f. 'Spending by per capita' - by per capita (USD) 
     
     g. Data_table - Data table displays all the data from OECD that was used in building the data visualistion app.
+    
+## Technologies employed: 
+1. PostgreSQL (with PgAdmin)
+2. MongoDB Compass,
+3. Python (Visual Studio Code and Jupiter Notebook)
+4. Flask
+5. Plotly Dash (plotly express)
+6. Dash multipage
+7. Dash Callbacks
+8. Dash datatable
+9. Dash Core Components (dcc)
+10. Dash HTML Components (dhc)
+11. Dash Bootstrap Components (dbc)
 
 ## Findings and Conclusions:
 1. USA was the highest pharma spending nation among the OECD countries followed by Japan, Germany, France, UK, Spain, Italy, Mexico and Canada.
