@@ -20,7 +20,7 @@ Here is the recording of the final app I developed.
 ![Multipage Dash App](https://user-images.githubusercontent.com/111912050/210579960-1a9b710c-f33f-4e41-bb4d-8c5e2193dd95.mov)
 
 
-!(https://github.com/fbrowther/Project3-Group1/blob/main/Plotly%20Dash%20Multipage%20-%20Farjana/app_recording_AdobeExpress.mp4)
+![Multipage Dash App](https://github.com/fbrowther/Project3-Group1/blob/main/Screen_recording_for_app_AdobeExpress.mp4)
 
 
 
