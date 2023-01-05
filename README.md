@@ -70,10 +70,10 @@ Here is the recording of the final app I developed.
 7. Howeever, the negative connotation to this increased overall spening on pharmaceutical drugs of high income economies also is indicative of this society's undebatable reliance on over the counter medications as the decades have passed. This is an crucial and important observation that needs to be investigated by the health authoriries of these nations.
 
 ## Final Contribution from the team members:
-* Charlotte - Data cleaning, Presentation (google slides-50%)
+* Charlotte - Data cleaning, prepared slides (google slides-50%)
 * Vivian - SQL (absent from presentation)
 * Grace - Data cleaning
-* Helen - Data cleaning, initial plan write-up, presentation (google slides-50%) and SQL
+* Helen - Data cleaning, initial plan write-up, prepared slides (google slides-50%) and SQL
 * Farjana - Proposal, Build complete multipage dash app, MongoDB and PostgreSQL uploads and Retrive data from them to display on App, and final writeup
 
 ## Files for reference:
