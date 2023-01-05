@@ -33,7 +33,7 @@ Programming language used - Python and SQL
 1. Create a multipage Dash App that displayes the analysed data in the form of interactive visualisations that can be selected by years, countries, and continents. 
 Here is the recording of the final app I developed.
 ![Multipage Dash App](https://user-images.githubusercontent.com/111912050/210801199-141eda54-06d1-4808-ad30-dcabf571d272.mov)
-![Multipage Dash App](https://github.com/fbrowther/Project3-Group1/blob/main/Plotly%20Dash%20Multipage%20-%20Farjana/Final%20app.mp4)
+![Multipage Dash App](https://user-images.githubusercontent.com/111912050/210812477-2046cf72-9bf1-4064-a1e1-3914ec5e1dcc.mp4)
 
 
 2. The Dash App also displays the 'data table' retrieved from the MongoDB database. This database can be updated periodically to display more recent data and update the visualisations on the app.
