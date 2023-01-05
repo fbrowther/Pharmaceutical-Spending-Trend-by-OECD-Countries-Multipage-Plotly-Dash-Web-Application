@@ -34,7 +34,7 @@ Programming languages - Python and SQL
   
 ## Project Plan: 
 1. Create a multipage Dash App that displayes the analysed data in the form of interactive visualisations that can be selected by years, countries, and continents. 
-Here is the recording of the final app I developed.
+Here is the recording of the final app that was developed.
 
 https://user-images.githubusercontent.com/111912050/210833330-59424d19-94c4-4f24-8704-bbe7a9c3e253.mp4
 
