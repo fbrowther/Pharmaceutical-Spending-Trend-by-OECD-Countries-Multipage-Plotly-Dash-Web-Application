@@ -64,7 +64,7 @@ https://user-images.githubusercontent.com/111912050/210833330-59424d19-94c4-4f24
     
 ## Findings and Conclusions:
 1. USA was the highest spending nation among the OECD countries for pharmaceutical drugs; followed by Japan, Germany, France, UK, Spain, Italy, Mexico and Canada.
-2. There was a positive correlation between higher pharma spending of countries and their GDP per capita (countries with higher GDB per capita spent more!)
+2. There was a positive correlation between higher pharma spending of countries and their GDP per capita (countries with higher GDP per capita spent more!)
 3. Majority of the countries belonging to this forum concentrated around Europe and their spending was proportional to their GDP (visualization displayed on map)
 4. Since 1970, there was a slow and steady increase in the spending of the majority of the economies proportional to their increase in GDP.
 5. Taking into account the cumulative spend of all the countries for the entire duration of the dataset, USA still was the single largest spender on pharmaceutical drugs followed by Japan, Germany, France, Italy, Mexico, and Canada.
