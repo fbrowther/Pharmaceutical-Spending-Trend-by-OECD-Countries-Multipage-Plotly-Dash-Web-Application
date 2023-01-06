@@ -73,10 +73,10 @@ https://user-images.githubusercontent.com/111912050/210833330-59424d19-94c4-4f24
 
 
 ## Final Contribution from the team members:
-* Charlotte - Data cleaning, prepared slides (google slides-50%)
+* Charlotte - Data cleaning, prepared google slides-50%.
 * Farjana - Project Proposal, Build complete multipage dash app, MongoDB and PostgreSQL uploads & retrive data from them to display on the app, and complete README writeup
 * Grace - Data cleaning
-* Helen - Data cleaning, initial plan write-up, prepared slides (google slides-50%) and SQL
+* Helen - Data cleaning, initial plan write-up, prepared google slides-50% and SQL
 * Vivian - SQL (absent for presentation)
 
 ## Google Slides
