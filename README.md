@@ -18,10 +18,6 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
 * https://datahub.io/core/pharmaceutical-drug-spending#readme and 
 * https://data.oecd.org/healthres/pharmaceutical-spending.htm
 
-## Google Slides
-* https://docs.google.com/presentation/d/1BGN3w8bC1VH9pO0LSOj2HkoqEgWpkW-U6dasfCdafZY/edit?usp=sharing
-- - -
-
 ## Technologies used in the project: 
 Programming languages - Python and SQL
 1. PostgreSQL (with PgAdmin)
@@ -74,6 +70,10 @@ https://user-images.githubusercontent.com/111912050/210833330-59424d19-94c4-4f24
 5. Taking into account the cumulative spend of all the countries for the entire duration of the dataset, USA still was the single largest spender on pharmaceutical drugs followed by Japan, Germany, France, Italy, Mexico, and Canada.
 6. There exist a positive effect of countries spending more or proportionaltely higher on pharmaceuticals with regards to timely accessibility of their population to medicine.
 7. However, there also exists a negative connotation to this overall increased spending of these high income economies. This trend is indicative of the society's (undebatable) increased reliance on over the counter medications and less reliance on lifestyle changes, as the decades have passed. This is an crucial and important observation that needs to be investigated by the health authorities. 
+
+## Google Slides
+* https://docs.google.com/presentation/d/1BGN3w8bC1VH9pO0LSOj2HkoqEgWpkW-U6dasfCdafZY/edit?usp=sharing
+- - -
 
 ## Final Contribution from the team members:
 * Charlotte - Data cleaning, prepared slides (google slides-50%)
