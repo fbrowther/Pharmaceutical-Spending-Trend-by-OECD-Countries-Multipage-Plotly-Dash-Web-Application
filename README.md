@@ -72,7 +72,7 @@ https://user-images.githubusercontent.com/111912050/210833330-59424d19-94c4-4f24
 7. However, there also exists a negative connotation to this overall increased spending of these high income economies. This trend is indicative of the society's (undebatable) increased reliance on over the counter medications and less reliance on lifestyle changes, as the decades have passed. This is an crucial and important observation that needs to be investigated by the health authorities. 
 
 
-## Final Contribution from the team members:
+## Final contribution from the team members:
 * Charlotte - Data cleaning, prepared google slides-50%.
 * Farjana - Project Proposal, Build complete multipage dash app, MongoDB and PostgreSQL uploads & retrive data from them to display on the app, and complete README writeup
 * Grace - Data cleaning
