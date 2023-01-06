@@ -1,9 +1,5 @@
 # Project 3: Pharmaceutical Drug Spending
 
-## Google Slides
-* https://docs.google.com/presentation/d/1BGN3w8bC1VH9pO0LSOj2HkoqEgWpkW-U6dasfCdafZY/edit?usp=sharing
-- - -
-
 ## Objective of this Project:
 ![alt text](https://github.com/fbrowther/Project3-Group1/blob/main/Plotly%20Dash%20Multipage%20-%20Farjana/assets/OECD%20LOGO.png)
 
@@ -21,6 +17,10 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
 ## Data source: 
 * https://datahub.io/core/pharmaceutical-drug-spending#readme and 
 * https://data.oecd.org/healthres/pharmaceutical-spending.htm
+
+## Google Slides
+* https://docs.google.com/presentation/d/1BGN3w8bC1VH9pO0LSOj2HkoqEgWpkW-U6dasfCdafZY/edit?usp=sharing
+- - -
 
 ## Technologies used in the project: 
 Programming languages - Python and SQL
