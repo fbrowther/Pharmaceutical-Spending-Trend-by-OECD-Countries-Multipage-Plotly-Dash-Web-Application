@@ -18,7 +18,7 @@ Pharmaceutical Drug Spending has been calculated as the following indicators -
 * https://datahub.io/core/pharmaceutical-drug-spending#readme and 
 * https://data.oecd.org/healthres/pharmaceutical-spending.htm
 
-## Technologies used in the project: 
+## Technologies and libraries used in the project: 
 Programming languages - Python and SQL
 1. PostgreSQL (with PgAdmin)
 2. MongoDB Compass,
@@ -26,7 +26,7 @@ Programming languages - Python and SQL
 4. Flask
 5. Plotly Dash (plotly express)
 6. Dash Multi-Page Apps
-7. Dash Callbacks
+7. Dash Callback, Input, Output
 8. Dash datatable
 9. Dash Core Components (dcc)
 10. Dash HTML Components (dhc)
