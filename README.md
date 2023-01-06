@@ -84,7 +84,7 @@ https://user-images.githubusercontent.com/111912050/210833330-59424d19-94c4-4f24
 
 ## Files for reference:
 * Project (initial) proposal - (https://github.com/fbrowther/Project3-Group1/blob/main/Project%203%20Group1%20PROPOSAL.docx)
-* Deployable Final Plotly Dash Multipage App and its related files - (https://github.com/fbrowther/Project3-Group1/tree/main/Plotly%20Dash%20Multipage%20-%20Farjana)
+* (Deployable Final) Plotly Dash Multipage App and its related files - (https://github.com/fbrowther/Project3-Group1/tree/main/Plotly%20Dash%20Multipage%20-%20Farjana)
 * Presentation - (https://github.com/fbrowther/Project3-Group1/blob/main/Project%203%20Presentation.pdf)
 
 - - - 
