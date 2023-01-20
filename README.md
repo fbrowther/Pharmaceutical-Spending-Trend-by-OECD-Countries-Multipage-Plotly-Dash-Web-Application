@@ -76,7 +76,7 @@ https://user-images.githubusercontent.com/111912050/210833330-59424d19-94c4-4f24
 * Farjana - Project Proposal, Build complete multipage dash app, MongoDB, PostgreSQL, retrive data from them to display on the app, and complete README writeup
 * Grace - Data cleaning
 * Helen - Data cleaning, initial plan write-up, prepared google slides-50% and SQL
-* Vivian - SQL (absent for presentation)
+* Vivian - SQL
 
 ## Google Slides
 * https://docs.google.com/presentation/d/1BGN3w8bC1VH9pO0LSOj2HkoqEgWpkW-U6dasfCdafZY/edit?usp=sharing
