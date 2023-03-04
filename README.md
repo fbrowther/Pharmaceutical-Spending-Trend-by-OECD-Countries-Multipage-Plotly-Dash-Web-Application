@@ -1,4 +1,4 @@
-# Project 3: Pharmaceutical Drug Spending
+# Pharmaceutical Spending Trend by OECD Countries - Multipage Plotly Dash Web Application
 
 ## Objective of this Project:
 ![alt text](https://github.com/fbrowther/Project3-Group1/blob/main/Plotly%20Dash%20Multipage%20-%20Farjana/assets/OECD%20LOGO.png)
