@@ -1,4 +1,4 @@
-# Pharmaceutical Spending Trend by OECD Countries - Multipage Plotly Dash Web Application
+# Pharmaceutical Spending Trend by OECD Countries 
 
 ## Objective of this Project:
 ![alt text](https://github.com/fbrowther/Project3-Group1/blob/main/Plotly%20Dash%20Multipage%20-%20Farjana/assets/OECD%20LOGO.png)
